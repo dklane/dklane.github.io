@@ -8,10 +8,19 @@
 layout: home
 ---
 
-Cayman Blog Theme is a responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+It is an honor to work with the staff and students at Bryan Station. 
+After working at IBM, Lexmark, and Mathworks, I am pleased to return to Bryan Station as a teacher and alumni. 
+Our school has many wonderful programs and I am excited to be part of the
+<a href="https://www.fcps.net/domain/5384">Information Technology Academy</a>.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+My courses include 
+[Computer Literacy]({{ site.baseurl }}{% link complit.md %}),
+[Computational Thinking]({{ site.baseurl }}{% link compthink.md %}),
+[Cyber Literacy]({{ site.baseurl }}{% link cyberlit.md %}),
+[Introduction to Programming]({{ site.baseurl }}{% link introprog.md %}),
 
-Have a look at the Github page for more information.
+Visit <a href="https://planbook.com/planbook.html?t=1393002&amp;k=bshs">Planbook</a> to see what we are doing in each of these classes.
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+David Lane
+IT Teacher
+[email-obfuscate email="david.lane@fayette.kyschools.us"]

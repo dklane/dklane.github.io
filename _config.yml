@@ -14,10 +14,10 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Lore Pirri"
+author: "David Lane"
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: dklane
 #  site:
 facebook:
   #publisher: 1592372034171500
