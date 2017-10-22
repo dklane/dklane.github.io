@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IntoProg
+title: IntroProg
 tagline: Introduction to Programming
 ---
 Intro to Programming is course number110201 in the 
