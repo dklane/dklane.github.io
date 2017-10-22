@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizations
+title: Groups
 tagline: Local organizations of interest
 ---
 <ul>
