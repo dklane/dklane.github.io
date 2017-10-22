@@ -21,6 +21,6 @@ My courses include
 
 Visit <a href="https://planbook.com/planbook.html?t=1393002&amp;k=bshs">Planbook</a> to see what we are doing in each of these classes.
 
-David Lane
-IT Teacher
-[email-obfuscate email="david.lane@fayette.kyschools.us"]
+David Lane,
+IT Teacher,
+[david.lane at fayette.kyschools.us]

@@ -16,12 +16,12 @@ theme: # leave it empty
 # social
 author: "David Lane"
 image: /thumbnail-jumbo.png
-twitter:
-  username: dklane
+#twitter:
+#  username: dklane
 #  site:
-facebook:
+#facebook:
   #publisher: 1592372034171500
   #profile_id: 1809805629
-  app_id: 1798910940422432 # cayman-blog
+  #app_id: 1798910940422432 # cayman-blog
   #authors: lorepirri
 #  admins:
