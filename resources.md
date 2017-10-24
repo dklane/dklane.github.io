@@ -42,6 +42,15 @@ Potential resources
  	<li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
  	<li><a href="http://www.zybooks.com/">zyBooks</a></li>
  	<li><a href="https://codehs.com/info/">CodeHS</a></li>
+ 	<ul>
+ 	    <li><a href="https://codehs.com/go/F5C35">Web Design</a></li>
+ 	    <li><a href="https://codehs.com/go/2951C">Computing Ideas</a></li>
+ 	    <li><a href="https://codehs.com/go/89098">JavaScript</a></li>
+ 	    <li><a href="https://codehs.com/go/8C659">Python</a></li>
+ 	    <li><a href="https://codehs.com/go/7D4CD">CS Principles</a></li>
+ 	    <li><a href="https://codehs.com/go/48D9B">AP Java</a></li>
+ 	    <li><a href="https://codehs.com/go/20BF0">Virtual Reality</a></li>
+ 	</ul>
  	<li><a href="https://www.apluscompsci.com/">APlus CS</a></li>
  	<li><a href="https://edhesive.com/">Edhesive</a></li>
  	<li><a href="https://www.pltw.org/our-programs/pltw-computer-science">Project Lead the Way</a></li>
