@@ -3,7 +3,7 @@ layout: post
 title: "Port from WordPress to Jekyll"
 ---
 
-Ported this web site from <http://blogs.fcps.net/lane>.
+This web site was ported from <http://blogs.fcps.net/lane>.
 
 This provided an opportunity to learn about [GitHub pages](https://pages.github.com/) and 
 [Jekyll](https://jekyllrb.com/). 
