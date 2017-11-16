@@ -39,7 +39,7 @@ Advanced Topics
 Potential resources
 <ul>
  	<li><a href="http://inventwithpython.com/">Invent with Python</a></li>
- <li><a href="https://http://programarcadegames.com/">Program Arcade Games
+ <li><a href="http://programarcadegames.com/">Program Arcade Games
 With Python And Pygame</a></li>
  <li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
  <li><a href="https://www.codecademy.com/">Codecademy</a></li>
