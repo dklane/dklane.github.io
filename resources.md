@@ -39,10 +39,10 @@ Advanced Topics
 Potential resources
 <ul>
  	<li><a href="http://inventwithpython.com/">Invent with Python</a></li>
- <li><a href="http://programarcadegames.com/">Program Arcade Games
-With Python And Pygame</a></li>
- <li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
- <li><a href="https://www.codecademy.com/">Codecademy</a></li>
+  <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
+  <li><a href="http://mcsp.wartburg.edu/zelle/python/">Python Programming: An Introduction to Computer Science</a></li>
+  <li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
+  <li><a href="https://www.codecademy.com/">Codecademy</a></li>
  	<li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
  	<li><a href="http://www.zybooks.com/">zyBooks</a></li>
  	<li><a href="https://codehs.com/info/">CodeHS</a></li>
