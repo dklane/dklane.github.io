@@ -16,8 +16,8 @@ CS and Applications
 </ul>
 Microcontrollers
 <ul>
- 	<li><a href="https://www.sparkfun.com/products/11519">MaKey MaKey Kit</a></li>
- 	<li><a href="https://www.sparkfun.com/products/13844">Sparkfun Inventor's Kit</a></li>
+ 	<li><a href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board">Sparkfun Inventor's Kit</a></li>
+  <li><a href="https://www.sparkfun.com/products/11519">MaKey MaKey Kit</a></li>
 </ul>
 Advanced Topics
 <ul>
