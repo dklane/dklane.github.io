@@ -63,5 +63,9 @@ Potential resources
  	<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
  	<li><a href="https://advancesinap.collegeboard.org/stem/computer-science-principles/curricula-pedagogical-support">CollegeBoard: Providers of CSP Curricula</a></li>
 </ul>
-
+Apple IIe documentation
+<ul>
+ 	<li><a href="http://apple2online.com/index.php?p=1_8_Applesoft">Applesoft manuals</a></li>
+  <li><a href="http://apple2online.com/index.php?p=1_13_Apple-II-IIe">Apple IIe manuals</a></li>
+</ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
