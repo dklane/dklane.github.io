@@ -16,7 +16,8 @@ CS and Applications
 </ul>
 Microcontrollers
 <ul>
- 	<li><a href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board">Sparkfun Inventor's Kit</a></li>
+ 	<li><a href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board">Experiments for our Sparkfun Inventor's Kit</a></li>
+  <li><a href="https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40?_ga=2.185758890.2055072175.1515119813-165513142.1512624028">Experiments for a similar Sparkfun Inventor's Kit</a></li>
   <li><a href="https://www.sparkfun.com/products/11519">MaKey MaKey Kit</a></li>
 </ul>
 Advanced Topics
