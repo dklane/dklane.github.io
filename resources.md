@@ -13,6 +13,8 @@ CS and Applications
  	<li><a href="https://code.org/educate/curriculum/express-course">Computer Science Fundamentals - Express</a> - an intro to CS topics</li>
  	<li><a href="https://scratch.mit.edu/">Scratch</a> - Create stories, games, and animations</li>
  	<li><a href="http://scratched.gse.harvard.edu/guide/">Scratched</a> - an intro to Scratch programming</li>
+  <li><a href="https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-">How Computers Work</a> - videos from code.org</li>
+   <li><a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">How The Internet Works</a> - videos from code.org</li>
 </ul>
 Microcontrollers
 <ul>
