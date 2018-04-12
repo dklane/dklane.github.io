@@ -23,6 +23,13 @@ Microcontrollers
   <li><a href="https://www.sparkfun.com/products/11519">MaKey MaKey Kit</a></li>
   <li><a href="http://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438">ODROID-C2</a> is an alternative to the RaspberryPi</li>
 </ul>
+Game Design
+<ul>
+ 	<li><a href="http://www.clickteam.com/clickteam-fusion-2-5-free-edition">Clickteam Fusion</a> for 2D games</li>
+  <li><a href="https://unity3d.com/">Unity</a> for 3D games</li>
+  <li><a href="https://www.unrealengine.com/en-US/what-is-unreal-engine-4">Unreal</a> for 3D games</li>
+  <li><a href="http://runjumpdev.org/">RunJumpDev</a> - A people-powered nonprofit created to grow and cultivate the local game development community in KY</li>
+</ul>
 Advanced Topics
 <ul>
  	<li><a href="https://www.edx.org">edX</a> - a collection of online classes</li>
