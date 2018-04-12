@@ -29,6 +29,7 @@ Game Design
   <li><a href="https://unity3d.com/">Unity</a> for 3D games</li>
   <li><a href="https://www.unrealengine.com/en-US/what-is-unreal-engine-4">Unreal</a> for 3D games</li>
   <li><a href="http://runjumpdev.org/">RunJumpDev</a> - A people-powered nonprofit created to grow and cultivate the local game development community in KY</li>
+ <li><a href="https://www.slant.co/topics/8080/~3d-game-engines-for-beginners">3D game engines for beginners</a></li>
 </ul>
 Advanced Topics
 <ul>
