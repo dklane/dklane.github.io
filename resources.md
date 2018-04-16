@@ -23,6 +23,14 @@ Microcontrollers
   <li><a href="https://www.sparkfun.com/products/11519">MaKey MaKey Kit</a></li>
   <li><a href="http://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438">ODROID-C2</a> is an alternative to the RaspberryPi</li>
 </ul>
+VEX Robotics
+<ul>
+ 	<li><a href="https://www.vexrobotics.com/">VEX Robotics</a></li>
+  <li><a href="http://www.robotc.net/">RobotC</a></li>
+  <li><a href="http://help.robotc.net/WebHelpVEX/index.htm">RobotC Users Manual</a></li>
+  <li><a href="http://www.education.rec.ri.cmu.edu/products/teaching_robotc_vex/">RobotC curriculum</a> from Carnegie Mellon</li>
+  <li><a href="https://curriculum.vexrobotics.com/curriculum.html">VEX EDR curriculum</a> (more mechanical than programming)</li>
+</ul>
 Game Design
 <ul>
  	<li><a href="http://www.clickteam.com/clickteam-fusion-2-5-free-edition">Clickteam Fusion</a> for 2D games</li>
