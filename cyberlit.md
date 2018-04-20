@@ -4,7 +4,7 @@ title: CyberLit
 tagline: Cyber Literacy
 ---
 Cyber Literacy is course number 110222 in the 
-<a href="https://education.ky.gov/CTE/ctepa/Documents/IT--2017-2018.pdf">IT Program of Studies</a>. 
+<a href="https://education.ky.gov/CTE/ctepa/Documents/IT--2017-2019.pdf">IT Program of Studies</a>. 
 Its location in the Cyber Engineering pathway is described on page 10 and 
 the course description is on page 37.
 
