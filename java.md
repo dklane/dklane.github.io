@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IntroProg
-tagline: Introduction to Programming
+title: Java
+tagline: Programming in Java
 exclude: true
 ---
 Intro to Programming is course number110201 in the 

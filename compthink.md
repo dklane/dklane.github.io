@@ -2,6 +2,7 @@
 layout: page
 title: CompThink
 tagline: Computational Thinking
+exclude: true
 ---
 Computational Thinking is course number 110251 in the 
 <a href="https://education.ky.gov/CTE/ctepa/Documents/IT--2017-2019.pdf">IT Program of Studies</a>. 

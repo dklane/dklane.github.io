@@ -2,6 +2,7 @@
 layout: page
 title: Music
 tagline: Streaming music sources
+exclude: true
 ---
 <ul>
  	<li><a href="http://wrfl.fm/">WRFL</a> - student run radio at UK</li>

@@ -10,14 +10,16 @@ layout: home
 
 It is an honor to work with the staff and students at Bryan Station. 
 After working at IBM, Lexmark, and Mathworks, I am pleased to return to Bryan Station as a teacher and alumni. 
-Our school has many wonderful programs and I am excited to be part of the
+Our school has many excellent programs and I am excited to be part of the
 <a href="https://www.fcps.net/domain/5384">Information Technology Academy</a>.
 
-My courses include 
-[Computer Literacy]({{ site.baseurl }}{% link complit.md %}),
-[Computational Thinking]({{ site.baseurl }}{% link compthink.md %}),
-[Cyber Literacy]({{ site.baseurl }}{% link cyberlit.md %}),
-[Introduction to Programming]({{ site.baseurl }}{% link introprog.md %}),
+My [courses for 2018-19](courses) include 
+[Computer Literacy](complit),
+[Computational Thinking](compthink),
+[Introduction to Programming](introprog),
+and [Java](java). 
+I expect the students in these courses to learn useful skills
+and earn [industry certifications](certifications).
 
 Visit <a href="https://planbook.com/planbook.html?t=1393002&amp;k=bshs">Planbook</a> to see what we are doing in each of these classes.
 

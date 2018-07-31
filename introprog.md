@@ -2,8 +2,9 @@
 layout: page
 title: IntroProg
 tagline: Introduction to Programming
+exclude: true
 ---
-Intro to Programming is course number110201 in the 
+Intro to Programming is course number 110201 in the 
 <a href="https://education.ky.gov/CTE/ctepa/Documents/IT--2017-2019.pdf">IT Program of Studies</a>. 
 Its location in the Computer Programming pathway is described on page 8 and the course 
 description is on page 58.

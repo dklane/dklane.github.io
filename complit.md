@@ -1,7 +1,8 @@
 ---
 layout: page
-title: CompLit
+title: CompLit2
 tagline: Computer Literacy
+exclude: true
 ---
 Computer Literacy is course number 110110 in the 
 <a href="https://education.ky.gov/CTE/ctepa/Documents/IT--2017-2019.pdf">IT Program of Studies</a>. 
