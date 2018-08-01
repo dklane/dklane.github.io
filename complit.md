@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CompLit2
+title: CompLit
 tagline: Computer Literacy
 exclude: true
 ---

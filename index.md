@@ -9,7 +9,9 @@ layout: home
 ---
 
 It is an honor to work with the staff and students at Bryan Station. 
-After working at IBM, Lexmark, and Mathworks, I am pleased to return to Bryan Station as a teacher and alumni. 
+I graduated from Bryan Station many years ago. After working as a programmer 
+and team lead at IBM, Lexmark, and Mathworks, it has been fun returning 
+as a teacher to serve the next generation.
 Our school has many excellent programs and I am excited to be part of the
 <a href="https://www.fcps.net/domain/5384">Information Technology Academy</a>.
 

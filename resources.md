@@ -39,6 +39,11 @@ Game Design
   <li><a href="http://runjumpdev.org/">RunJumpDev</a> - A people-powered nonprofit created to grow and cultivate the local game development community in KY</li>
  <li><a href="https://www.slant.co/topics/8080/~3d-game-engines-for-beginners">3D game engines for beginners</a></li>
 </ul>
+Documentation for our Apple IIe
+<ul>
+ 	<li><a href="http://apple2online.com/index.php?p=1_8_Applesoft">Applesoft manuals</a></li>
+  <li><a href="http://apple2online.com/index.php?p=1_13_Apple-II-IIe">Apple IIe manuals</a></li>
+</ul>
 Advanced Topics
 <ul>
  	<li><a href="https://www.edx.org">edX</a> - a collection of online classes</li>
@@ -56,9 +61,20 @@ Advanced Topics
  	<li><a href="http://www.csmatters.org/">Computer Science (CS) Matters</a></li>
  	<li><a href="https://cs.uteach.utexas.edu/">UTeach CS Principles</a></li>
 </ul>
+Tools
+<ul>
+ 	<li><a href="https://repl.it/">Repl.it</a> for online code development 
+ 	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>)</li>
+ 	<li><a href="https://colab.research.google.com/notebooks/welcome.ipynb">Colaboratory</a> 
+ 	a free Jupyter notebook environment that requires no setup and runs entirely in the cloud</li>
+ 	<li><a href="https://c9.io/login">C9.io</a> for virtual servers (recently purchased by AWS)</li>
+ 	<li><a href="http://jaredpetersen.github.io/codeprinter/">Code Printer</a> for pretty output</li>
+</ul>
 Potential resources
 <ul>
  	<li><a href="http://inventwithpython.com/">Invent with Python</a></li>
+ 	<li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
+	 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
   <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
   <li><a href="http://mcsp.wartburg.edu/zelle/python/">Python Programming: An Introduction to Computer Science</a></li>
   <li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
@@ -82,10 +98,5 @@ Potential resources
  	<li><a href="https://www.tealsk12.org/schools/">TEALS</a></li>
  	<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
  	<li><a href="https://advancesinap.collegeboard.org/stem/computer-science-principles/curricula-pedagogical-support">CollegeBoard: Providers of CSP Curricula</a></li>
-</ul>
-Apple IIe documentation
-<ul>
- 	<li><a href="http://apple2online.com/index.php?p=1_8_Applesoft">Applesoft manuals</a></li>
-  <li><a href="http://apple2online.com/index.php?p=1_13_Apple-II-IIe">Apple IIe manuals</a></li>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
