@@ -63,12 +63,16 @@ Advanced Topics
 </ul>
 Tools
 <ul>
+ 	<li><a href="https://www.jetbrains.com/">JetBrains:</a> Developer Tools for Professionals and Teams 
+ 	(free for students in the fayette.kyschools.us domain)</li>
  	<li><a href="https://repl.it/">Repl.it</a> for online code development 
  	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>)</li>
  	<li><a href="https://colab.research.google.com/notebooks/welcome.ipynb">Colaboratory</a> 
- 	a free Jupyter notebook environment that requires no setup and runs entirely in the cloud</li>
- 	<li><a href="https://c9.io/login">C9.io</a> for virtual servers (recently purchased by AWS)</li>
+ 	a Jupyter notebook environment from Google</li>
+ 	<li><a href="https://c9.io/login">C9.io</a> provides virtual servers (I can create student accounts)</li>
+ 	<li><a href="https://sandbox.cs50.io/">CS50 Sandbox:</a> temporary programming environments for students and teachers</li>
  	<li><a href="http://jaredpetersen.github.io/codeprinter/">Code Printer</a> for pretty output</li>
+ 	<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing</li>
 </ul>
 Potential resources
 <ul>
@@ -96,6 +100,9 @@ Potential resources
  	<li><a href="https://www.pltw.org/our-programs/pltw-computer-science">Project Lead the Way</a></li>
  	<li><a href="http://www.nms.org/">National Math and Science Initiative</a></li>
  	<li><a href="https://www.tealsk12.org/schools/">TEALS</a></li>
+ 	<li><a href="https://tealsk12.gitbook.io/apcsa">TEALS CS-A resources</a></li>
+ 	<li><a href="https://www.edx.org/course/learn-to-program-in-java-0">Learn to Program in Java (edX)</a></li>
+ 	<li><a href="https://www.edx.org/course/object-oriented-programming-in-java-0">Object Oriented Programming in Java (edX)</a></li>
  	<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
  	<li><a href="https://advancesinap.collegeboard.org/stem/computer-science-principles/curricula-pedagogical-support">CollegeBoard: Providers of CSP Curricula</a></li>
 </ul>
