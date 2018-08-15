@@ -4,22 +4,12 @@ title: CompThink
 tagline: Computational Thinking
 exclude: true
 ---
-Computational Thinking is course number 110251 in the 
-<a href="https://education.ky.gov/CTE/ctepa/Documents/IT--2017-2019.pdf">IT Program of Studies</a>. 
-Its location in the Computer Programming pathway is described on page 8 and 
-the course description is on page 32.
-
-We are using resources from the <a href="https://ap.cs50.net">CS50</a> program at 
-<a href="https://cs50.harvard.edu">Harvard</a>. 
-This curriculum involves programming in several different languages as a vehicle to introduce 
-the topics of algorithms, abstraction, data, global impact, and internet technologies.
-
-I also hope to include resources from the following:
-<ul>
- 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> from 
- 	<a href="https://code.org">code.org</a></li>
- 	<li><a href="http://bjc.berkeley.edu">Beauty and Joy of Computing</a> from 
- 	<a href="http://www.berkeley.edu">Berkley</a></li>
-</ul>
+<h2>Welcome to Computational&nbsp;Thinking!</h2>
+<p>This class is an introductory<span> computer science course</span>.</p>
+<p>We will start with a brief introduction to the C programming language and VEX robotics. C is one of the older computer&nbsp;languages but is still used in many high-performance applications. These applications include operating systems, embedded microcontrollers, and our VEX robots. We use these robots to compete in an international competition at&nbsp;BSHS. I want you to know how they work and hope you will consider joining one of our VEX teams.</p>
+<p>Most of our time will be focussed on the&nbsp;<a href="https://code.org/educate/csd">Computer Science Discoveries (CSD)</a> resources from "<a href="https://code.org">code.org</a>".&nbsp;<span>CSD is an introductory computer science course that empowers students to create authentic artifacts and engage with computer science as a medium for creativity, communication, problem-solving, and fun. The curriculum covers problem-solving, web development, animations and games, the design process, data and society, and physical computing.</span></p>
+<p>I plan to augment the unit on games with a 2D game design tool called <a href="https://www.clickteam.com/clickteam-fusion-2-5">ClickTeam Fusion</a>. We enjoyed using this tool last year. Fusion offers excellent tutorials and produces high-quality&nbsp;games.</p>
+<p>We will also use our Arduino kits from <a href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board">Sparkfun</a> and <a href="https://www.parallax.com/product/32335">Parallax</a> to further explore physical computing.</p>
+<p>If we complete all these resources, there are numerous topics we can study, For example, I am investigating educational resources that were recently released by <a href="https://aws.amazon.com/education/awseducate/14-and-older/">Amazon Web Services</a>.</p>
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})

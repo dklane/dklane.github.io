@@ -4,19 +4,22 @@ title: Java
 tagline: Programming in Java
 exclude: true
 ---
-Intro to Programming is course number110201 in the 
-<a href="https://education.ky.gov/CTE/ctepa/Documents/IT--2017-2019.pdf">IT Program of Studies</a>. 
-Its location in the Computer Programming pathway is described on page 8 and the course 
-description is on page 58.
-
-We are using curriculum resources from 
-<a href="https://naf.org/">NAF</a>. 
-Bryan Station is <a href="https://naf.org/naf-network/find-an-academy">one of seven NAF academies in KY</a>.
-
-We are using the <a href="https://www.python.org/">Python</a> programming language while emphasizing 
-<a href="https://en.wikipedia.org/wiki/Agile_software_development">agile design methodology</a>, 
-pair programming, and <a href="https://github.com/features">revision control systems</a>. 
-I hope to also include portions of the 
-<a href="https://nicerc.org/curricula/computer-science/">NICERC</a> curriculum.
+<h2>Welcome to Java!</h2>
+<p>This class provides an introduction to Java.</p>
+<p><span>We will start with a brief introduction to the C programming language and VEX robotics. C is one of the older computer&nbsp;languages but is still used in many high-performance applications. These applications include operating systems, embedded microcontrollers, and our VEX robots. We use these robots to compete in an international competition at&nbsp;BSHS. I want you to know how they work and hope you will consider joining one of our VEX teams.</span></p>
+<p>As I reviewed resources for this class, most Java resources were in the context of <a href="https://apstudent.collegeboard.org/apcourse/ap-computer-science-a">AP Computer Science A</a>. While there are numerous free resources for an intro to CS or Python programming, the <a href="https://code.org/educate/curriculum/apcsa">developers of CS-A curriculum</a> charge for their resources. This made it more difficult to review these resources but wasn't an obstacle. The following are my observations:</p>
+<ul>
+<li><a href="https://www.pltw.org/our-programs/pltw-computer-science-curriculum">Project Lead The Way</a>: Not my preference.</li>
+<li><a href="https://www.tealsk12.org/">TEALS</a>: A program that was started in 2009 by a Microsoft employee who is passionate about CS education. The deadline to join this program for 2018 was back in February but I was given access to their curriculum resources after an interview.</li>
+<li><a href="https://codehs.com/info/curriculum/apjava">CodeHS</a>: We used this last year to review Python syntax.</li>
+<li><a href="https://www.apluscompsci.com/material.htm">A+ Computer Science</a>: This was developed by a teacher in Texas. It was praised by some teachers I met over the Summer. A+ CS is offered as a full curriculum but the teachers I spoke with use it as a supplemental&nbsp;resource. The price is relatively low, so I requested it and hope to get access before October.</li>
+<li><a href="https://edhesive.com/courses/apcs_java">Edhesive</a>: This is the one I chose to use!</li>
+</ul>
+<p>Edhesive has offered CS-A curriculum for five years. They claim an AP pass rate above the national average for schools that us their resources. Amazon demonstarated&nbsp;faith in Edhesive when they formed a partnership with them this year. <a href="https://thejournal.com/articles/2018/04/02/amazon-pumping-50-million-into-cs-education.aspx">Amazon pledged $50 million to CS education</a> efforts and a portion of this helps Adhesive offer reduce rates to Title1 schools. Some of this will also go to scholarships and internship programs. For example, Amazon just announced a&nbsp;$10k scholarship opportunity for students who complete Edhesive's&nbsp;CS-A curriculum and pass the AP test. This is new information and they still defining the details. There is the bonus perk that anyone who passes the AP test and qualifies for reduced lunch receives extra KEES money.</p>
+<p>We can take this at our own pace. We don't need to complete the Edhesive curriculum and no one is required to attempt the AP exam. You signed up for a Java class and we are not obligated to complete the AP curriculum. However, I am excited&nbsp;that we obtained access to Edhesive's&nbsp;highly praised resources and am eager to see if it is a good fit.</p>
+<p>Two-thirds of the students in this room will be working on dual credit resources from BCTC. It think&nbsp;Edhesive's resources might be a perfect fit. It offers resources we can work through without a lot of lecture time and has numerous support resources. I will do my best to help you and Edhesive also has TA's staffing a support forum. I hope you share my excitement for this class and what we can accomplish!</p>
+<p>For those that choose to try the AP test, I also purchased <a href="https://barronseduc.com/1438009194.html">Barron's AP CS-A book</a> as preparation resource.</p>
+<p>But wait.. there's more! Microsoft just added an MTA certification for Java. We purchased test preparation resources from GMetrix and KDE will pay for you to take this test. This opportunity is available to the students in this class and the BCTC students!</p>
+<p>If we complete all these resources, there are numerous topics we can study, For example, I am investigating educational resources that were recently released by <a href="https://aws.amazon.com/education/awseducate/14-and-older/">Amazon Web Services</a>.</p>
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
