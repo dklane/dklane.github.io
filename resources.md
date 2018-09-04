@@ -87,6 +87,7 @@ Potential resources
  	<li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
 	<li><a href="https://codingbat.com/python">CodingBat code practice in Python</a></li>
 	<li><a href="https://codingbat.com/java">CodingBat code practice in Java</a></li>
+	<li><a href="https://www.youtube.com/playlist?list=PLmpmyPywZ443PFI8YF3ZMmoEcRfxXckdH">Java Tutorials on YouTube</a></li>
  	<li><a href="http://www.zybooks.com/">zyBooks</a></li>
  	<li><a href="https://codehs.com/info/">CodeHS</a></li>
  	<ul>
