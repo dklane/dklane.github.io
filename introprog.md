@@ -14,7 +14,6 @@ exclude: true
 <li>Python Crash Course</li>
 <li>Invent Your Own Computer Games with Python</li>
 </ul>
-<p>If we complete all these resources, there are numerous topics we can study, For example, I am investigating educational resources that were recently released by <a href="https://aws.amazon.com/education/awseducate/14-and-older/">Amazon Web Services</a>.</p>
 <p>This class offers a great opportunity to attempt industry certifications. Your computer programming pathway&nbsp;gives credit for certifications in HTML, Javascript, and Python.</p>
 <p>If we complete all these resources, there are numerous topics we can study, For example, I am investigating educational resources that were recently released by <a href="https://aws.amazon.com/education/awseducate/14-and-older/">Amazon Web Services</a>.</p>
 
