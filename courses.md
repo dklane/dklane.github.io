@@ -3,7 +3,7 @@ layout: page
 title: Courses
 tagline: Courses for 2018-19
 ---
-My courses for 2018-19 include:
+The computer science courses at Bryan Station for 2018-19 include:
 
 * [Computer Literacy](complit): An overview of computer hardware, 
 office applications, and living online.
