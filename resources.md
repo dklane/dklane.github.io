@@ -16,6 +16,32 @@ CS and Applications
   <li><a href="https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-">How Computers Work</a> - videos from code.org</li>
    <li><a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">How The Internet Works</a> - videos from code.org</li>
 </ul>
+Python
+<ul>
+<li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
+<li><a href="http://inventwithpython.com/">Invent with Python</a></li>
+<ul>
+<li><a href="http://inventwithpython.com/cracking/">Cracking Codes with Python</a></li>
+<li><a href="http://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
+<li><a href="http://inventwithpython.com/pygame/">Making Games with Python &amp; Pygame</a></li>
+</ul>
+<li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a>&nbsp;(<a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/ETJS9ai0ijNEvcVlAlPGcFUBaS-fIiqabalToGzJRXyhYQ?e=LhmOvA">pdf</a>)</li>
+<li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
+<li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
+<li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
+<li><a href="https://codingbat.com/python">CodingBat code practice in Python</a></li>
+</ul>
+Java
+<ul>
+<li><a href="http://greenteapress.com/wp/think-java/" target="_blank" rel="noopener noreferrer">Think Java</a></li>
+<li>Barron's AP prep with online practice
+<ul>
+<li>7th edition&nbsp;<a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/Eedp6sBmyJlEtzAagNTJE5kBUPqU2GngXp8Awcw8AbNY-g?e=tKSav8" target="_blank" rel="noopener noreferrer">PDF</a></li>
+<li>8th edition paper</li>
+</ul>
+</li>
+<li><a href="https://codingbat.com/java" target="_blank" rel="noopener noreferrer">CodingBat code practice in Java</a></li>
+</ul>
 Microcontrollers
 <ul>
  	<li><a href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board">Experiments for our Sparkfun Inventor's Kit</a></li>
