@@ -30,6 +30,7 @@ Python
 <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
 <li><a href="https://codingbat.com/python">CodingBat code practice in Python</a></li>
+<li><a href="http://pythontutor.com/">PythonTutor</a> visualize your code </li>
 </ul>
 Java
 <ul>
