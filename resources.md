@@ -136,5 +136,6 @@ Potential resources
  	<li><a href="https://www.edx.org/course/object-oriented-programming-in-java-0">Object Oriented Programming in Java (edX)</a></li>
  	<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
  	<li><a href="https://advancesinap.collegeboard.org/stem/computer-science-principles/curricula-pedagogical-support">CollegeBoard: Providers of CSP Curricula</a></li>
+	<li><a href="https://bournetocode.com/">Bourne to Code</a> from the <a href="https://www.bourne-grammar.lincs.sch.uk/">Bourne school</a> in England</li>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
