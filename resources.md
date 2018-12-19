@@ -137,5 +137,6 @@ Potential resources
  	<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
  	<li><a href="https://advancesinap.collegeboard.org/stem/computer-science-principles/curricula-pedagogical-support">CollegeBoard: Providers of CSP Curricula</a></li>
 	<li><a href="https://bournetocode.com/">Bourne to Code</a> from the <a href="https://www.bourne-grammar.lincs.sch.uk/">Bourne school</a> in England</li>
+	<li><a href="https://derekbabb.github.io/CyberSecurity/">Cyber Security</a> A curriculum for a high school cyber security course.</li>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
