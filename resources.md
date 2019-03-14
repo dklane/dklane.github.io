@@ -17,6 +17,8 @@ Secondary Resources
 	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
 	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
 	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
+ 	<li><a href="https://repl.it/">Repl.it</a> for open response questions 
+ 	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>)</li>
 </ul>
 Students who have completed their work are encouraged to explore the following resources:
 
@@ -44,7 +46,6 @@ Python
 <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
 <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
-<li><a href="https://codingbat.com/python">CodingBat code practice in Python</a></li>
 <li><a href="http://pythontutor.com/">PythonTutor</a> visualize your code </li>
 </ul>
 Java
@@ -56,7 +57,6 @@ Java
 <li>8th edition paper</li>
 </ul>
 </li>
-<li><a href="https://codingbat.com/java" target="_blank" rel="noopener noreferrer">CodingBat code practice in Java</a></li>
 </ul>
 Microcontrollers
 <ul>
@@ -100,8 +100,6 @@ Tools
 <ul>
  	<li><a href="https://www.jetbrains.com/">JetBrains:</a> Developer Tools for Professionals and Teams 
  	(free for students in the fayette.kyschools.us domain)</li>
- 	<li><a href="https://repl.it/">Repl.it</a> for online code development 
- 	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>)</li>
  	<li><a href="https://colab.research.google.com/notebooks/welcome.ipynb">Colaboratory</a> 
  	a Jupyter notebook environment from Google</li>
  	<li><a href="https://c9.io/login">C9.io</a> provides virtual servers (I can create student accounts)</li>
@@ -117,16 +115,10 @@ Potential resources
  	<li><a href="http://mobile-csp.org/">MobileCSP</a></li>
  	<li><a href="https://www.greenfoot.org/door">Greenfoot</a></li>
  	<li><a href="https://academy.oracle.com/en/oa-web-overview.html">Oracle</a></li>
-	<li><a href="http://inventwithpython.com/">Invent with Python</a></li>
- 	<li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
-	<li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
-  	<li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
   	<li><a href="http://mcsp.wartburg.edu/zelle/python/">Python Programming: An Introduction to Computer Science</a></li>
   	<li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
   	<li><a href="https://www.codecademy.com/">Codecademy</a></li>
  	<li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
-	<li><a href="https://codingbat.com/python">CodingBat code practice in Python</a></li>
-	<li><a href="https://codingbat.com/java">CodingBat code practice in Java</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLmpmyPywZ443PFI8YF3ZMmoEcRfxXckdH">Java Tutorials on YouTube</a></li>
  	<li><a href="http://www.zybooks.com/">zyBooks</a></li>
 	<li><a href="https://codehs.com/info/">CodeHS</a>
