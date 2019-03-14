@@ -3,7 +3,22 @@ layout: page
 title: Resources
 tagline: Relevant resources
 ---
-Students who have completed their work can explore the following resources:
+Primary Resources
+<ul>
+	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
+ 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
+	<li><a href="https://codehs.com/info/">CodeHS</a> for Python</li>
+ 	<li><a href="https://edhesive.com/">Edhesive</a> for Java</li>
+</ul>
+Secondary Resources
+<ul>
+	<li><a href="https://sam.cengage.com">SAM</a> for Office2013 simulation in Computer Literacy</li>
+	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
+	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
+	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
+	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
+</ul>
+Students who have completed their work are encouraged to explore the following resources:
 
 CS and Applications
 <ul>
@@ -61,7 +76,6 @@ VEX Robotics
 </ul>
 Game Design
 <ul>
- 	<li><a href="http://www.clickteam.com/clickteam-fusion-2-5-free-edition">Clickteam Fusion</a> for 2D games</li>
   <li><a href="https://unity3d.com/">Unity</a> for 3D games</li>
   <li><a href="https://www.unrealengine.com/en-US/what-is-unreal-engine-4">Unreal</a> for 3D games</li>
   <li><a href="http://runjumpdev.org/">RunJumpDev</a> - A people-powered nonprofit created to grow and cultivate the local game development community in KY</li>
@@ -79,13 +93,6 @@ Advanced Topics
  	<li><a href="https://www.udacity.com/courses/software-engineering">udacity</a> - a collection of online courses</li>
  	<li><a href="https://medium.com/@MyLeanMBA/breaking-down-the-top-3-mooc-platforms-coursera-udacity-edx-13e5ed481337">Comparing Coursera, Udacity &amp; edX</a></li>
  	<li><a href="http://www.teachingtree.co">teaching tree</a> - an array of videos on CS topics</li>
- 	<li><a href="https://cs50.harvard.edu">CS50</a> on <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">edX</a></li>
- 	<li><a href="http://bjc.berkeley.edu">Beauty and Joy of Computing</a> on <a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0">edX</a></li>
- 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> from code.org</li>
- 	<li><a href="https://code.org/educate/csp">Computer Science Principles</a> from code.org</li>
- 	<li><a href="http://mobile-csp.org/">MobileCSP</a></li>
- 	<li><a href="https://www.greenfoot.org/door">Greenfoot</a></li>
- 	<li><a href="https://academy.oracle.com/en/oa-web-overview.html">Oracle</a></li>
  	<li><a href="http://www.csmatters.org/">Computer Science (CS) Matters</a></li>
  	<li><a href="https://cs.uteach.utexas.edu/">UTeach CS Principles</a></li>
 </ul>
@@ -104,30 +111,35 @@ Tools
 </ul>
 Potential resources
 <ul>
- 	<li><a href="http://inventwithpython.com/">Invent with Python</a></li>
+ 	<li><a href="https://cs50.harvard.edu">CS50</a> on <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">edX</a></li>
+ 	<li><a href="http://bjc.berkeley.edu">Beauty and Joy of Computing</a> on <a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0">edX</a></li>
+	<li><a href="https://academy.cs.cmu.edu/about">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science</li>
+ 	<li><a href="http://mobile-csp.org/">MobileCSP</a></li>
+ 	<li><a href="https://www.greenfoot.org/door">Greenfoot</a></li>
+ 	<li><a href="https://academy.oracle.com/en/oa-web-overview.html">Oracle</a></li>
+	<li><a href="http://inventwithpython.com/">Invent with Python</a></li>
  	<li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
-	 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
-  <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
-  <li><a href="http://mcsp.wartburg.edu/zelle/python/">Python Programming: An Introduction to Computer Science</a></li>
-  <li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
-  <li><a href="https://www.codecademy.com/">Codecademy</a></li>
+	<li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
+  	<li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
+  	<li><a href="http://mcsp.wartburg.edu/zelle/python/">Python Programming: An Introduction to Computer Science</a></li>
+  	<li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
+  	<li><a href="https://www.codecademy.com/">Codecademy</a></li>
  	<li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
 	<li><a href="https://codingbat.com/python">CodingBat code practice in Python</a></li>
 	<li><a href="https://codingbat.com/java">CodingBat code practice in Java</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLmpmyPywZ443PFI8YF3ZMmoEcRfxXckdH">Java Tutorials on YouTube</a></li>
  	<li><a href="http://www.zybooks.com/">zyBooks</a></li>
- 	<li><a href="https://codehs.com/info/">CodeHS</a></li>
+	<li><a href="https://codehs.com/info/">CodeHS</a>
  	<ul>
- 	    <li><a href="https://codehs.com/go/F5C35">Web Design</a></li>
- 	    <li><a href="https://codehs.com/go/2951C">Computing Ideas</a></li>
- 	    <li><a href="https://codehs.com/go/89098">JavaScript</a></li>
- 	    <li><a href="https://codehs.com/go/8C659">Python</a></li>
- 	    <li><a href="https://codehs.com/go/7D4CD">CS Principles</a></li>
- 	    <li><a href="https://codehs.com/go/48D9B">AP Java</a></li>
- 	    <li><a href="https://codehs.com/go/20BF0">Virtual Reality</a></li>
+		<li><a href="https://codehs.com/go/F5C35">Web Design</a></li>
+ 	    	<li><a href="https://codehs.com/go/2951C">Computing Ideas</a></li>
+ 	    	<li><a href="https://codehs.com/go/89098">JavaScript</a></li>
+ 	    	<li><a href="https://codehs.com/go/8C659">Python</a></li>
+ 	    	<li><a href="https://codehs.com/go/7D4CD">CS Principles</a></li>
+ 	    	<li><a href="https://codehs.com/go/48D9B">AP Java</a></li>
+ 	    	<li><a href="https://codehs.com/go/20BF0">Virtual Reality</a></li>
  	</ul>
- 	<li><a href="https://www.apluscompsci.com/">APlus CS</a></li>
- 	<li><a href="https://edhesive.com/">Edhesive</a></li>
+	</li>
  	<li><a href="https://www.pltw.org/our-programs/pltw-computer-science">Project Lead the Way</a></li>
  	<li><a href="http://www.nms.org/">National Math and Science Initiative</a></li>
  	<li><a href="https://www.tealsk12.org/schools/">TEALS</a></li>
