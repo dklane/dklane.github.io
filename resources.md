@@ -24,7 +24,8 @@ Students who have completed their work are encouraged to explore the following r
 
 CS and Applications
 <ul>
- 	<li><a href="https://code.org/learn">Hour of Code</a> - one-hour tutorials designed for all ages</li>
+	<li><a href="https://www.thinkfun.com/">Thinkfun games</a> to develop logic skills</li>
+	<li><a href="https://code.org/learn">Hour of Code</a> - one-hour tutorials designed for all ages</li>
   <li><a href="https://www.commonsense.org/education/top-picks/best-coding-tools-for-high-school-students">Coding tools for high school students</a></li>
  	<li><a href="https://www.microsoft.com/en-us/education/imagine-academy">Microsoft Image Academy</a> - requires an account and headphones</li>
  	<li><a href="https://code.org/educate/curriculum/express-course">Computer Science Fundamentals - Express</a> - an intro to CS topics</li>
