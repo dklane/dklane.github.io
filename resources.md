@@ -61,6 +61,7 @@ Java
 </ul>
 Swift
 <ul>
+<li><a href="https://swift.org/">swift.org</a></li>
 <li><a href="https://www.apple.com/everyone-can-code/">Everyone Can Code</a> - an overview of resources from Apple</li>
 <li><a href="https://www.apple.com/education/teaching-code/">Teaching Code</a> - more detailed info about Swift resources</li>
 <li><a href="http://www.speirs.org/blog/2017/6/1/a-year-of-teaching-swift">A Year of Teaching Swift</a></li>
