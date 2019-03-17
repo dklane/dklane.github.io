@@ -59,6 +59,11 @@ Java
 </ul>
 </li>
 </ul>
+Swift
+<ul>
+<li><a href="https://www.apple.com/everyone-can-code/">Everyone Can Code</a> - an overview of resources from Apple</li>
+<li><a href="https://www.apple.com/education/teaching-code/">Teaching Code</a> - more detailed info about Swift resources</li>
+</ul>
 Microcontrollers
 <ul>
  	<li><a href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board">Experiments for our Sparkfun Inventor's Kit</a></li>
