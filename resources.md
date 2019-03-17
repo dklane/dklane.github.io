@@ -66,6 +66,7 @@ Swift
 <li><a href="https://www.apple.com/education/teaching-code/">Teaching Code</a> - more detailed info about Swift resources</li>
 <li><a href="http://www.speirs.org/blog/2017/6/1/a-year-of-teaching-swift">A Year of Teaching Swift</a></li>
 <li><a href="https://blog.teamtreehouse.com/every-junior-ios-developer-needs-know">What Every Junior iOS Developer Needs to Know</a></li>
+<li><a href="https://www.theverge.com/2018/3/29/17173362/apple-swift-playgrounds-xcode-cliff-ipad-learn-to-code-education">The Xcode cliff</a></li>
 <li><a href="https://learnappmaking.com/develop-ios-apps-on-windows-pc/">How To Develop iOS Apps On A Windows PC</a></li>
 </ul>
 Microcontrollers
