@@ -12,7 +12,7 @@ Primary Resources
 </ul>
 Secondary Resources
 <ul>
-	<li><a href="https://sam.cengage.com">SAM</a> for Office2013 simulation in Computer Literacy</li>
+	<li><a href="https://www.cengage.com/sam/">SAM</a> for Office2013 simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
 	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
 	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
