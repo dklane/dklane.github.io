@@ -60,6 +60,11 @@ Java
 </li>
 <li><a href="https://developer.android.com/studio">Android Studio</a> provides the fastest tools for building apps on every type of Android device</li>
 <li><a href="https://developer.android.com/training/basics/firstapp">Build your first Android app</a></li>
+<li><a href="https://academy.oracle.com/en/resources-summary.html">Oracle Resources</a></li>
+<li><a href="https://academy.oracle.com/en/training-summary.html">Oracle Training</a></li>
+<li><a href="https://academy.oracle.com/en/training-workshops.html">Oracle Workshops</a></li>
+<li><a href="http://ilearningcontent.oracle.com/content/public/oracle_acad/ACADEMY_COURSE_RESOURCES/TEACHER_RESOURCES/Oracle_iLearning_Tour_2018/index.html">Oracle iLearning Tour</a></li>
+<li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
 </ul>
 Swift
 <ul>
