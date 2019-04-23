@@ -64,8 +64,8 @@ Java
 <li><a href="https://academy.oracle.com/en/training-summary.html">Oracle Training</a></li>
 <li><a href="https://academy.oracle.com/en/training-workshops.html">Oracle Workshops</a></li>
 <li><a href="http://ilearningcontent.oracle.com/content/public/oracle_acad/ACADEMY_COURSE_RESOURCES/TEACHER_RESOURCES/Oracle_iLearning_Tour_2018/index.html">Oracle iLearning Tour</a></li>
-<li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
-<li><a href="http://ilearningcontent.oracle.com/content/public/oracle_acad/Resource_Center/Inst/index.html">Oracle Resource Center</a></li>
+<li><a href="http://ilearningcontent.oracle.com/content/public/oracle_acad/Resource_Center/Inst/index.html">Oracle Resource Center</a><li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
+</li>
 </ul>
 Swift
 <ul>
