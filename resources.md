@@ -48,6 +48,7 @@ Python
 <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
 <li><a href="http://pythontutor.com/">PythonTutor</a> visualize your code </li>
+<li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Tutorial videos by Corey Schafer</a></li>
 </ul>
 Java
 <ul>
