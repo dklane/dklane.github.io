@@ -20,8 +20,18 @@ Secondary Resources
  	<li><a href="https://repl.it/">Repl.it</a> for open response questions 
  	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>)</li>
 </ul>
+Standards and Certifications
+<ul>
+	<li><a href="https://kystandards.org/content_area/computerscience/">CS Standards for Kentucky</a></li>
+	<li><a href="https://certiport.pearsonvue.com/Educator-resources/Exam-details/Objective-domains.aspx">Objective domains for the Certiport exams</li>
+	<li><a href="https://certification.comptia.org/certifications/it-fundamentals">CompTIA IT Funimentals</li>
+	<ul>	
+	<li><a href="https://www.comptia.jp/pdf/CompTIA%20IT%20Fundamentals%20FC0-U61%20Exam%20Objectives.pdf">Objective domains</li>
+	<li><a href="https://www.itpro.tv/courses/comptia/comptiafundamentals-exam-fc0u61/">Video based training</li>	
+	</ul>
+</ul>
 Students who have completed their work are encouraged to explore the following resources:
-
+<br>
 CS and Applications
 <ul>
 	<li><a href="https://www.thinkfun.com/">Thinkfun games</a> to develop logic skills</li>
