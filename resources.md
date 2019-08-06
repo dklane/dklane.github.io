@@ -30,8 +30,7 @@ Standards and Certifications
 	<li><a href="https://www.itpro.tv/courses/comptia/comptiafundamentals-exam-fc0u61/">Video based training</a></li>	
 	</ul>
 </ul>
-Students who have completed their work are encouraged to explore the following resources:
-<br>
+<b>Students who have completed their work are encouraged to explore the following resources:</b>
 CS and Applications
 <ul>
 	<li><a href="https://www.thinkfun.com/">Thinkfun games</a> to develop logic skills</li>
