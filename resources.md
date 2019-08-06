@@ -23,11 +23,11 @@ Secondary Resources
 Standards and Certifications
 <ul>
 	<li><a href="https://kystandards.org/content_area/computerscience/">CS Standards for Kentucky</a></li>
-	<li><a href="https://certiport.pearsonvue.com/Educator-resources/Exam-details/Objective-domains.aspx">Objective domains for the Certiport exams</li>
-	<li><a href="https://certification.comptia.org/certifications/it-fundamentals">CompTIA IT Funimentals</li>
+	<li><a href="https://certiport.pearsonvue.com/Educator-resources/Exam-details/Objective-domains.aspx">Objective domains for the Certiport exams</a></li>
+	<li><a href="https://certification.comptia.org/certifications/it-fundamentals">CompTIA IT Fundamentals</a></li>
 	<ul>	
-	<li><a href="https://www.comptia.jp/pdf/CompTIA%20IT%20Fundamentals%20FC0-U61%20Exam%20Objectives.pdf">Objective domains</li>
-	<li><a href="https://www.itpro.tv/courses/comptia/comptiafundamentals-exam-fc0u61/">Video based training</li>	
+	<li><a href="https://www.comptia.jp/pdf/CompTIA%20IT%20Fundamentals%20FC0-U61%20Exam%20Objectives.pdf">Objective domains</a></li>
+	<li><a href="https://www.itpro.tv/courses/comptia/comptiafundamentals-exam-fc0u61/">Video based training</a></li>	
 	</ul>
 </ul>
 Students who have completed their work are encouraged to explore the following resources:
