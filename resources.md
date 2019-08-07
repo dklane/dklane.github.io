@@ -173,4 +173,12 @@ Potential resources
 	<li><a href="https://bournetocode.com/">Bourne to Code</a> from the <a href="https://www.bourne-grammar.lincs.sch.uk/">Bourne school</a> in England</li>
 	<li><a href="https://derekbabb.github.io/CyberSecurity/">Cyber Security</a> A curriculum for a high school cyber security course.</li>
 </ul>
+Chess
+<ul>
+	<li><a href="https://new.uschess.org/home/">US Chess Federation</a></li>
+ 	<li><a href="https://www.chessperformance.com/index.html">Chess Performance Tournaments</a></li>
+ 	<li><a href="https://www.wholesalechess.com/pages/more/new-to-chess.html">Chess 101</a></li>
+	<li><a href="https://www.mathsisfun.com/games/chess.html">Chess Online</a> from MathIsFun</li>
+	<li><a href="http://plainchess.timwoelfle.de">Chess Online</a> from PlainChess with source code</li>
+</ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
