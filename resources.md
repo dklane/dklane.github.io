@@ -58,6 +58,7 @@ Python
 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
 <li><a href="http://pythontutor.com/">PythonTutor</a> visualize your code </li>
 <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Tutorial videos by Corey Schafer</a></li>
+<li><a href="https://yawpitchroll.com/posts/the-35-words-you-need-to-python/">The 35 Words You Need to Python</a></li>
 </ul>
 Java
 <ul>
