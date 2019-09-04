@@ -19,6 +19,10 @@ Secondary Resources
 	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
  	<li><a href="https://repl.it/">Repl.it</a> for open response questions 
  	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>)</li>
+	<li><a href="https://runestone.academy/">Runestone Academy</a> offers free interactive textbooks</li>
+	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
+	<li><a href="https://longbaonguyen.github.io/index.html">Learning resources</a> from Long Nguyen at UMass</li>
+	<li><a href="http://bit.ly/bshsbooks">EBooks</a> </li>
 </ul>
 Standards and Certifications
 <ul>
