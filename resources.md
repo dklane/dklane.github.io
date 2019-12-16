@@ -178,5 +178,6 @@ Chess
  	<li><a href="https://www.wholesalechess.com/pages/more/new-to-chess.html">Chess 101</a></li>
 	<li><a href="https://www.mathsisfun.com/games/chess.html">Chess Online</a> from MathIsFun</li>
 	<li><a href="http://plainchess.timwoelfle.de">Chess Online</a> from PlainChess with source code</li>
+	<li><a href="https://www.dicetower.com/">Dice Tower</a> for board game reviews</li>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
