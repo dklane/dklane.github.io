@@ -7,8 +7,8 @@ Primary Resources
 <ul>
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
  	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
-	<li><a href="https://codehs.com/info/">CodeHS</a> for Python</li>
- 	<li><a href="https://edhesive.com/">Edhesive</a> for Java</li>
+	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice</li>
+ 	<li><a href="https://edhesive.com/">Edhesive</a> for review and testing</li>
 </ul>
 Secondary Resources
 <ul>
@@ -22,6 +22,8 @@ Secondary Resources
 	<li><a href="https://runestone.academy/">Runestone Academy</a> offers free interactive textbooks</li>
 	<li><a href="http://csawesome.org/">CS Awesome AP CSA</a></li>
 	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
+	<li><a href="https://www.udemy.com/">Udemy</a> for video instruction</li>
+	<li><a href="https://www.udacity.com/courses/all">Udacity</a> for video instruction</li>
 	<li><a href="https://longbaonguyen.github.io/index.html">Learning resources</a> from Long Nguyen at UMass</li>
 	<li><a href="http://bit.ly/bshsbooks">EBooks</a> </li>
 </ul>
