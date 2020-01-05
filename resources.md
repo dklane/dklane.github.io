@@ -59,7 +59,10 @@ Python
 <li><a href="http://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
 <li><a href="http://inventwithpython.com/pygame/">Making Games with Python &amp; Pygame</a></li>
 </ul>
-<li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a>&nbsp;(<a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/ETJS9ai0ijNEvcVlAlPGcFUBaS-fIiqabalToGzJRXyhYQ?e=LhmOvA">pdf</a>)</li>
+<li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
+<ul>
+<li><a href="https://github.com/ehmatthes/python_teaching_fall_2018">Teaching notes from Eric Matthes</a></li>
+</ul>
 <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
 <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
