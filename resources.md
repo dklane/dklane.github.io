@@ -55,6 +55,7 @@ Python
 <li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
 <li><a href="http://inventwithpython.com/">Invent with Python</a></li>
 <ul>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
 <li><a href="http://inventwithpython.com/cracking/">Cracking Codes with Python</a></li>
 <li><a href="http://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
 <li><a href="http://inventwithpython.com/pygame/">Making Games with Python &amp; Pygame</a></li>
