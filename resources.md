@@ -59,7 +59,7 @@ Python
 <li><a href="http://inventwithpython.com/cracking/">Cracking Codes with Python</a></li>
 <li><a href="http://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
 <li><a href="http://inventwithpython.com/pygame/">Making Games with Python &amp; Pygame</a></li>
-<li><a href="https://alsweigart.com/">Al Sweigart's home page</a><li>
+<li><a href="https://alsweigart.com/">Al Sweigart's home page</a></li>
 </ul>
 <li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
 <ul>
