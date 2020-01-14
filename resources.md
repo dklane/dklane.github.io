@@ -92,6 +92,12 @@ Java
 <li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
 <li><a href="https://www.jetbrains.com/academy/">JetBrains Academy</a></li>
 </ul>
+HTML/CSS
+<ul>
+<li><a href="https://www.w3schools.com/">W3Schools</a></li>
+<li>webfundamentals on <a href="https://runestone.academy/">Runestone Academy</a></li>
+<li>Web Design course on <a href="https://codehs.com/course/catalog">CodeHS</a></li>
+</ul>
 Swift
 <ul>
 <li><a href="https://swift.org/">swift.org</a></li>
