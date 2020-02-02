@@ -82,8 +82,6 @@ Java
 <li>8th edition paper</li>
 </ul>
 </li>
-<li><a href="https://developer.android.com/studio">Android Studio</a> provides the fastest tools for building apps on every type of Android device</li>
-<li><a href="https://developer.android.com/training/basics/firstapp">Build your first Android app</a></li>
 <li><a href="https://academy.oracle.com/en/resources-summary.html">Oracle Resources</a></li>
 <li><a href="https://academy.oracle.com/en/training-summary.html">Oracle Training</a></li>
 <li><a href="https://academy.oracle.com/en/training-workshops.html">Oracle Workshops</a></li>
@@ -91,6 +89,15 @@ Java
 <li><a href="http://ilearningcontent.oracle.com/content/public/oracle_acad/Resource_Center/Inst/index.html">Oracle Resource Center</a></li>
 <li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
 <li><a href="https://www.jetbrains.com/academy/">JetBrains Academy</a></li>
+</ul>
+Android
+<ul>
+<li><a href="https://developer.android.com/studio">Android Studio</a> provides the fastest tools for building apps on every type of Android device</li>
+<li><a href="https://developer.android.com/training/basics/firstapp">Build your first Android app</a></li>
+<li><a href="https://www.jetbrains.com/help/idea/android.html">JetBrains Tutorials</a></li>
+<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EU0GOaQqHftJmoR1f5Ya7B0Bgx_ZLE9yGc8aisSbmJZmaQ?e=UVKwIp">Learn Java the Easy Way</a></li>
+<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EYpEILovLkFFrs79BwknYwwBd_Q9GcngZwCGrojFlYd8Xw?e=JtRfCM">Head First - Android Development</a></li>
+<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EXgVyd88RuxAhr_Hy8NYyOMBRAIX4YK-za0SDE0_SjItSA?e=eetnW4">Android Programming - Big Nerd Ranch</a></li>
 </ul>
 HTML/CSS
 <ul>
