@@ -176,6 +176,7 @@ Potential resources
   	<li><a href="https://inventwithscratch.com/book/">Scratch Programming Playground</a></li>
   	<li><a href="https://www.codecademy.com/">Codecademy</a></li>
  	<li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
+	<li><a href="https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/">Javascript handbook from FreeCodeCamp</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLmpmyPywZ443PFI8YF3ZMmoEcRfxXckdH">Java Tutorials on YouTube</a></li>
  	<li><a href="http://www.zybooks.com/">zyBooks</a></li>
  	<li><a href="https://www.pltw.org/our-programs/pltw-computer-science">Project Lead the Way</a></li>
