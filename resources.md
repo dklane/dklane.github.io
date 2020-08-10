@@ -36,6 +36,7 @@ Standards and Certifications
 	<li><a href="https://www.comptia.jp/pdf/CompTIA%20IT%20Fundamentals%20FC0-U61%20Exam%20Objectives.pdf">Objective domains</a></li>
 	<li><a href="https://www.itpro.tv/courses/comptia/comptiafundamentals-exam-fc0u61/">Video based training</a></li>	
 	</ul>
+	<li><a href="https://en.wikiversity.org/wiki/Microsoft_Technology_Associate">MTA information on Wikiversity</a></li>
 </ul>
 <b>Students who have completed their work are encouraged to explore the following resources:</b>
 CS and Applications
