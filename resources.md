@@ -181,7 +181,7 @@ Potential resources
 	</ul>
  	<li><a href="http://bjc.berkeley.edu">Beauty and Joy of Computing</a> on <a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0">edX</a></li>
 	<li><a href="https://academy.cs.cmu.edu/about">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science</li>
-	<li><a href="https://popfizz.io/">PopFizz for CS education</li>
+	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
  	<li><a href="http://mobile-csp.org/">MobileCSP</a></li>
  	<li><a href="https://www.greenfoot.org/door">Greenfoot</a></li>
  	<li><a href="https://academy.oracle.com/en/oa-web-overview.html">Oracle</a></li>
