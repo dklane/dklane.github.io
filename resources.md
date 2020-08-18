@@ -218,6 +218,6 @@ Go (Igo in Japan, Weiqi in China, and Baduk in Korea)
 	<li><a href="https://www.usgo.org/">The American Go Association</a></li>
 	<li><a href="http://agfgo.org/pages/home.php">The American Go Foundation</a></li>
  	<li><a href="https://online-go.com/">Oneline Go Server</a></li>
- 	<li><a href="https://www.sjeng.org/leela.html">Lela Go engine with heatmaps</a></li>
+ 	<li><a href="https://www.sjeng.org/leela.html">Leela Go engine with heatmaps</a></li>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
