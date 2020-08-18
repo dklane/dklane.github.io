@@ -213,4 +213,11 @@ Chess
 	<li><a href="http://plainchess.timwoelfle.de">Chess Online</a> from PlainChess with source code</li>
 	<li><a href="https://www.dicetower.com/">Dice Tower</a> for board game reviews</li>
 </ul>
+Go (Igo in Japan, Weiqi in China, and Baduk in Korea)
+<ul>
+	<li><a href="https://www.usgo.org/">The American Go Association</a></li>
+	<li><a href="http://agfgo.org/pages/home.php">The American Go Foundation</a></li>
+ 	<li><a href="https://online-go.com/">Oneline Go Server</a></li>
+ 	<li><a href="https://www.sjeng.org/leela.html">Lela Go engine with heatmaps</a></li>
+</ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
