@@ -92,6 +92,7 @@ Java
 <li><a href="http://ilearningcontent.oracle.com/content/public/oracle_acad/Resource_Center/Inst/index.html">Oracle Resource Center</a></li>
 <li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
 <li><a href="https://www.jetbrains.com/academy/">JetBrains Academy</a></li>
+<li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
 </ul>
 Android
 <ul>
