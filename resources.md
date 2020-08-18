@@ -52,6 +52,7 @@ CS and Applications
 	<li><a href="https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-">How Computers Work</a> - videos from code.org</li>
    	<li><a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">How The Internet Works</a> - videos from code.org</li>
 	<li><a href="https://processing.org/">Processing</a> - Learn to code within the context of the visual arts using <a href="https://processing.org/">Java</a>, <a href="https://p5js.org/">JavaScript</a>, or <a href="https://py.processing.org/">Python</a></li>
+	<li><a href="http://earsketch.gatech.edu/">EarSketch</a> - Learn to code by making music</li>
 </ul>
 Python
 <ul>
