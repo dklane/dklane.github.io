@@ -167,7 +167,7 @@ Tools
 </ul>
 Potential resources
 <ul>
- 	<li><a href="https://cs50.harvard.edu">The original CS50 at Harvard</a></.i>
+ 	<li><a href="https://cs50.harvard.edu">The original CS50 at Harvard</a></li>
 	<ul>
 	<li><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">CS50 on edX</a></li>
 	<li><a href="https://cs50.harvard.edu/ap/">CS50 for AP</a></li>
@@ -176,7 +176,7 @@ Potential resources
 	<li><a href="https://cs50.harvard.edu/web/">CS50 Artificial Intelligence</a></li>
 	<li><a href="https://cs50.harvard.edu/ai/">CS50 Artificial Intelligence</a></li>
 	<li><a href="https://cs50.harvard.edu/law/">CS50 Law</a></li>	
-	<li><a href="https://cs50.harvard.edu/business/">CS50 for Business</a></li>
+	<li><a href="https://cs50.harvard.edu/business/">CS50 Business</a></li>
 	<li><a href="https://www.notion.so/CS50-AP-Educator-Workshop-2020-e9ca6ca001c246fab2abd20bd9924ff3">CS50 Educator Workshop 2020</a></li>
 	</ul>
  	<li><a href="http://bjc.berkeley.edu">Beauty and Joy of Computing</a> on <a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0">edX</a></li>
