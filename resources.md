@@ -204,6 +204,7 @@ Potential resources
 	<li><a href="https://bournetocode.com/">Bourne to Code</a> from the <a href="https://www.bourne-grammar.lincs.sch.uk/">Bourne school</a> in England</li>
 	<li><a href="https://derekbabb.github.io/CyberSecurity/">Cyber Security</a> A curriculum for a high school cyber security course.</li>
 	<li><a href="https://www.mooc.fi/en/">courses offered by University of Helsinki's Department of Computer Science</a></li>
+	<li><a href="https://www.allaboutcircuits.com/textbook/">free electric engineering textbook series</a></li>
 </ul>
 Chess
 <ul>
