@@ -177,7 +177,7 @@ Potential resources
 	<li><a href="https://cs50.harvard.edu/ap/">CS50 for AP</a></li>
 	<li><a href="https://cs50.harvard.edu/technology/">CS50 Technology</a></li>
 	<li><a href="https://cs50.harvard.edu/games/">CS50 Game Development</a></li>
-	<li><a href="https://cs50.harvard.edu/web/">CS50 Artificial Intelligence</a></li>
+	<li><a href="https://cs50.harvard.edu/web/">CS50 Web</a></li>
 	<li><a href="https://cs50.harvard.edu/ai/">CS50 Artificial Intelligence</a></li>
 	<li><a href="https://cs50.harvard.edu/law/">CS50 Law</a></li>	
 	<li><a href="https://cs50.harvard.edu/business/">CS50 Business</a></li>
