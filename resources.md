@@ -9,6 +9,7 @@ Primary Resources
  	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
 	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice</li>
  	<li><a href="https://edhesive.com/">Edhesive</a> for review and testing</li>
+	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
 </ul>
 Secondary Resources
 <ul>
@@ -108,7 +109,7 @@ Android
 HTML/CSS
 <ul>
 <li><a href="https://www.w3schools.com/">W3Schools</a></li>
-<li>webfundamentals on <a href="https://runestone.academy/">Runestone Academy</a></li>
+<li><a href="https://runestone.academy/runestone/books/published/webfundamentals/index.html">Web Fundamentals</a> on <a href="https://runestone.academy/runestone/books/index">Runestone Academy</a></li>
 <li>Web Design course on <a href="https://codehs.com/course/catalog">CodeHS</a></li>
 </ul>
 Swift
@@ -186,7 +187,6 @@ Potential resources
 	</ul>
  	<li><a href="http://bjc.berkeley.edu">Beauty and Joy of Computing</a> on <a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0">edX</a></li>
 	<li><a href="https://academy.cs.cmu.edu/about">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science</li>
-	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
  	<li><a href="http://mobile-csp.org/">MobileCSP</a></li>
  	<li><a href="https://www.greenfoot.org/door">Greenfoot</a></li>
  	<li><a href="https://academy.oracle.com/en/oa-web-overview.html">Oracle</a></li>
