@@ -12,7 +12,8 @@ Primary Resources
 </ul>
 Secondary Resources
 <ul>
-	<li><a href="https://www.cengage.com/sam/">SAM</a> for Office2013 simulation in Computer Literacy</li>
+	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
+	<li><a href="https://www.testout.com/courses">TestOut</a> for MSOffice simulation and certification</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
 	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
