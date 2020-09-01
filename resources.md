@@ -26,8 +26,6 @@ Secondary Resources
 	<li><a href="https://runestone.academy/">Runestone Academy</a> offers free interactive textbooks</li>
 	<li><a href="http://csawesome.org/">CS Awesome AP CSA</a></li>
 	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
-	<li><a href="https://www.udemy.com/">Udemy</a> for video instruction</li>
-	<li><a href="https://www.udacity.com/courses/all">Udacity</a> for video instruction</li>
 	<li><a href="https://longbaonguyen.github.io/index.html">CS resources</a> from Long Nguyen at UMass</li>
 	<li><a href="http://bit.ly/bshsbooks">eBooks</a> </li>
 </ul>
@@ -97,10 +95,6 @@ Android
 <ul>
 <li><a href="https://developer.android.com/studio">Android Studio</a> provides the fastest tools for building apps on every type of Android device</li>
 <li><a href="https://developer.android.com/training/basics/firstapp">Build your first Android app</a></li>
-<li><a href="https://www.jetbrains.com/help/idea/android.html">JetBrains Tutorials</a></li>
-<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EU0GOaQqHftJmoR1f5Ya7B0Bgx_ZLE9yGc8aisSbmJZmaQ?e=UVKwIp">Learn Java the Easy Way</a></li>
-<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EYpEILovLkFFrs79BwknYwwBd_Q9GcngZwCGrojFlYd8Xw?e=JtRfCM">Head First - Android Development</a></li>
-<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EXgVyd88RuxAhr_Hy8NYyOMBRAIX4YK-za0SDE0_SjItSA?e=eetnW4">Android Programming - Big Nerd Ranch</a></li>
 </ul>
 HTML/CSS
 <ul>
@@ -148,9 +142,11 @@ Documentation for our Apple IIe
 </ul>
 Advanced Topics
 <ul>
- 	<li><a href="https://www.edx.org">edX</a> - a collection of online classes</li>
- 	<li><a href="https://www.coursera.org/browse/computer-science?languages=en&amp;source=deprecated_spark_cdp">coursera</a> - a collection online classes</li>
- 	<li><a href="https://www.udacity.com/courses/software-engineering">udacity</a> - a collection of online courses</li>
+ 	<li><a href="https://www.edx.org">edX</a> - a collection of online courses</li>
+ 	<li><a href="https://www.coursera.org/browse/computer-science?languages=en&amp;source=deprecated_spark_cdp">coursera</a> - a collection online courses</li>
+	<li><a href="https://www.pluralsight.com/">pluralsight</a> - a collection of online courses</li>
+ 	<li><a href="https://www.udemy.com/">udemy</a> for video instruction</li>
+	<li><a href="https://www.udacity.com/courses/software-engineering">udacity</a> for video instruction</li>	
  	<li><a href="https://medium.com/@MyLeanMBA/breaking-down-the-top-3-mooc-platforms-coursera-udacity-edx-13e5ed481337">Comparing Coursera, Udacity &amp; edX</a></li>
  	<li><a href="http://www.teachingtree.co">teaching tree</a> - an array of videos on CS topics</li>
  	<li><a href="http://www.csmatters.org/">Computer Science (CS) Matters</a></li>
