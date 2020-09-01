@@ -83,12 +83,6 @@ Python
 Java
 <ul>
 <li><a href="http://greenteapress.com/wp/think-java/" target="_blank" rel="noopener noreferrer">Think Java</a></li>
-<li>Barron's AP prep with online practice
-<ul>
-<li>7th edition&nbsp;<a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/Eedp6sBmyJlEtzAagNTJE5kBUPqU2GngXp8Awcw8AbNY-g?e=tKSav8" target="_blank" rel="noopener noreferrer">PDF</a></li>
-<li>8th edition paper</li>
-</ul>
-</li>
 <li><a href="https://academy.oracle.com/en/resources-summary.html">Oracle Resources</a></li>
 <li><a href="https://academy.oracle.com/en/training-summary.html">Oracle Training</a></li>
 <li><a href="https://academy.oracle.com/en/training-workshops.html">Oracle Workshops</a></li>
@@ -97,6 +91,7 @@ Java
 <li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
 <li><a href="https://www.jetbrains.com/academy/">JetBrains Academy</a></li>
 <li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
+<li>Barron's AP prep with online practice (in the classroom)</li>
 </ul>
 Android
 <ul>
