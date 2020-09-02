@@ -89,7 +89,7 @@ Java
 <li><a href="http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad">Oracle Academy Login</a></li>
 <li><a href="https://www.jetbrains.com/academy/">JetBrains Academy</a></li>
 <li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
-<li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP prep</a> with online practice (in the classroom)</li>
+<li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP prep</a> with online practice (shared copy in the classroom)</li>
 </ul>
 Android
 <ul>
