@@ -77,6 +77,7 @@ Python
 <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Tutorial videos by Corey Schafer</a></li>
 <li><a href="https://yawpitchroll.com/posts/the-35-words-you-need-to-python/">The 35 Words You Need to Python</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Python for Beginners</a> - videos from Microsoft</li>
+<li><a href="https://getmimo.com/">Mimo</a> - <a href="https://medium.com/getmimo/mimo-press-kit-66f5da5b0375#.yr27fppcr">Learn to code, make apps, build websites, automate tasks, and more</a></li>
 </ul>
 Java
 <ul>
