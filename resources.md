@@ -3,7 +3,7 @@ layout: page
 title: Resources
 tagline: Relevant resources
 ---
-<h2 id="primary">Primary Resources</h2>
+<h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
 	<li><a href="https://www.digitalliteracyassessment.org/">Northstar</a> for Computer Literacy</li>
@@ -13,7 +13,7 @@ tagline: Relevant resources
  	<li><a href="https://edhesive.com/">Edhesive</a> for review and testing</li>
 	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
 </ul>
-<h2 id="primary">Secondary Resources</h2>
+<h3 id="primary">Secondary Resources</h3>
 <ul>
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
@@ -29,7 +29,7 @@ tagline: Relevant resources
 	<li><a href="https://longbaonguyen.github.io/index.html">CS resources</a> from Long Nguyen at UMass</li>
 	<li><a href="http://bit.ly/bshsbooks">eBooks</a> </li>
 </ul>
-<h2 id="standards">Standards and Certifications</h2>
+<h3 id="standards">Standards and Certifications</h3>
 <ul>
 	<li><a href="https://kystandards.org/content_area/computerscience/">CS Standards for Kentucky</a></li>
 	<li><a href="https://certiport.pearsonvue.com/Educator-resources/Exam-details/Objective-domains.aspx">Objective domains for the Certiport exams</a></li>
@@ -41,7 +41,7 @@ tagline: Relevant resources
 	<li><a href="https://en.wikiversity.org/wiki/Microsoft_Technology_Associate">MTA information on Wikiversity</a></li>
 </ul>
 <b>Students who have completed their work are encouraged to explore the following resources:</b>
-<h2 id="applications">Applications</h2>
+<h3 id="applications">Applications</h3>
 <ul>
 	<li><a href="https://www.thinkfun.com/">Thinkfun games</a> to develop logic skills</li>
 	<li><a href="https://code.org/learn">Hour of Code</a> - one-hour tutorials designed for all ages</li>
@@ -55,7 +55,7 @@ tagline: Relevant resources
 	<li><a href="https://processing.org/">Processing</a> - Learn to code within the context of the visual arts using <a href="https://processing.org/">Java</a>, <a href="https://p5js.org/">JavaScript</a>, or <a href="https://py.processing.org/">Python</a></li>
 	<li><a href="http://earsketch.gatech.edu/">EarSketch</a> - Learn to code by making music</li>
 </ul>
-<h2 id="python">Python</h2>
+<h3 id="python">Python</h3>
 <ul>
 <li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
 <li><a href="http://inventwithpython.com/">Invent with Python</a></li>
@@ -79,7 +79,7 @@ tagline: Relevant resources
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Python for Beginners</a> - videos from Microsoft</li>
 <li><a href="https://getmimo.com/">Mimo</a> - <a href="https://medium.com/getmimo/mimo-press-kit-66f5da5b0375#.yr27fppcr">Learn to code, make apps, build websites, automate tasks, and more</a></li>
 </ul>
-<h2 id="java">Java</h2>
+<h3 id="java">Java</h3>
 <ul>
 <li><a href="http://greenteapress.com/wp/think-java/" target="_blank" rel="noopener noreferrer">Think Java</a></li>
 <li><a href="https://academy.oracle.com/en/resources-summary.html">Oracle Resources</a></li>
@@ -92,18 +92,18 @@ tagline: Relevant resources
 <li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
 <li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP prep</a> with online practice (shared copy in the classroom)</li>
 </ul>
-<h2 id="android">Android</h2>
+<h3 id="android">Android</h3>
 <ul>
 <li><a href="https://developer.android.com/studio">Android Studio</a> provides the fastest tools for building apps on every type of Android device</li>
 <li><a href="https://developer.android.com/training/basics/firstapp">Build your first Android app</a></li>
 </ul>
-<h2 id="html">HTML/CSS</h2>
+<h3 id="html">HTML/CSS</h3>
 <ul>
 <li><a href="https://www.w3schools.com/">W3Schools</a></li>
 <li><a href="https://runestone.academy/runestone/books/published/webfundamentals/index.html">Web Fundamentals</a> on <a href="https://runestone.academy/runestone/books/index">Runestone Academy</a></li>
 <li>Web Design course on <a href="https://codehs.com/course/catalog">CodeHS</a></li>
 </ul>
-<h2 id="swift">Swift</h2>
+<h3 id="swift">Swift</h3>
 <ul>
 <li><a href="https://swift.org/">swift.org</a></li>
 <li><a href="https://www.apple.com/everyone-can-code/">Everyone Can Code</a> - an overview of resources from Apple</li>
@@ -113,7 +113,7 @@ tagline: Relevant resources
 <li><a href="https://www.theverge.com/2018/3/29/17173362/apple-swift-playgrounds-xcode-cliff-ipad-learn-to-code-education">The Xcode cliff</a></li>
 <li><a href="https://learnappmaking.com/develop-ios-apps-on-windows-pc/">How To Develop iOS Apps On A Windows PC</a></li>
 </ul>
-<h2 id="microcontrollers">Microcontrollers</h2>
+<h3 id="microcontrollers">Microcontrollers</h3>
 <ul>
  	<li><a href="https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board">Experiments for our Sparkfun Inventor's Kit</a></li>
   <li><a href="https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40?_ga=2.185758890.2055072175.1515119813-165513142.1512624028">Experiments for a similar Sparkfun Inventor's Kit</a></li>
@@ -121,7 +121,7 @@ tagline: Relevant resources
   <li><a href="https://www.sparkfun.com/products/11519">MaKey MaKey Kit</a></li>
   <li><a href="http://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438">ODROID-C2</a> is an alternative to the RaspberryPi</li>
 </ul>
-<h2 id="vex">VEX Robotics</h2>
+<h3 id="vex">VEX Robotics</h3>
 <ul>
  	<li><a href="https://www.vexrobotics.com/">VEX Robotics</a></li>
   <li><a href="http://www.robotc.net/">RobotC</a></li>
@@ -129,19 +129,19 @@ tagline: Relevant resources
   <li><a href="http://www.education.rec.ri.cmu.edu/products/teaching_robotc_vex/">RobotC curriculum</a> from Carnegie Mellon</li>
   <li><a href="https://curriculum.vexrobotics.com/curriculum.html">VEX EDR curriculum</a> (more mechanical than programming)</li>
 </ul>
-<h2 id="game">Game Design</h2>
+<h3 id="game">Game Design</h3>
 <ul>
   <li><a href="https://unity3d.com/">Unity</a> for 3D games</li>
   <li><a href="https://www.unrealengine.com/en-US/what-is-unreal-engine-4">Unreal</a> for 3D games</li>
   <li><a href="http://runjumpdev.org/">RunJumpDev</a> - A people-powered nonprofit created to grow and cultivate the local game development community in KY</li>
  <li><a href="https://www.slant.co/topics/8080/~3d-game-engines-for-beginners">3D game engines for beginners</a></li>
 </ul>
-<h2 id="iie">Documentation for our Apple IIe</h2>
+<h3 id="iie">Documentation for our Apple IIe</h3>
 <ul>
  	<li><a href="http://apple2online.com/index.php?p=1_8_Applesoft">Applesoft manuals</a></li>
   <li><a href="http://apple2online.com/index.php?p=1_13_Apple-II-IIe">Apple IIe manuals</a></li>
 </ul>
-<h2 id="advanced">Advanced Topics</h2>
+<h3 id="advanced">Advanced Topics</h3>
 <ul>
  	<li><a href="https://www.edx.org">edX</a> - a collection of online courses</li>
  	<li><a href="https://www.coursera.org/browse/computer-science?languages=en&amp;source=deprecated_spark_cdp">coursera</a> - a collection online courses</li>
@@ -153,7 +153,7 @@ tagline: Relevant resources
  	<li><a href="http://www.csmatters.org/">Computer Science (CS) Matters</a></li>
  	<li><a href="https://cs.uteach.utexas.edu/">UTeach CS Principles</a></li>
 </ul>
-<h2 id="tools">Tools</h2>
+<h3 id="tools">Tools</h3>
 <ul>
  	<li><a href="https://www.jetbrains.com/">JetBrains:</a> Developer Tools for Professionals and Teams 
  	(free for students in the fayette.kyschools.us domain)</li>
@@ -164,7 +164,7 @@ tagline: Relevant resources
  	<li><a href="http://jaredpetersen.github.io/codeprinter/">Code Printer</a> for pretty output</li>
  	<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing</li>
 </ul>
-<h2 id="potential">Potential resources</h2>
+<h3 id="potential">Potential resources</h3>
 <ul>
  	<li><a href="https://cs50.harvard.edu">The original CS50 at Harvard</a></li>
 	<ul>
@@ -213,7 +213,7 @@ tagline: Relevant resources
 	<li><a href="http://plainchess.timwoelfle.de">Chess Online</a> from PlainChess with source code</li>
 	<li><a href="https://www.dicetower.com/">Dice Tower</a> for board game reviews</li>
 </ul>
-<h4 id="go">Go (Igo in Japan, Weiqi in China, and Baduk in Korea)</h4>
+<h3 id="go">Go (Igo in Japan, Weiqi in China, and Baduk in Korea)</h3>
 <ul>
 	<li><a href="https://www.usgo.org/">The American Go Association</a></li>
 	<li><a href="http://agfgo.org/pages/home.php">The American Go Foundation</a></li>
