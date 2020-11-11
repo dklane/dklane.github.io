@@ -3,7 +3,7 @@ layout: page
 title: Resources
 tagline: Relevant resources
 ---
-Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>, <a href="#java">java</a>, <a href="#android">android</a>, <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>, <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#iie">apple iie</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#potential">potential resources</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
+Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>, <a href="#java">java</a>, <a href="#android">android</a>, <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>, <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#potential">potential resources</a>, <a href="#iie">apple iie</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
 <h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
@@ -137,11 +137,6 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
   <li><a href="http://runjumpdev.org/">RunJumpDev</a> - A people-powered nonprofit created to grow and cultivate the local game development community in KY</li>
  <li><a href="https://www.slant.co/topics/8080/~3d-game-engines-for-beginners">3D game engines for beginners</a></li>
 </ul>
-<h3 id="iie">Documentation for our Apple IIe</h3>
-<ul>
- 	<li><a href="http://apple2online.com/index.php?p=1_8_Applesoft">Applesoft manuals</a></li>
-  <li><a href="http://apple2online.com/index.php?p=1_13_Apple-II-IIe">Apple IIe manuals</a></li>
-</ul>
 <h3 id="advanced">Advanced Topics</h3>
 <ul>
  	<li><a href="https://www.edx.org">edX</a> - a collection of online courses</li>
@@ -204,6 +199,11 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.mooc.fi/en/">courses offered by University of Helsinki's Department of Computer Science</a></li>
 	<li><a href="https://csteachers.org/nifty">Nifty Assignments</a></li>
 	<li><a href="https://www.allaboutcircuits.com/textbook/">free electric engineering textbook series</a></li>
+</ul>
+<h3 id="iie">Documentation for our Apple IIe</h3>
+<ul>
+ 	<li><a href="http://apple2online.com/index.php?p=1_8_Applesoft">Applesoft manuals</a></li>
+  <li><a href="http://apple2online.com/index.php?p=1_13_Apple-II-IIe">Apple IIe manuals</a></li>
 </ul>
 <h3 id="chess">Chess</h3>
 <ul>
