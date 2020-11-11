@@ -204,7 +204,7 @@ tagline: Relevant resources
 	<li><a href="https://csteachers.org/nifty">Nifty Assignments</a></li>
 	<li><a href="https://www.allaboutcircuits.com/textbook/">free electric engineering textbook series</a></li>
 </ul>
-<h2 id="chess">Chess</h2>
+<h3 id="chess">Chess</h3>
 <ul>
 	<li><a href="https://new.uschess.org/home/">US Chess Federation</a></li>
  	<li><a href="https://www.chessperformance.com/index.html">Chess Performance Tournaments</a></li>
@@ -213,7 +213,7 @@ tagline: Relevant resources
 	<li><a href="http://plainchess.timwoelfle.de">Chess Online</a> from PlainChess with source code</li>
 	<li><a href="https://www.dicetower.com/">Dice Tower</a> for board game reviews</li>
 </ul>
-<h2 id="go">Go (Igo in Japan, Weiqi in China, and Baduk in Korea)</h2>
+<h4 id="go">Go (Igo in Japan, Weiqi in China, and Baduk in Korea)</h4>
 <ul>
 	<li><a href="https://www.usgo.org/">The American Go Association</a></li>
 	<li><a href="http://agfgo.org/pages/home.php">The American Go Foundation</a></li>
