@@ -3,6 +3,7 @@ layout: page
 title: Resources
 tagline: Relevant resources
 ---
+Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>, <a href="#java">java</a>, <a href="#android">android</a>, <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>, <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#iie">apple iie</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#potential">potential resources</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
 <h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
@@ -13,7 +14,7 @@ tagline: Relevant resources
  	<li><a href="https://edhesive.com/">Edhesive</a> for review and testing</li>
 	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
 </ul>
-<h3 id="primary">Secondary Resources</h3>
+<h3 id="secondary">Secondary Resources</h3>
 <ul>
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
