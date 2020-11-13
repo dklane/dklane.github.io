@@ -11,7 +11,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.testout.com/courses">TestOut</a> for MSOffice simulation and certification</li>
  	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
 	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice</li>
- 	<li><a href="https://edhesive.com/">Edhesive</a> for review and testing</li>
+ 	<li><a href="https://edhesive.com/">Edhesive</a> for practice and testing</li>
 	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
 </ul>
 <h3 id="secondary">Secondary Resources</h3>
