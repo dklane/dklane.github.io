@@ -92,6 +92,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://www.jetbrains.com/academy/">JetBrains Academy</a></li>
 <li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
 <li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP prep</a> with online practice (shared copy in the classroom)</li>
+<li><a href="https://www.youtube.com/user/codyhenr/featured">Cody Henrichsen videos</a></li>
 </ul>
 <h3 id="android">Android</h3>
 <ul>
