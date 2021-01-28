@@ -1,4 +1,4 @@
-# Artifacts
+# Student Artifacts
 ## Website projects
 * [Being18Matters](http://being18matters.org/)
 ## HTML/CSS examples
@@ -8,5 +8,6 @@
 ## Games created with Fusion
 * [Platformer](Platformer.exe)
 * [PuzzleReader](PuzzleReader.exe)
+* [Amazon](Amazon.exe)
 ## Games created with Construct3
 * [KiwiStory](KiwiStory)
