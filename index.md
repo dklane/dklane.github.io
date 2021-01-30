@@ -23,7 +23,7 @@ and [Java](java).
 I expect the students in these courses to learn useful skills
 and earn [industry certifications](certifications).
 
-Visit <a href="https://planbook.com/planbook.html?t=1393002&amp;k=bshs">Planbook</a> to see what we are doing in each of these classes.
+Student access these courses on <a href="fcps.net/canvas">Canvas</a>.
 
 David Lane,
 IT Teacher,
