@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Courses
-tagline: Courses for 2018-19
+tagline: Courses
 ---
-The computer science courses at Bryan Station for 2018-19 include:
+The computer science courses at Bryan Station include:
 
 * [Computer Literacy](complit): An overview of computer hardware, 
 office applications, and living online.
