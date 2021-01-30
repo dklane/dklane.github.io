@@ -1,5 +1,8 @@
-# Student Artifacts
-
+---
+layout: page
+title: Artifacts
+tagline: Work created by our students
+---# Student Artifacts
 ## Website projects
 - [Being18Matters](http://being18matters.org/)
 
