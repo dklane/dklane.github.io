@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-tagline: Courses
+tagline: Courses in our computer programming pathway
 ---
 The computer science courses at Bryan Station include:
 
