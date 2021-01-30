@@ -7,9 +7,8 @@ Students are encouraged to pursue the following industry certifications:
 
 Microsoft Office Specialist
 <ul>
- 	<li><a href="https://support.microsoft.com/en-us/topic/earn-a-microsoft-office-specialist-mos-certification-0885c944-167c-51ea-1cdc-8f65952bd1b8">Earn a Microsoft Office Specialist (MOS) certification</a></li>
+ 	<li><a href="https://docs.microsoft.com/en-us/learn/certifications/microsoft-office-specialist-associate-2019">Earn a Microsoft Office Specialist (MOS) certification</a></li>
  	<li><a href="https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Certify/MOS-2016">Certiport information</a></li>
-	<li><a href="https://www.testout.com/lp/office-pro">TestOut Office Pro</a></li>
 </ul>
 
 TestOut
