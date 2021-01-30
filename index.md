@@ -15,7 +15,7 @@ as a teacher to serve the next generation.
 Our school has many excellent programs and I am excited to be part of the
 <a href="https://www.fcps.net/domain/5384">Information Technology Academy</a>.
 
-My [courses for 2018-19](courses) include 
+My [courses](courses) include 
 [Computer Literacy](complit),
 [Computational Thinking](compthink),
 [Introduction to Programming](introprog),
