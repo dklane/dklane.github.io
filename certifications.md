@@ -30,4 +30,10 @@ Microsoft Technology Associate
     <li><a href="https://certiport.pearsonvue.com/Certifications/Microsoft/MTA/Overview">Certiport information</a></li>
 </ul>
 
+CompTIA
+<ul>
+ 	<li><a href="https://www.comptia.org/certifications/it-fundamentals">IT Fundamentals</a></li>
+ 	<li><a href="https://www.comptia.org/certifications/a">A+</a></li>
+</ul>
+
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
