@@ -23,6 +23,6 @@ tagline: Work created by our students
 
 ## Games created with Construct3
 #### We switched to Construct3 this year and I look forward to sharing what the students create
-- [KiwiStory](KiwiStory)
+- [A Construct3 Sample](KiwiStory)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
