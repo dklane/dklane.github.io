@@ -6,7 +6,7 @@ tagline: Work created by our students
 ## Website projects
 - [Being18Matters](http://being18matters.org/)
 
-## HTML/CSS examples
+## HTML/CSS projects
 - [Recipe for Mathmatics Pi](https://unit-5-website-project-2.dklane.repl.co/)
 - [Astrology](https://unit-5-website-project-3.dklane.repl.co/)
 - [How to brew the best cup of tea](https://unit-5-website-project-4.dklane.repl.co/)
