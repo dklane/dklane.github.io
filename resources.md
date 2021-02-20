@@ -16,6 +16,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 </ul>
 <h3 id="secondary">Secondary Resources</h3>
 <ul>
+	<li><a href="http://bit.ly/bshsbooks">eBook Collection</a> </li>
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
@@ -28,7 +29,6 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="http://csawesome.org/">CS Awesome AP CSA</a></li>
 	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
 	<li><a href="https://longbaonguyen.github.io/index.html">CS resources</a> from Long Nguyen at UMass</li>
-	<li><a href="http://bit.ly/bshsbooks">eBook Collection</a> </li>
 </ul>
 <h3 id="standards">Standards and Certifications</h3>
 <ul>
