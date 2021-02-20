@@ -3,7 +3,7 @@ layout: page
 title: Resources
 tagline: Resources for students to explore
 ---
-Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>, <a href="#java">java</a>, <a href="#android">android</a>, <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>, <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#potential">potential resources</a>, <a href="#iie">apple iie</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
+Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>, <a href="#java">java</a>, <a href="#javascript">javascript</a>, <a href="#android">android</a>, <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>, <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#potential">potential resources</a>, <a href="#iie">apple iie</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
 <h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
@@ -60,17 +60,13 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <ul>
 <li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
 <li><a href="http://inventwithpython.com/">Invent with Python</a></li>
-<ul>
 <li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
 <li><a href="http://inventwithpython.com/cracking/">Cracking Codes with Python</a></li>
 <li><a href="http://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
 <li><a href="http://inventwithpython.com/pygame/">Making Games with Python &amp; Pygame</a></li>
 <li><a href="https://alsweigart.com/">Al Sweigart's home page</a></li>
-</ul>
 <li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
-<ul>
 <li><a href="https://github.com/ehmatthes/python_teaching_fall_2018">Teaching notes from Eric Matthes</a></li>
-</ul>
 <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
 <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
@@ -79,6 +75,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://yawpitchroll.com/posts/the-35-words-you-need-to-python/">The 35 Words You Need to Python</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Python for Beginners</a> - videos from Microsoft</li>
 <li><a href="https://getmimo.com/">Mimo</a> - <a href="https://medium.com/getmimo/mimo-press-kit-66f5da5b0375#.yr27fppcr">Learn to code, make apps, build websites, automate tasks, and more</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Microsoft Beginner's Series to: Python</a></li>
 </ul>
 <h3 id="java">Java</h3>
 <ul>
@@ -93,6 +90,11 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
 <li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP prep</a> with online practice (shared copy in the classroom)</li>
 <li><a href="https://www.youtube.com/user/codyhenr/featured">Cody Henrichsen videos</a></li>
+</ul>
+<h3 id="javascript">JavaScript</h3>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2">Microsoft Beginner's Series to: JavaScript</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg">Microsoft Beginner's Series to: Node.js</a></li>
 </ul>
 <h3 id="android">Android</h3>
 <ul>
