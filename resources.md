@@ -95,6 +95,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2">Microsoft Beginner's Series to: JavaScript</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg">Microsoft Beginner's Series to: Node.js</a></li>
+<li><a href="https://www.edx.org/course/introduction-to-nodejs-2?source=aw&awc=6798_1613747378_7bb63a6f8084e598ccbca03202bab0e6&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=423585_CNET+Media+Group">Introduction to Node.js on EdX</a></li>
 </ul>
 <h3 id="android">Android</h3>
 <ul>
