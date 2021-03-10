@@ -17,7 +17,7 @@ tagline: Work created by our students
 
 ## Games created with Construct3
 #### We switched to Construct3 this year and I look forward to sharing what the students create
-- [DotCollection2.0](DotCollection2.0)
+- [DotCollect2.0](DotCollect2.0)
 - [Ladybug](Ladybug)
 
 ## Games created with Fusion
