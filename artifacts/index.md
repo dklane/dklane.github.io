@@ -15,15 +15,15 @@ tagline: Work created by our students
 - [Learn Codes](https://codeprojects.org/4bOrxucJG2ZUYRwYjYwQU1cgNQqnVEnSpEK4aJxGqZA/)
 - [Dungeons and Dragons](https://codeprojects.org/iMeIW22X95ZN4L1SSN3ubwU5qr_wCG30MUGRysgtwlU/index.html)
 
+## Games created with Construct3
+#### We switched to Construct3 this year and I look forward to sharing what the students create
+- [DotCollection2.0](DotCollection2.0)
+- [Ladybug](Ladybug)
+
 ## Games created with Fusion
 #### These are Windows executables that must be downloaded
 - [Platformer](Platformer.exe)
 - [PuzzleReader](PuzzleReader.exe)
 - [Amazon](Amazon.exe)
-
-## Games created with Construct3
-#### We switched to Construct3 this year and I look forward to sharing what the students create
-- [DotCollection2.0](DotCollection2.0)
-- [Ladybug](Ladybug)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
