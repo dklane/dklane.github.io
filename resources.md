@@ -152,6 +152,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
  	<li><a href="http://www.teachingtree.co">teaching tree</a> - an array of videos on CS topics</li>
  	<li><a href="http://www.csmatters.org/">Computer Science (CS) Matters</a></li>
  	<li><a href="https://cs.uteach.utexas.edu/">UTeach CS Principles</a></li>
+	<li><a href="https://www.youtube.com/results?search_query=linus+tech+tips">Linus Tech Tips</a> - Tech can be complicated; we try to make it easy. Linus Tech Tips is a passionate team of "professionally curious" experts</li>
+	<li><a href="https://www.youtube.com/playlist?list=PL7LCgs6i86T_hRZ0cGQtS39eFu7obaFD4">CS 1124 Foundations of Computer Science </a> with Robert England from Transylvania University</li>
 </ul>
 <h3 id="tools">Tools</h3>
 <ul>
