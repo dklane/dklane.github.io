@@ -19,11 +19,6 @@ tagline: Work created by our students
 #### We switched to Construct3 this year and I look forward to sharing what the students create
 - [DotCollect2.0](DotCollect2.0)
 - [Ladybug](Ladybug)
-
-## Games created with Fusion
-#### These are Windows executables that must be downloaded
-- [Platformer](Platformer.exe)
-- [PuzzleReader](PuzzleReader.exe)
-- [Amazon](Amazon.exe)
+- [ZombieLand](ZombieLand)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
