@@ -20,5 +20,7 @@ tagline: Work created by our students
 - [DotCollect2.0](DotCollect2.0)
 - [Ladybug](Ladybug)
 - [ZombieLand](ZombieLand)
+- [MultiGame](MultiGame)
+- [CarTack](CarTack)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
