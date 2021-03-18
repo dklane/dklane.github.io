@@ -20,7 +20,14 @@ tagline: Work created by our students
 - [DotCollect2.0](DotCollect2.0)
 - [Ladybug](Ladybug)
 - [ZombieLand](ZombieLand)
+- [YESSS](YESSS)
 - [MultiGame](MultiGame)
 - [CarTack](CarTack)
+
+## Games created with Fusion
+#### These are Windows executables that must be downloaded
+- [PlatformGame](PlatformGame.exe)
+- [PuzzleReader](PuzzleReader.exe)
+- [AmazonAdventure](AmazonAdventure.exe)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
