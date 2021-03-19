@@ -164,7 +164,17 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
  	<li><a href="https://c9.io/login">C9.io</a> provides virtual servers (I can create student accounts)</li>
  	<li><a href="https://sandbox.cs50.io/">CS50 Sandbox:</a> temporary programming environments for students and teachers</li>
  	<li><a href="http://jaredpetersen.github.io/codeprinter/">Code Printer</a> for pretty output</li>
- 	<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing</li>
+	<li>Image editors</li>
+	<ul>
+ 		<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing online</li>
+		<li><a href="https://www.gimp.org/">Gimp</a> and <a href="https://portableapps.com/apps/graphics_pictures/gimp_portable">GimpPortable</a> for image editing on a workstation</li>
+	</ul>
+	<li>2D/3D plotting and linear algebra</li>
+	<ul>
+ 		<li><a href="https://www.mathworks.com/products/matlab.html">MATLAB</a> is the profession choice</li>
+		<li><a href="https://www.gnu.org/software/octave/index">Octave</a> is an open source alternative</li>
+		<li><a href="https://sourceforge.net/projects/octave-portable/">OctavePortable</a> can be used on school computers</li>
+	</ul>
 </ul>
 <h3 id="potential">Potential resources</h3>
 <ul>
