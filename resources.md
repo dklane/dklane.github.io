@@ -219,8 +219,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 </ul>
 <h3 id="iie">Documentation for our Apple IIe</h3>
 <ul>
- 	<li><a href="http://apple2online.com/index.php?p=1_8_Applesoft">Applesoft manuals</a></li>
-  <li><a href="http://apple2online.com/index.php?p=1_13_Apple-II-IIe">Apple IIe manuals</a></li>
+ 	<li><a href="https://apple2online.com/?page_id=4317">Apple IIe manuals</a></li>
+	<li><a href="https://apple2online.com/?page_id=4277">Applesoft manuals</a></li>
 </ul>
 <h3 id="chess">Chess</h3>
 <ul>
