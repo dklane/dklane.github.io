@@ -23,6 +23,7 @@ tagline: Work created by our students
 - [YESSS](YESSS)
 - [MultiGame](MultiGame)
 - [CarTack](CarTack)
+- [CarChase](CarChase)
 
 ## Games created with Fusion
 #### These are Windows executables that must be downloaded
