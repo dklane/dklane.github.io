@@ -23,7 +23,7 @@ and [Java](java).
 I expect the students in these courses to learn useful skills
 and earn [industry certifications](certifications).
 
-Student access these courses on <a href="fcps.net/canvas">Canvas</a>.
+Student access these courses on [Canvas](http://fcps.net/canvas).
 
 David Lane,
 IT Teacher,
