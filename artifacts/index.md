@@ -23,7 +23,7 @@ tagline: Work created by our students
 - [MazeRunner](MazeRunner)
 - [Squirrel](Squirrel)
 - [CoinMaze](CoinMaze)
-= [CP2XRay](CP2XRay)
+- [CP2XRay](CP2XRay)
 - [Mouse](Mouse)
 - [DotCollect2.0](DotCollect2.0)
 - [Ladybug](Ladybug)
