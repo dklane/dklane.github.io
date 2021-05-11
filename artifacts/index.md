@@ -23,6 +23,7 @@ tagline: Work created by our students
 - [Squirrel](Squirrel)
 - [CoinMaze](CoinMaze)
 - [CP2XRay](CP2XRay)
+- [JungleJumper](JungleJumper)
 - [Mouse](Mouse)
 - [MazeRunner](MazeRunner)
 - [DotCollect2.0](DotCollect2.0)
