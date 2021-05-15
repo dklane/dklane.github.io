@@ -24,6 +24,7 @@ tagline: Work created by our students
 - [CoinMaze](CoinMaze)
 - [CP2XRay](CP2XRay)
 - [JungleJumper](JungleJumper)
+- [Don't Be Rickrolled](DontBeRickrolled)
 - [Mouse](Mouse)
 - [MazeRunner](MazeRunner)
 - [DotCollect2.0](DotCollect2.0)
