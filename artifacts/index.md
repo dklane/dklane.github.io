@@ -15,8 +15,10 @@ tagline: Work created by our students
 - [Learn Codes](https://codeprojects.org/4bOrxucJG2ZUYRwYjYwQU1cgNQqnVEnSpEK4aJxGqZA/)
 - [Dungeons and Dragons](https://codeprojects.org/iMeIW22X95ZN4L1SSN3ubwU5qr_wCG30MUGRysgtwlU/index.html)
 
+## Drone Videos
+- [Eastside Mini Tour](https://www.youtube.com/watch?v=Nx_zW7QgjXE)
+
 ## Games created with Construct3
-#### We switched to Construct3 this year and I look forward to sharing what the students create
 - [AAAAAAAAAAAAAAA](https://dottrail.ellyr.repl.co/)
 - [FNF](FNF)
 - [Tweeter](Tweeter)
