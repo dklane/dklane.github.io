@@ -11,6 +11,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.testout.com/courses">TestOut</a> for MSOffice simulation and certification</li>
  	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
 	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice</li>
+	<li><a href="https://codehs.com/info/pd/free">CodeHS</a> PD workshops</li>
  	<li><a href="https://edhesive.com/">Edhesive</a> for practice and testing</li>
 	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
 </ul>
@@ -21,6 +22,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
 	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
+	<li><a href="https://projecteuler.net/">Project Euler</a> for practice in any programming language</li>
 	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
 	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
  	<li><a href="https://repl.it/">Repl.it</a> for open response questions 
@@ -76,6 +78,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Python for Beginners</a> - videos from Microsoft</li>
 <li><a href="https://getmimo.com/">Mimo</a> - <a href="https://medium.com/getmimo/mimo-press-kit-66f5da5b0375#.yr27fppcr">Learn to code, make apps, build websites, automate tasks, and more</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Microsoft Beginner's Series to: Python</a></li>
+<li><a href="https://thonny.org/">Thonny</a> A Python IDE for beginners</li>
 </ul>
 <h3 id="java">Java</h3>
 <ul>
@@ -90,6 +93,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
 <li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP prep</a> with online practice (shared copy in the classroom)</li>
 <li><a href="https://www.youtube.com/user/codyhenr/featured">Cody Henrichsen videos</a></li>
+<li><a href="http://cs.joensuu.fi/jeliot/">Jeliot</a> A Java IDE for beginners</li>
+<li><a href="https://www.jgrasp.org/">jGRASP</a> A lightweight development environment created for automatic generation of software visualizations</li>
 </ul>
 <h3 id="javascript">JavaScript</h3>
 <ul>
@@ -107,13 +112,13 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://www.w3schools.com/">W3Schools</a></li>
 <li><a href="https://runestone.academy/runestone/books/published/webfundamentals/index.html">Web Fundamentals</a> on <a href="https://runestone.academy/runestone/books/index">Runestone Academy</a></li>
 <li>Web Design course on <a href="https://codehs.com/course/catalog">CodeHS</a></li>
+<li><a href="https://websitesetup.org/">WebSiteSetup</a> An Easy, Step-by-Step Guide for Beginners</li>
 </ul>
 <h3 id="swift">Swift</h3>
 <ul>
 <li><a href="https://swift.org/">swift.org</a></li>
 <li><a href="https://www.apple.com/everyone-can-code/">Everyone Can Code</a> - an overview of resources from Apple</li>
 <li><a href="https://www.apple.com/education/teaching-code/">Teaching Code</a> - more detailed info about Swift resources</li>
-<li><a href="http://www.speirs.org/blog/2017/6/1/a-year-of-teaching-swift">A Year of Teaching Swift</a></li>
 <li><a href="https://blog.teamtreehouse.com/every-junior-ios-developer-needs-know">What Every Junior iOS Developer Needs to Know</a></li>
 <li><a href="https://www.theverge.com/2018/3/29/17173362/apple-swift-playgrounds-xcode-cliff-ipad-learn-to-code-education">The Xcode cliff</a></li>
 <li><a href="https://learnappmaking.com/develop-ios-apps-on-windows-pc/">How To Develop iOS Apps On A Windows PC</a></li>
@@ -214,8 +219,10 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://bournetocode.com/">Bourne to Code</a> from the <a href="https://www.bourne-grammar.lincs.sch.uk/">Bourne school</a> in England</li>
 	<li><a href="https://derekbabb.github.io/CyberSecurity/">Cyber Security</a> A curriculum for a high school cyber security course.</li>
 	<li><a href="https://www.mooc.fi/en/">courses offered by University of Helsinki's Department of Computer Science</a></li>
-	<li><a href="https://csteachers.org/nifty">Nifty Assignments</a></li>
+	<li><a href="https://csteachers.org/nifty">CSTA Nifty Assignments</a></li>
+	<li><a href="http://nifty.stanford.edu/">Stanford Nifty Assignments</a></li>
 	<li><a href="https://www.allaboutcircuits.com/textbook/">free electric engineering textbook series</a></li>
+	<li><a href="https://techbootcamps.utexas.edu/blog/resource-guide-stem-students-autism/">The Ultimate Resource Guide for STEM Students With Autism</a></li>
 </ul>
 <h3 id="iie">Documentation for our Apple IIe</h3>
 <ul>
