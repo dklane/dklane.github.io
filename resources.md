@@ -3,7 +3,12 @@ layout: page
 title: Resources
 tagline: Resources for students to explore
 ---
-Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>, <a href="#java">java</a>, <a href="#javascript">javascript</a>, <a href="#android">android</a>, <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>, <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#potential">potential resources</a>, <a href="#iie">apple iie</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
+Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>,
+ <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>,
+ <a href="#java">java</a>, <a href="#javascript">javascript</a>, <a href="#android">android</a>,
+ <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>,
+ <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#drone">drone</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>,
+ <a href="#potential">potential resources</a>, <a href="#iie">apple iie</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
 <h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
@@ -145,6 +150,13 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
   <li><a href="https://www.unrealengine.com/en-US/what-is-unreal-engine-4">Unreal</a> for 3D games</li>
   <li><a href="http://runjumpdev.org/">RunJumpDev</a> - A people-powered nonprofit created to grow and cultivate the local game development community in KY</li>
  <li><a href="https://www.slant.co/topics/8080/~3d-game-engines-for-beginners">3D game engines for beginners</a></li>
+</ul>
+<h3 id="drone">Drones</h3>
+<ul>
+  <li><a href="https://www.ryzerobotics.com/tello">Tello</a> programmable drones for indoor use</li>
+  <li><a href="https://www.dji.com/">DJI</a> drones for outdoor use</li>
+  <li><a href="https://clipchamp.com/en/">Clipchamp</a> for editing videos online</li>
+  <li><a href="https://panzoid.com/">Panzoid</a> for creating video transitions</li>
 </ul>
 <h3 id="advanced">Advanced Topics</h3>
 <ul>
