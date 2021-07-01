@@ -99,7 +99,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP prep</a> with online practice (shared copy in the classroom)</li>
 <li><a href="https://www.youtube.com/user/codyhenr/featured">Cody Henrichsen videos</a></li>
 <li><a href="http://cs.joensuu.fi/jeliot/">Jeliot</a> A Java IDE for beginners</li>
-<li><a href="https://www.jgrasp.org/">jGRASP</a> A lightweight development environment created for automatic generation of software visualizations</li>
+<li><a href="https://www.jgrasp.org/">jGRASP</a> A lightweight development environment with software visualizations</li>
 </ul>
 <h3 id="javascript">JavaScript</h3>
 <ul>
