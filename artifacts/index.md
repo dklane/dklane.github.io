@@ -36,6 +36,9 @@ tagline: Work created by our students
 - [MultiGame](MultiGame)
 - [CarTack](CarTack)
 - [CarChase](CarChase)
+- [Gravity](Gravity)
+- [Lesson12](Lesson12)
+- [Lesson6](Lesson6)
 
 ## Games created with Fusion
 #### These are Windows executables that must be downloaded
