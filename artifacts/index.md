@@ -17,6 +17,8 @@ tagline: Work created by our students
 
 ## Drone Videos
 - [Eastside Mini Tour](https://www.youtube.com/watch?v=Nx_zW7QgjXE)
+- [Tic Tac Drone](https://www.youtube.com/watch?v=fM7fnl-s660)
+- [Drone Course](https://www.youtube.com/watch?v=SlhMIPZkAw8)
 
 ## Games created with Construct3
 - [AAAAAAAAAAAAAAA](https://dottrail.ellyr.repl.co/)
