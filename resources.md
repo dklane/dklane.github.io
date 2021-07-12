@@ -247,8 +247,9 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <ul>
 	<li><a href="https://lichess.org/">Lichess</a> an excellent place to learn and play chess</li>
 	<ul>
-	<li><a href="https://lishogi.org/">Shogi</a> from the Lichess team</li>
-	<li><a href="https://lishogi.org/">Checkers</a> from the Lichess team</li>
+	<li><a href="https://lidraughts.org/">Draughts</a> Checkers from the Lichess team</li>
+	<li><a href="https://lishogi.org/">Shogi</a> Chinese chess from the Lichess team</li>
+	<li><a href="https://play.xiangqi.com/lobby">Xiangqi</a> Korean chess</li>
 	</ul>
 	<li><a href="https://new.uschess.org/home/">US Chess Federation</a></li>
  	<li><a href="https://www.chessperformance.com/index.html">Chess Performance Tournaments</a></li>
