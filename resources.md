@@ -245,6 +245,11 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 </ul>
 <h3 id="chess">Chess</h3>
 <ul>
+	<li><a href="https://lichess.org/">Lichess</a> an excellent place to learn and play chess</li>
+	<ul>
+	<li><a href="https://lishogi.org/">Shogi</a> from the Lichess team</li>
+	<li><a href="https://lishogi.org/">Checkers</a> from the Lichess team</li>
+	</ul>
 	<li><a href="https://new.uschess.org/home/">US Chess Federation</a></li>
  	<li><a href="https://www.chessperformance.com/index.html">Chess Performance Tournaments</a></li>
  	<li><a href="https://www.wholesalechess.com/pages/more/new-to-chess.html">Chess 101</a></li>
@@ -254,9 +259,10 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 </ul>
 <h3 id="go">Go (Igo in Japan, Weiqi in China, and Baduk in Korea)</h3>
 <ul>
+	<li><a href="https://online-go.com/">OGS</a> an excellent place to learn and play Go</li>
 	<li><a href="https://www.usgo.org/">The American Go Association</a></li>
 	<li><a href="http://agfgo.org/pages/home.php">The American Go Foundation</a></li>
- 	<li><a href="https://online-go.com/">Oneline Go Server</a></li>
  	<li><a href="https://www.sjeng.org/leela.html">Leela Go engine with heatmaps</a></li>
+	
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
