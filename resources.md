@@ -87,6 +87,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://getmimo.com/">Mimo</a> - <a href="https://medium.com/getmimo/mimo-press-kit-66f5da5b0375#.yr27fppcr">Learn to code, make apps, build websites, automate tasks, and more</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Microsoft Beginner's Series to: Python</a></li>
 <li><a href="https://thonny.org/">Thonny</a> A Python IDE for beginners</li>
+<li><a href="https://colab.research.google.com/">Google Colab</a> allows you to write and execute Python in your browser</li>
 </ul>
 <h3 id="java">Java</h3>
 <ul>
