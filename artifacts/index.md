@@ -43,10 +43,4 @@ tagline: Work created by our students
 - [Lesson12](Lesson12)
 - [Lesson6](Lesson6)
 
-## Games created with Fusion
-#### These are Windows executables that must be downloaded
-- [PlatformGame](PlatformGame.exe)
-- [PuzzleReader](PuzzleReader.exe)
-- [AmazonAdventure](AmazonAdventure.exe)
-
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
