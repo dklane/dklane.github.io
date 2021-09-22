@@ -15,11 +15,6 @@ tagline: Work created by our students
 - [Learn Codes](https://codeprojects.org/4bOrxucJG2ZUYRwYjYwQU1cgNQqnVEnSpEK4aJxGqZA/)
 - [Dungeons and Dragons](https://codeprojects.org/iMeIW22X95ZN4L1SSN3ubwU5qr_wCG30MUGRysgtwlU/index.html)
 
-## Drone Videos
-- [Eastside Mini Tour](https://www.youtube.com/watch?v=Nx_zW7QgjXE)
-- [Tic Tac Drone](https://www.youtube.com/watch?v=fM7fnl-s660)
-- [Drone Course](https://www.youtube.com/watch?v=SlhMIPZkAw8)
-
 ## Games created with Construct3
 - [AAAAAAAAAAAAAAA](https://dottrail.ellyr.repl.co/)
 - [New Worlds](NewWorlds)
@@ -42,5 +37,10 @@ tagline: Work created by our students
 - [Gravity](Gravity)
 - [Lesson12](Lesson12)
 - [Lesson6](Lesson6)
+
+## Drone Videos
+- [Eastside Mini Tour](https://www.youtube.com/watch?v=Nx_zW7QgjXE)
+- [Tic Tac Drone](https://www.youtube.com/watch?v=fM7fnl-s660)
+- [Drone Course](https://www.youtube.com/watch?v=SlhMIPZkAw8)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
