@@ -32,7 +32,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
 	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
  	<li><a href="https://repl.it/">Repl.it</a> for open response questions 
- 	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>)</li>
+ 	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>) (<a href="https://community.replit.com/">support community</a>)</li>
+	<li><a href="https://www.codingrooms.com/">Coding Rooms</a> for teaching programming online and in-person</li>
 	<li><a href="https://runestone.academy/">Runestone Academy</a> offers free interactive textbooks</li>
 	<li><a href="http://csawesome.org/">CS Awesome AP CSA</a></li>
 	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
@@ -67,6 +68,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <h3 id="python">Python</h3>
 <ul>
 <li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
+<li><a href="https://www.pygame.org/wiki/about">pyGame</a> for creating graphical games</li>
+<li><a href="https://docs.pydraw.graphics/">pyDraw</a> a student designed library for drawing graphics</li>
 <li><a href="http://inventwithpython.com/">Invent with Python</a></li>
 <li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
 <li><a href="http://inventwithpython.com/cracking/">Cracking Codes with Python</a></li>
@@ -85,10 +88,12 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://getmimo.com/">Mimo</a> - <a href="https://medium.com/getmimo/mimo-press-kit-66f5da5b0375#.yr27fppcr">Learn to code, make apps, build websites, automate tasks, and more</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Microsoft Beginner's Series to: Python</a></li>
 <li><a href="https://thonny.org/">Thonny</a> A Python IDE for beginners</li>
+<li><a href="https://colab.research.google.com/">Google Colab</a> allows you to write and execute Python in your browser</li>
 </ul>
 <h3 id="java">Java</h3>
 <ul>
 <li><a href="http://greenteapress.com/wp/think-java/" target="_blank" rel="noopener noreferrer">Think Java</a></li>
+<li><a href="https://javadraw.graphics/">javaDraw</a> a student designed library for drawing graphics</li>
 <li><a href="https://academy.oracle.com/en/resources-summary.html">Oracle Resources</a></li>
 <li><a href="https://academy.oracle.com/en/training-summary.html">Oracle Training</a></li>
 <li><a href="https://academy.oracle.com/en/training-workshops.html">Oracle Workshops</a></li>
@@ -114,6 +119,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2">Microsoft Beginner's Series to: JavaScript</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg">Microsoft Beginner's Series to: Node.js</a></li>
 <li><a href="https://www.edx.org/course/introduction-to-nodejs-2?source=aw&awc=6798_1613747378_7bb63a6f8084e598ccbca03202bab0e6&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=423585_CNET+Media+Group">Introduction to Node.js on EdX</a></li>
+<li><a href="https://kaboomjs.com/">kaboom.js</a> is a JavaScript library that helps you make games (<a href="https://replit.com/@slmjkdbtl/flappy">Flappy Bird example</a>)</li>
 </ul>
 <h3 id="android">Android</h3>
 <ul>
@@ -252,6 +258,12 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 </ul>
 <h3 id="chess">Chess</h3>
 <ul>
+	<li><a href="https://lichess.org/">Lichess</a> an excellent place to learn and play chess</li>
+	<ul>
+	<li><a href="https://lidraughts.org/">Draughts</a> Checkers from the Lichess team</li>
+	<li><a href="https://lishogi.org/">Shogi</a> Japanese chess from the Lichess team</li>
+	<li><a href="https://play.xiangqi.com/lobby">Xiangqi</a> Chinese chess</li>
+	</ul>
 	<li><a href="https://new.uschess.org/home/">US Chess Federation</a></li>
  	<li><a href="https://www.chessperformance.com/index.html">Chess Performance Tournaments</a></li>
  	<li><a href="https://www.wholesalechess.com/pages/more/new-to-chess.html">Chess 101</a></li>
@@ -261,9 +273,10 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 </ul>
 <h3 id="go">Go (Igo in Japan, Weiqi in China, and Baduk in Korea)</h3>
 <ul>
+	<li><a href="https://online-go.com/">OGS</a> an excellent place to learn and play Go</li>
 	<li><a href="https://www.usgo.org/">The American Go Association</a></li>
 	<li><a href="http://agfgo.org/pages/home.php">The American Go Foundation</a></li>
- 	<li><a href="https://online-go.com/">Oneline Go Server</a></li>
  	<li><a href="https://www.sjeng.org/leela.html">Leela Go engine with heatmaps</a></li>
+	
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
