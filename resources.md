@@ -107,8 +107,9 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://www.youtube.com/user/codyhenr/featured">Cody Henrichsen videos</a></li>
 <li><a href="http://cs.joensuu.fi/jeliot/">Jeliot</a> A Java IDE for beginners</li>
 <li><a href="https://www.jgrasp.org/">jGRASP</a> A lightweight development environment with software visualizations</li>
-<li>AP-CSA prep books</li>
+<li>AP-CSA prep resources</li>
 	<ul>
+	<li><a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam">AP Central</a></li>
 	<li><a href="https://www.mhprofessional.com/9781260122640-usa-5-steps-to-a-5-ap-computer-science-a-2019">5 Steps To A 5: AP Computer Science A</a></li>
 	<li><a href="https://www.barronseduc.com/booksonline?search=computer">Barrons AP Computer Science A</a></li>
 	<li><a href="https://www.skylit.com/beprepared-java.html">Be Prepared for the AP Computer Science Exam in Java</a></li>
