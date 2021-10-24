@@ -23,6 +23,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <h3 id="secondary">Secondary Resources</h3>
 <ul>
 	<li><a href="http://bit.ly/bshsbooks">eBook Collection</a> </li>
+	<li><a href="https://visualgo.net/en">VisualGo</a> visualising data structures and algorithms through animation</li>
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
@@ -101,6 +102,12 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://www.youtube.com/user/codyhenr/featured">Cody Henrichsen videos</a></li>
 <li><a href="http://cs.joensuu.fi/jeliot/">Jeliot</a> A Java IDE for beginners</li>
 <li><a href="https://www.jgrasp.org/">jGRASP</a> A lightweight development environment with software visualizations</li>
+<li>AP-SCA prep books</li>
+	<ul>
+	<li><a href="https://www.mhprofessional.com/9781260122640-usa-5-steps-to-a-5-ap-computer-science-a-2019">5 Steps To A 5: AP Computer Science A</a></li>
+	<li><a href="https://www.barronseduc.com/booksonline?search=computer">Barrons AP Computer Science A</a></li>
+	<li><a href="https://www.skylit.com/beprepared-java.html">Be Prepared for the AP Computer Science Exam in Java</a></li>
+	</ul>
 </ul>
 <h3 id="javascript">JavaScript</h3>
 <ul>
