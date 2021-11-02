@@ -24,9 +24,9 @@ We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that
 
 ## Units
 1. **An introduction to digital citizenship, computer hardware, and a comparison of popular office suites.** These suites include Office365 on the desktop, Office365 in the cloud, the Google suite, and Libre Office.
-1. **Study Microsoft Word and prepare for the Computing Fundamentals exam.** This unit will provide hands-on activities with Word while you also learn about computer hardware, operating systems, file mangement, cloud computing, and security.
-1. **Study Microsoft PowerPoint and prepare for the Key Application exam.** This unit will provide hands-on activities with PowerPoint while you also learn about common features of office suites, documents, presentations, spreadsheets, and databases.
-1. **Study Microsoft Excel and prepare for the Living Online exam.** This unit will provide hands-on activities with Excel while you also learn about internet concepts, email, calendaring, social media, video conferencing, and digital citizenship.
+1. **Microsoft Word and prepare for the Computing Fundamentals exam.** This unit will provide hands-on activities with Word while you also learn about computer hardware, operating systems, file mangement, cloud computing, and security.
+1. **Microsoft PowerPoint and prepare for the Key Application exam.** This unit will provide hands-on activities with PowerPoint while you also learn about common features of office suites, documents, presentations, spreadsheets, and databases.
+1. **Microsoft Excel and prepare for the Living Online exam.** This unit will provide hands-on activities with Excel while you also learn about internet concepts, email, calendaring, social media, video conferencing, and digital citizenship.
 
 Most students have already used portions of the Microsoft suite but they will expand their skills in this class. I have used these applications for many years and learned a lot while teaching this class.
 
