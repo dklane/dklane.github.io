@@ -18,8 +18,8 @@ We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that
 * [GCF](https://edu.gcfglobal.org/en/topics/office/) to introduce MS Office topics
 * [SAM](https://www.cengage.com/sam/) for practice and testing MS Office topics
 * [Northstar](https://www.digitalliteracyassessment.org/) to demonstrate your digital literacy skills
-* [LearnKey](https://educationsolutions.learnkey.com/) to review IC3 topics
-* [Gmetrix](https://www.gmetrix.com/) to practice for the IC3 exams
+* [LearnKey](https://educationsolutions.learnkey.com/certiport) to review IC3 topics
+* [GMetrix](https://www.gmetrix.com/Products/Details/IC3-GS5-Full-Suite-Practice-Tests) to practice for the IC3 exams
 * Projects on Canvas to demonstrate your skills and creativity
 
 ## Units
