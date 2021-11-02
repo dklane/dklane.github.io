@@ -6,14 +6,28 @@ exclude: true
 ---
 # Welcome to Computer Literacy!
 
-This class provides information about computer hardware, typing skills, and the Office 2016 suite.
+This class will prepare you for the IC3 industry certification and teach you useful MS Office skills. You will have the opportunity to earn the [IC3 Global Standard 5](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Certify/IC3-Global-Standard-5) certification. This certification requires three exams. See the following documents for the objective domains of these exams.
 
-A key goal of this class is to prepare you for industry certifications. Completion of these will be part of your final in this class. You will be expected to pass the [Microsoft Office Specialist (MOS) Certifications](https://www.microsoft.com/en-us/learning/mos-certification.aspx) for Word, PowerPoint, and Excel. We will study Access as time permits and you are welcome to attempt the MOS certification for Access.
+- [Computer Fundamentals](https://certiport.pearsonvue.com/fc/ic3/gs5/od/computing-fundamentals)
+- [Key Applications](https://certiport.pearsonvue.com/fc/ic3/gs5/od/key-applications)
+- [Living Online](https://certiport.pearsonvue.com/fc/ic3/gs5/od/living-online)
 
-Before jumping into these Microsoft Office applications, we will study the basics of computer hardware and practice our typing skills. This is valuable information and also part of a larger goal. Students who pass the MOS certifications for Word, PowerPoint, and Excel may have the opportunity to earn an [IC3 Digital Literacy Certification](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Overview). We are seeking access to the required review/testing resources for this certification. The [IC3 Global Standard 5](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Certify/IC3-Global-Standard-5) certification has three components: Computing Fundamentals, Living Online, and Key Applications. Numerous students passed the MOS certifications last year but we were not able to offer them the IC3 exams.
+We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that provide blended instruction, self-paced structures, and mastery-based grading.
 
-We will also include an overview of the Google suite: Docs, Slides, and Sheets. The IC3 exam expects students to be familiar with the office suites from Microsoft and Google. This is wise because many people are expected to use both suites in the professional workforce.
+## Resources
+* [GCF](https://edu.gcfglobal.org/en/topics/office/) to introduce MS Office topics
+* [SAM](https://www.cengage.com/sam/) for practice and testing MS Office topics
+* [Northstar](https://www.digitalliteracyassessment.org/) to demonstrate your digital literacy skills
+* [LearnKey](https://educationsolutions.learnkey.com/) to review IC3 topics
+* [Gmetrix](https://www.gmetrix.com/) to practice for the IC3 exams
+* Projects on Canvas to demonstrate your skills and creativity
 
-Most of you have used portions of the Microsoft and Google suites but I guarantee you will learn new skills in this class. I have used these applications for many years and learned a lot while teaching this class. I hope you will feel the same at the end of this year.
+## Units
+1. **An introduction to digital citizenship, computer hardware, and a comparison of popular office suites.** These suites include Office365 on the desktop, Office365 in the cloud, the Google suite, and Libre Office.
+1. **Study Microsoft Word and prepare for the Computing Fundamentals exam.** This combination will provide hands-on activities with Word while you also learn about computer hardware, operating systems, file mangement, cloud computing, and security.
+1. **Study Microsoft PowerPoint and prepare for the Key Application exam.** This combination will provide hands-on activities with PowerPoint while you also learn about common features of office suites, documents, presentations, spreadsheets, and databases.
+1. **Study Microsoft Excel and prepare for the Living Online exam.** This combination will provide hands-on activities with Excel while you also learn about internet concepts, email, calendaring, social media, video conferencing, and digital citizenship.
+
+Most students have already used portions of the Microsoft suite but they will expand their skills in this class. I have used these applications for many years and learned a lot while teaching this class.
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
