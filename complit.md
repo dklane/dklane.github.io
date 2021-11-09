@@ -4,7 +4,7 @@ title: CompLit
 tagline: Computer Literacy
 exclude: true
 ---
-# Welcome to Computer Literacy!
+# Welcome to Computer Literacy
 
 This class will prepare you for the IC3 industry certification and teach you useful MS Office skills. You will have the opportunity to earn the [IC3 Global Standard 5](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Certify/IC3-Global-Standard-5) certification. This certification requires three exams. See the following documents for the objective domains of these exams.
 
