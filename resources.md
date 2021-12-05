@@ -49,6 +49,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.itpro.tv/courses/comptia/comptiafundamentals-exam-fc0u61/">Video based training</a></li>	
 	</ul>
 	<li><a href="https://en.wikiversity.org/wiki/Microsoft_Technology_Associate">MTA information on Wikiversity</a></li>
+	<li><a href="https://www.itexams.com/">IT Exams</a> for practice questions</li>
+	<li><a href="http://hub.totalsem.com/mheclaim">Total Seminars Training</a> for ITF practice with a key from the <i>All In One</i> guide</li>
 </ul>
 <b>Students who have completed their work are encouraged to explore the following resources:</b>
 <h3 id="applications">Applications</h3>
