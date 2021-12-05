@@ -52,7 +52,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.comptia.org/training/resources/practice-tests">Sample questions from CompTIA</a></li>
 	<li><a href="https://www.itexams.com/">IT Exams</a> for practice questions</li>
 	<li><a href="http://hub.totalsem.com/mheclaim">Total Seminars Training</a> for ITF practice with an access key from the <a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EQJ7fHu-uqNMqR7bgZcb5YUBjwF396GzSGHoA2IVvjBZVQ?e=0YTdyX">All In One</a> guide</li>
-	<li><a href="http://www.wiley.com/go/sybextestprep">Sybex Test Prep</a> for ITF practice with registration for the <a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EVO_meb3W2tBpNLDxDhFTjoBU06yKKgvfPVNF-Arlzih3g?e=KDjPoJ">Quentin Docter</a> guide</li>
+	<li><a href="http://www.wiley.com/go/sybextestprep">Sybex Test Prep</a> for ITF practice with registration of the <a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EVO_meb3W2tBpNLDxDhFTjoBU06yKKgvfPVNF-Arlzih3g?e=KDjPoJ">Quentin Docter</a> guide</li>
 </ul>
 <b>Students who have completed their work are encouraged to explore the following resources:</b>
 <h3 id="applications">Applications</h3>
