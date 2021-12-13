@@ -39,6 +39,9 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="http://csawesome.org/">CS Awesome AP CSA</a></li>
 	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
 	<li><a href="https://longbaonguyen.github.io/index.html">CS resources</a> from Long Nguyen at UMass</li>
+	<li><a href="https://www.bebraschallenge.org/">Bebras</a> for an annual K12 logic challenge</li>
+	<li><a href="https://cs50.harvard.edu/x/2021/puzzles/">CS50 Puzzle Day</a> for an annual logic challenge</li>
+	<li><a href="https://popfizz.io/hour-of-code">PopFizz Hour of Code</a></li>
 </ul>
 <h3 id="standards">Standards and Certifications</h3>
 <ul>
