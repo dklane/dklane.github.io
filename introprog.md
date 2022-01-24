@@ -4,17 +4,35 @@ title: IntroProg
 tagline: Introduction to Programming
 exclude: true
 ---
-<h2>Welcome to Intro To Programming!</h2>
-<p>This class will provide an introduction to programming for the web.</p>
-<p>We will start with a brief introduction to the C programming language and VEX robotics. C is one of the older computer&nbsp;languages but is still used in most high-performance applications. These applications include most operating systems, embedded microcontrollers, and our VEX robots. We use these robots to compete in an international competition at&nbsp;BSHS. I want you to know how they work and hope you will consider joining one of our VEX teams.</p>
-<p>Many programming languages are used in web development. Three foundational languages are HTML, CSS, and Javascript. We will learn the syntax of these languages using resources on CodeHS. Once you become familiar with these languages, we will pause for projects that allow you to apply these skills. I will also introduce you to live web development and revision control using GitHub.</p>
-<p>The next step in this course is to study Python. This is a high-level scripting language that is used by many developers. Python is a relatively new that language that was designed for simplicity and benefited from the languages that proceeded it. Python is often used on web&nbsp;servers, software testing frameworks, and user applications.</p>
-<p>We may also choose to study sections of the following&nbsp;books:</p>
-<ul>
-<li>Python Crash Course</li>
-<li>Invent Your Own Computer Games with Python</li>
-</ul>
-<p>This class offers a great opportunity to attempt industry certifications. Your computer programming pathway&nbsp;gives credit for certifications in HTML, Javascript, and Python.</p>
-<p>If we complete all these resources, there are numerous topics we can study, For example, I am investigating educational resources that were recently released by <a href="https://aws.amazon.com/education/awseducate/14-and-older/">Amazon Web Services</a>.</p>
+# Welcome to Introduction to Programming
+
+This class will prepare you for the Python industry certification. You will have the opportunity to earn an [IT Specialist Certification
+](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify) from Certiport.  See the following document for the objective domains of the Python exam.
+
+- [IT Specialist Certification for Python](https://certiport.pearsonvue.com/fc/ITS/python)
+
+You will also have the opportunity to earn [Google Professional Certificates](https://grow.google/certificates/). These certificates introduce students to IT Support, Data Analytics, Project Management, UX Design, and Automation with Python. If you complete one of these certificates, Google will give you interview preparation resources and access to a recruiter.
+
+We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that provide blended instruction, self-paced structures, and mastery-based grading.
+
+## Resources
+* [CodeHS](https://codehs.com/uploads/386763030394e0698295bed89da48f06) to introduce information
+* [Project Stem](https://projectstem.org/high-school/ap-cs-a) for review and testing
+* [Coding Rooms](http://codingrooms.com/) for projects
+* [Learn Key](https://www.learnkey.com/course/detail/41E83519-DE51-46B4-9D8D-341C17BFE78E) for certification prep
+* [GMetrix](gmetrix.com/Products/Details/ITS-Python-Practice-Tests) for certification prep
+
+## Units
+1. **Basic Python and Console Interaction:** Students learn the basics of programming by writing programs that interact with users through the keyboard.
+1. **Conditionals:** Students teach their programs to make decisions based on the information it receives.
+1. **Looping:** Students learn how to write more efficient code by using loops as shortcuts.
+1. **Functions and Exceptions:** Students learn how their programs can be decomposed into smaller pieces that work together to solve a problem.
+1. **Strings:** Students use more sophisticated strategies for manipulating text in their programs - slicing, concatenating, and formatting.
+1. **Creating and Altering Data Structures:** Students learn how tuples and lists are formed and the various methods that can alter them.
+1. **Extending Data Structures:** Students learn to build more complex programs that make use of grids and dictionaries.
+1. **Certification Practice:** Student will review and practice for the ITS certification.
+1. **Projects:** Students use the skills they've learned throughout the course to build a project of their choice.
+1. **Classes and Objects:** Students will be introduced to object oriented practices in Python.
+1. **Graphics using Tkinter:** Students will be introduced to the Tkinter toolkit for creating graphical interfaces.
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
