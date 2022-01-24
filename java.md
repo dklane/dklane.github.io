@@ -19,8 +19,8 @@ We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that
 * [CodeHS](https://codehs.com/uploads/386763030394e0698295bed89da48f06) to introduce information
 * [Project Stem](https://projectstem.org/high-school/ap-cs-a) for review and testing
 * [Coding Rooms](http://codingrooms.com/) for projects
-* [Learn Key](https://www.learnkey.com/course/detail/20DDFB91-0D91-48AF-8CD3-079169CC2381) for certification prep
-* [GMetrix](https://www.gmetrix.com/Products/Filter?Certification=Information+Technology+Specialist+(ITS)&Version=Information+Technology+Specialist&Product=Java) for certification prep
+* [Learn Key](https://www.learnkey.com/course/detail/5BEEC704-CE28-4B6A-BDF7-94F94B4BDB62) for certification prep
+* [GMetrix](https://www.gmetrix.com/Products/Details/ITSJava) for certification prep
 * [My College Board](https://myap.collegeboard.org/) for AP-CSA exam prep
 * [5 Steps to a 5](https://www.amazon.com/gp/product/0997252863/ref=ox_sc_saved_title_5?smid=ATVPDKIKX0DER&psc=1) for AP-CSA exam prep
 * [Barron's](https://www.amazon.com/gp/product/1438012896/ref=ox_sc_saved_title_4?smid=ATVPDKIKX0DER&psc=1) for AP-CSA exam prep
