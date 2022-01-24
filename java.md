@@ -6,8 +6,8 @@ exclude: true
 ---
 # Welcome to Java
 
-This class will prepare you for the Java industry certification and AP-CSA exam. You will have the opportunity to earn the [IT Specialist Certification
-](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify) from Certiport.  See the following document for the objective domains of this exam.
+This class will prepare you for the Java industry certification and AP-CSA exam. You will have the opportunity to earn an [IT Specialist Certification
+](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify) from Certiport.  See the following document for the objective domains of the Java exam.
 
 - [IT Specialist Certification for Java](https://certiport.pearsonvue.com/fc/ITS/java)
 
