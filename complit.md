@@ -24,9 +24,9 @@ We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that
 
 ## Units
 1. **An introduction to digital citizenship, computer hardware, and a comparison of popular office suites.** These suites include Office365 on the desktop, Office365 in the cloud, the Google suite, and Libre Office.
-1. **Microsoft Word and prepare for the IC3 Level 2 exam.** This unit will provide hands-on activities with Word while you also learn about the IC3 domains of technology basics, digital citizenship, information management, and content creation.
-1. **Microsoft PowerPoint and prepare for the IC3 Level 2 exam.** This unit will provide hands-on activities with PowerPoint while you also learn about the IC3 domains of communcation, collaboration, safety, and security.
-1. **Microsoft Excel and attempt the IC3 certifications.** This unit will provide hands-on activities with Excel while you also practice for the IC3 certification exam.
+1. **Microsoft Word and prepare for the IC3 Level 1 exam.** This unit will provide hands-on activities with Word. You will also learn about the IC3 level 1 domains of technology basics, digital citizenship, information management, content creation, communcation, collaboration, safety, and security. The IC3 level 1 certification will be your fall final.
+1. **Microsoft PowerPoint and prepare for the IC3 Level 2 exam.** This unit will provide hands-on activities with PowerPoint. You will also learn about the IC3 level 2 domains.
+1. **Microsoft Excel and the IC3 level 2 certification.** This unit will provide hands-on activities with Excel. You also practice for the IC3 level 2 certification exam. This certification will be your spring final.
 
 Most students have already used portions of the Microsoft suite but they will expand their skills in this class. I have used these applications for many years and learned a lot while teaching this class.
 
