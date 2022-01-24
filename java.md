@@ -11,7 +11,9 @@ This class will prepare you for the Java industry certification and AP-CSA exam.
 
 - [IT Specialist Certification for Java](https://certiport.pearsonvue.com/fc/ITS/java)
 
-You will also have the opportunity to pass the [AP-CSA](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course) exam. KDE will pay your exam fees and Advance Kentucky offers $100 to each students who passes this exam. Some students may also earn colege credit and up to $800 in extra KEES money.
+You will have the opportunity to pass the [AP-CSA](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course) exam. KDE will pay your exam fees and Advance Kentucky offers $100 to each students who passes this exam. Some students may also earn colege credit and up to $800 in extra KEES money.
+
+You will also have the opportunity to earn [Google Professional Certificates](https://grow.google/certificates/). These certificates introduce students to IT Support, Data Analytics, Project Management, UX Design, and Automation with Python. If you complete one of these certificates, Google will give you interview preparation resources and access to a recruiter.
 
 We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that provide blended instruction, self-paced structures, and mastery-based grading.
 
