@@ -6,9 +6,10 @@ exclude: true
 ---
 # Welcome to Java
 
-This class will prepare you for the Java industry certification and AP-CSA exam. You will have the opportunity to earn the [Microsoft Exam 98-388](https://docs.microsoft.com/en-us/learn/certifications/exams/98-388) certification.  See the following document for the objective domains of this exam.
+This class will prepare you for the Java industry certification and AP-CSA exam. You will have the opportunity to earn the [IT Specialist Certification
+](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify) from Certiport.  See the following document for the objective domains of this exam.
 
-- [98-388 Introduction to Programming Using Java](https://certiport.pearsonvue.com/Educator-resources/Exam-details/Objective-domains.aspx)
+- [IT Specialist Certification for Java](https://certiport.pearsonvue.com/fc/ITS/java)
 
 You will also have the opportunity to pass the [AP-CSA](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course) exam. KDE will pay your exam fees and Advance Kentucky offers $100 to each students who passes this exam. Some students may also earn colege credit and up to $800 in extra KEES money.
 
