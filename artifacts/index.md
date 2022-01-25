@@ -4,6 +4,13 @@ title: Artifacts
 tagline: Work created by our students
 ---
 ## HTML/CSS projects
+- [Snake Wars](https://Snake-Wars.dklane.repl.co)
+- [BowlingMaster](https://bowlingmaster.xyz/)
+- [The Value of Art](https://u5-project-v20.dklane.repl.co)
+- [SuperSmash Bros](https://replit.com/@dklane/Unit-2-Project-1#index.html)
+- [Leopard Geckos](https://replit.com/@dklane/unit-2-project-2#index.html)
+- [Fortnite Astroworld Concert](https://replit.com/@dklane/Unit-5-Website-Project-6#index.html)
+- [International Olive Oil Competition](https://Unit-3-Project-Website-2.dklane.repl.co)
 - [Recipe for Mathmatics Pi](https://unit-5-website-project-2.dklane.repl.co/)
 - [Astrology](https://unit-5-website-project-3.dklane.repl.co/)
 - [How to brew the best cup of tea](https://unit-5-website-project-4.dklane.repl.co/)
