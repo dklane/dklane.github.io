@@ -35,6 +35,8 @@ tagline: Work created by our students
 - [Mouse](Mouse)
 - [MazeRunner](MazeRunner)
 - [DotCollect2.0](DotCollect2.0)
+- [ExplodingCones](ExplodingCones)
+- [RaceTrack](RaceTrack)
 - [Ladybug](Ladybug)
 - [ZombieLand](ZombieLand)
 - [YESSS](YESSS)
