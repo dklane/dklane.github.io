@@ -36,6 +36,7 @@ tagline: Work created by our students
 - [MazeRunner](MazeRunner)
 - [DotCollect2.0](DotCollect2.0)
 - [FootballMania](FootballMania)
+- [GhostCandy](GhostCandy)
 - [ExplodingCones](ExplodingCones)
 - [RaceTrack](RaceTrack)
 - [Ladybug](Ladybug)
