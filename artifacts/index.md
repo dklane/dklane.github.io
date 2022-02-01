@@ -23,6 +23,7 @@ tagline: Work created by our students
 - [Being18Matters](http://being18matters.org/)
 
 ## Games created with Construct3
+- [Wizard](Wizard)
 - [AAAAAAAAAAAAAAA](https://dottrail.ellyr.repl.co/)
 - [New Worlds](NewWorlds)
 - [FNF](FNF)
@@ -35,7 +36,6 @@ tagline: Work created by our students
 - [Mouse](Mouse)
 - [MazeRunner](MazeRunner)
 - [DotCollect2.0](DotCollect2.0)
-- [Wizard](Wizard)
 - [FootballMania](FootballMania)
 - [GhostCandy](GhostCandy)
 - [ExplodingCones](ExplodingCones)
