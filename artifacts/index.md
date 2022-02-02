@@ -24,6 +24,10 @@ tagline: Work created by our students
 
 ## Games created with Construct3
 - [Wizard](Wizard)
+- [FootballMania](FootballMania)
+- [GhostCandy](GhostCandy)
+- [ExplodingCones](ExplodingCones)
+- [RaceTrack](RaceTrack)
 - [AAAAAAAAAAAAAAA](https://dottrail.ellyr.repl.co/)
 - [New Worlds](NewWorlds)
 - [FNF](FNF)
@@ -36,10 +40,6 @@ tagline: Work created by our students
 - [Mouse](Mouse)
 - [MazeRunner](MazeRunner)
 - [DotCollect2.0](DotCollect2.0)
-- [FootballMania](FootballMania)
-- [GhostCandy](GhostCandy)
-- [ExplodingCones](ExplodingCones)
-- [RaceTrack](RaceTrack)
 - [Ladybug](Ladybug)
 - [ZombieLand](ZombieLand)
 - [YESSS](YESSS)
