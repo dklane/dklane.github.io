@@ -274,7 +274,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<ul>
 	<li><a href="https://lidraughts.org/">Draughts</a> Checkers from the Lichess team</li>
 	<li><a href="https://lishogi.org/">Shogi</a> Japanese chess from the Lichess team</li>
-	<li><a href="https://play.xiangqi.com/lobby">Xiangqi</a> Chinese chess</li>
+	<li><a href="https://play.xiangqi.com/lobby">Xiangqi</a> Chinese chess (<a href="https://www.plateriver.net/community/xiangqi.php">quick introduction</a>)</li>
+	<li><a href="https://www.pychess.org/">PyChess</a> supports several chess variants</li>
 	</ul>
 	<li><a href="https://new.uschess.org/home/">US Chess Federation</a></li>
  	<li><a href="https://www.chessperformance.com/index.html">Chess Performance Tournaments</a></li>
