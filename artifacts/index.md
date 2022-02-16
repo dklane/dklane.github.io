@@ -25,6 +25,7 @@ tagline: Work created by our students
 ## Games created with Construct3
 - [Wizard](Wizard)
 - [HorseDash](HorseDash)
+- [LootLlamaAttack](LootLlamaAttack)
 - [FootballMania](FootballMania)
 - [GhostCandy](GhostCandy)
 - [ExplodingCones](ExplodingCones)
