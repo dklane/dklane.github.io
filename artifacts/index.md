@@ -28,6 +28,7 @@ tagline: Work created by our students
 - [ImpossibleGame](ImpossibleGame)
 - [LootLlamaAttack](LootLlamaAttack)
 - [FootballMania](FootballMania)
+- [Flowers](Flowers)
 - [GhostCandy](GhostCandy)
 - [ExplodingCones](ExplodingCones)
 - [RaceTrack](RaceTrack)
