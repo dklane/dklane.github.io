@@ -1,6 +1,6 @@
 {
-	"name": "Impossible game",
-	"short_name": "Impossible game",
+	"name": "ImpossibleGame",
+	"short_name": "ImpossibleGame",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
