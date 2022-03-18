@@ -28,6 +28,6 @@ We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that
 1. **Microsoft PowerPoint and prepare for the IC3 Level 2 exam.** This unit will provide hands-on activities with PowerPoint. You will also learn about the IC3 level 2 domains.
 1. **Microsoft Excel and the IC3 level 2 certification.** This unit will provide hands-on activities with Excel. You also practice for the IC3 level 2 certification exam. This certification will be your spring final.
 
-Most students have already used portions of the Microsoft suite but they will expand their skills in this class. I have used these applications for many years and learned a lot while teaching this class.
+Most students have already used portions of the Microsoft suite but they will expand their skills in this class. I have used these applications for many years and learned a lot while teaching this class!
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
