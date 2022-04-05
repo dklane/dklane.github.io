@@ -27,6 +27,7 @@ tagline: Work created by our students
 - [HorseDash](HorseDash)
 - [ImpossibleGame](ImpossibleGame)
 - [LootLlamaAttack](LootLlamaAttack)
+- [KrabyPattySecretEscape](KrabyPattySecretEscape)
 - [FootballMania](FootballMania)
 - [Flowers](Flowers)
 - [GhostCandy](GhostCandy)
