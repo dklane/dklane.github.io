@@ -21,6 +21,7 @@ tagline: Work created by our students
 
 ## Website projects
 - [Being18Matters](http://being18matters.org/)
+- [HorseRacingMap](https://padlet.com/davidlane3/t8k8ypwlef98dn05)
 
 ## Games created with Construct3
 - [Wizard](Wizard)
