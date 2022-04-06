@@ -25,6 +25,8 @@ tagline: Work created by our students
 ## Games created with Construct3
 - [Wizard](Wizard)
 - [HorseDash](HorseDash)
+- [HorseGames under development](HorseGames)
+- [HorseFieldTrip under development](HorseFieldTrip)
 - [ImpossibleGame](ImpossibleGame)
 - [LootLlamaAttack](LootLlamaAttack)
 - [KrabyPattySecretEscape](KrabyPattySecretEscape)
