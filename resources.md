@@ -179,7 +179,13 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <ul>
   <li><a href="https://www.ryzerobotics.com/tello">Tello</a> programmable drones for indoor use</li>
   <ul>
-  	  <li><a href="https://github.com/dbaldwin/DroneBlocks-Tello-Python">Github repo of Python examples for the Tello</a> from <a href="https://learn.droneblocks.io/p/introduction-to-drone-programming-with-tello">Dennis Baldwin's course</a></li>
+  	  <li><a href="https://github.com/dbaldwin/DroneBlocks-Tello-Python">Tello Programming with Python</a> from <a href="https://learn.droneblocks.io/p/introduction-to-drone-programming-with-tello">Dennis Baldwin's course</a></li>
+	  <li><a href="https://github.com/dbaldwin/DroneBlocks-Tello-Camera-With-Python-OpenCV">DroneBlocks Tello Camera Access with Python, OpenCV, Flask</a></li>
+          <li><a href="https://github.com/dbaldwin/tello-adv-setup">Tello Python Development Setup Tutorial</a></li>
+          <li><a href="https://github.com/dbaldwin/tello-adv-aruco">Droneblocks Advanced Tello Programming</a></li>
+          <li><a href="github.com/dbaldwin/tello-adv-arts">Advanced Tello Programming in Python</a></li>
+	  <li><a href="https://github.com/dbaldwin/droneblocks-tello-talent-python">DroneBlocks Tello Talent Python Course Repo</a></li>
+	  <li><a href="github.com/dbaldwin/">All the Github repos pulished by Dennis Baldwin</a></li>
 	  <li>The original Tello supports <a href="https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf">SDK 1.3</a></li>
 	  <li>The TelloEDU supports <a href="https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf">SDK 2.0</a></li>
 	  <li>The TelloTalent supports <a href="https://dl.djicdn.com/downloads/RoboMaster+TT/Tello_SDK_3.0_User_Guide_en.pdf">SDK 3.0</a></li>
