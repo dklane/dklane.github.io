@@ -178,6 +178,12 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <h3 id="drone">Drones</h3>
 <ul>
   <li><a href="https://www.ryzerobotics.com/tello">Tello</a> programmable drones for indoor use</li>
+  <ul>
+  	  <li><a href="https://github.com/dbaldwin/DroneBlocks-Tello-Python">Github repo of Python examples for the Tello</a> from <a href="https://learn.droneblocks.io/p/introduction-to-drone-programming-with-tello">Dennis Baldwin's course</a></li>
+	  <li>The original Tello supports <a href="https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf">SDK 1.3</a></li>
+	  <li>The TelloEDU supports <a href="https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf">SDK 2.0</a></li>
+	  <li>The TelloTalent supports <a href="https://dl.djicdn.com/downloads/RoboMaster+TT/Tello_SDK_3.0_User_Guide_en.pdf">SDK 3.0</a></li>
+  </ul>
   <li><a href="https://www.dji.com/">DJI</a> drones for outdoor use</li>
   <li><a href="https://clipchamp.com/en/">Clipchamp</a> for editing videos online</li>
   <li><a href="https://panzoid.com/">Panzoid</a> for creating video transitions</li>
