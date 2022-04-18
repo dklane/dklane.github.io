@@ -1,0 +1,39 @@
+#DBimage{
+  align-image:right;
+  height:90%;
+  width:90%;
+}
+
+.credits{
+  font-size:90%;
+  text-align:center;
+  margin:-2% -29% 0% 5%;
+  padding:0% 0 0 -27px;
+}
+
+#rewardp{
+  margin:-110% 35% 20% 70%;
+  
+}
+
+#rewardssec{
+  margin: 0% 30% 5% 0%;
+    
+}
+
+#Competitors-main{
+  margin:-3% 0% -2% 0%;
+}
+
+#youtubecr{
+  font-size:83%;
+  margin:-23% -2% -13% 0%;
+}
+
+#DByoutube{
+  width:46%;
+}
+
+a{
+  color:grey;
+}

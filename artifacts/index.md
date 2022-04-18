@@ -4,6 +4,7 @@ title: Artifacts
 tagline: Work created by our students
 ---
 ## HTML/CSS projects
+- [Dash Wars](DashWars)
 - [Snake Wars](https://snake-wars.dklane.repl.co/)
 - [BowlingMaster](https://bowlingmaster.xyz/)
 - [The Value of Art](https://u5-project-v20.dklane.repl.co)
