@@ -24,6 +24,8 @@ tagline: Work created by our students
 - [HorseRacingMap](https://padlet.com/davidlane3/t8k8ypwlef98dn05)
 
 ## Games created with Construct3
+- [FloppaFantasticFeast](FloppaFantasticFeast)
+- [BoxedInAMaze](https://Boxed-in-a-maze.ellyr.repl.co)
 - [Wizard](Wizard)
 - [HorseDash](HorseDash)
 - [HorseAndApples](HorseAndApples)
