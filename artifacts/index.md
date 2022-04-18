@@ -26,7 +26,7 @@ tagline: Work created by our students
 
 ## Games created with Construct3
 - [FloppaFantasticFeast](FloppaFantasticFeast)
-- [BoxedInAMaze](https://Boxed-in-a-maze.ellyr.repl.co)
+- [Boxed_In_A_Maze](Boxed_In_A_Maze)
 - [Wizard](Wizard)
 - [HorseDash](HorseDash)
 - [HorseAndApples](HorseAndApples)
