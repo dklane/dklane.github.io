@@ -1,6 +1,6 @@
 {
-	"name": "HorseGames",
-	"short_name": "HorseGames",
+	"name": "horse",
+	"short_name": "horse",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
