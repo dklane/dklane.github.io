@@ -197,6 +197,9 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <h3 id="cad">CAD</h3>
 <ul>
   <li><a href="https://www.onshape.com/">OnShape</a> for cloud-based CAD</li>
+  <ul>
+	  <li><a href="https://learn.onshape.com/learn/article/intro-to-cad-curriculum">Intro to CAD</a></li>
+  </ul>	
 </ul>
 <h3 id="advanced">Advanced Topics</h3>
 <ul>
