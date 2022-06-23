@@ -199,6 +199,8 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
   <li><a href="https://www.onshape.com/">OnShape</a> for cloud-based CAD</li>
   <ul>
 	  <li><a href="https://learn.onshape.com/learn/article/intro-to-cad-curriculum">Intro to CAD</a></li>
+	  <li><a href="https://apps.ptc.com/schools/CertifiedOnshapeAssociatesPracticeExam.pdf">Certification practice</a></li>
+	  <li><a href="https://www.youtube.com/watch?v=F1HzsqU7j5w&t=477s">3D Modeling with OnShape</a></li>
   </ul>	
 </ul>
 <h3 id="advanced">Advanced Topics</h3>
