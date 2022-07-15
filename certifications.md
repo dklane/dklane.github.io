@@ -24,5 +24,6 @@ Google Professional Certificate courses through [Grow with Google](https://grow.
 * Project Management
 * UX Design
 * Automation with Python
+* Community colleges and high schools can [request free access](https://grow.google/certificates-edu/?utm_source=gDigital&utm_medium=emprowebsite&utm_campaign=certs&utm_content=he&utm_term=)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
