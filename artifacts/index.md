@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artifacts
+title: Showcase
 tagline: Work created by our students
 ---
 ## HTML/CSS projects
