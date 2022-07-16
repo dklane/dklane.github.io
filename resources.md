@@ -46,8 +46,11 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <h3 id="standards">Standards and Certifications</h3>
 <ul>
 	<li><a href="https://kystandards.org/content_area/computerscience/">CS Standards for Kentucky</a></li>
+	<li><a href="https://certiport.pearsonvue.com/Certifications.aspx">Certiport</a></li>
+	<ul>
 	<li><a href="https://certiport.pearsonvue.com/Educator-resources/Exam-details/Objective-domains.aspx">Objective domains for the Certiport exams</a></li>
-	<li><a href="https://certify.learnkey.com/certification_bundles">LearnKey</a> sells video lessons and study guides that help students prepare for the Certiport exams</li>
+	<li><a href="https://educationsolutions.learnkey.com/">LearnKey</a> for video lessons and study guides that help students prepare for the Certiport exams</li>
+	</ul>
 	<li><a href="https://certification.comptia.org/certifications/it-fundamentals">CompTIA IT Fundamentals</a></li>
 	<ul>	
 	<li><a href="https://www.comptia.jp/pdf/CompTIA%20IT%20Fundamentals%20FC0-U61%20Exam%20Objectives.pdf">Objective domains</a></li>
