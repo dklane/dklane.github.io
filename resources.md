@@ -42,6 +42,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.bebraschallenge.org/">Bebras</a> for an annual K12 logic challenge</li>
 	<li><a href="https://cs50.harvard.edu/x/2021/puzzles/">CS50 Puzzle Day</a> for an annual logic challenge</li>
 	<li><a href="https://popfizz.io/hour-of-code">PopFizz Hour of Code</a></li>
+	<li><a href="https://overthewire.org/wargames/">Wargames</a> can help you to learn and practice security concepts in the form of fun-filled games</li>
 </ul>
 <h3 id="standards">Standards and Certifications</h3>
 <ul>
