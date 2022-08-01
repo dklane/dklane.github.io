@@ -291,6 +291,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://techbootcamps.utexas.edu/blog/resource-guide-stem-students-autism/">The Ultimate Resource Guide for STEM Students With Autism</a></li>
 	<li><a href="https://corgis-edu.github.io/corgis/json/">CORGIS</a> The Collection of Really Great, Interesting, Situated Datasets</li>
 	<li><a href="https://data.fivethirtyeight.com/">FiveThirtyEight</a> We’re sharing the data and code behind some of our articles and graphics.</li>
+	<li><a href="https://www.youtube.com/user/AlgoRythmics/playlists">AlgoRythmics</a> From dance to code</li>
 </ul>
 <h3 id="iie">Documentation for our Apple IIe</h3>
 <ul>
