@@ -26,4 +26,7 @@ Google Professional Certificate courses through [Grow with Google](https://grow.
 * Automation with Python
 * Community colleges and high schools can [request free access](https://grow.google/certificates-edu/?utm_source=gDigital&utm_medium=emprowebsite&utm_campaign=certs&utm_content=he&utm_term=)
 
+Career and Technical Education [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)
+* [Pathway Standards](https://education.ky.gov/CTE/endofprog/Pages/CTEEOPStandardsDocs.aspx)
+
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
