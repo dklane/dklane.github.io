@@ -18,8 +18,8 @@ The computer science courses at Bryan Station include:
 * AP Computer Science Principles
 
 * Dual Credit Courses through BCTC
-  * CIT 170 - Database Design Fundamentals
   * CIT 120 - Computational Thinking
+  * CIT 170 - Database Design Fundamentals
   * CS 115 - Introduction to Computer Programming
   * CS 215 - Introduction to Program Design, Abstraction, and Problem Solving
 
