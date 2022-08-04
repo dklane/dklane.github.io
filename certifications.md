@@ -28,5 +28,6 @@ Google Professional Certificate courses through [Grow with Google](https://grow.
 
 Career and Technical Education [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)
 * [Pathway Standards](https://education.ky.gov/CTE/endofprog/Pages/CTEEOPStandardsDocs.aspx)
+* [Kentucky Standards for Computer Science](https://kystandards.org/content_area/computerscience/)
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
