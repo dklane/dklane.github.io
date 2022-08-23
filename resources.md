@@ -148,6 +148,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <li><a href="https://runestone.academy/runestone/books/published/webfundamentals/index.html">Web Fundamentals</a> on <a href="https://runestone.academy/runestone/books/index">Runestone Academy</a></li>
 <li>Web Design course on <a href="https://codehs.com/course/catalog">CodeHS</a></li>
 <li><a href="https://websitesetup.org/">WebSiteSetup</a> An Easy, Step-by-Step Guide for Beginners</li>
+<li><a href="https://github.com/sarfarazstark/awwwesome">Awwwesome list of web development resources</a></li>
 </ul>
 <h3 id="swift">Swift</h3>
 <ul>
