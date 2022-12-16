@@ -6,6 +6,9 @@ tagline: Work created by our students
 ## HTML/CSS projects
 - [Dash Wars](DashWars)
 - [Snake Wars](https://snake-wars.dklane.repl.co/)
+- [Art Tips](https://website-project-art-tips.dklane.repl.co/)
+- [Football](https://website-project-football.dklane.repl.co/)
+- [Demon Donkey](https://website-project-demon-donkey.dklane.repl.co/)
 - [BowlingMaster](https://bowlingmaster.xyz/)
 - [The Value of Art](https://u5-project-v20.dklane.repl.co)
 - [SuperSmash Bros](https://unit-2-project-1.dklane.repl.co/)
