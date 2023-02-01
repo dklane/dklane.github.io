@@ -30,6 +30,9 @@ tagline: Work created by our students
 ## Games created with Construct3
 - [TennisGame](TennisGame)
 - [PacmanShooter](PacmanShooter)
+- [Ignition](Ignition)
+- [CarGameWithSave](CarGameWithSave)
+- [CarGameWithSewer](CarGameWithSewer)
 - [HorseGames](HorseGames)
 - [Wizard](Wizard)
 - [FloppaFantasticFeast](FloppaFantasticFeast)
