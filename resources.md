@@ -29,6 +29,10 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
 	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
 	<li><a href="https://projecteuler.net/">Project Euler</a> for practice in any programming language</li>
+	<li><a href="https://www.codechef.com/">Code Chef</a> for practice</li>
+	<li><a href="http://www.usaco.org/index.php?page=contests">USA Computing Olympiad</a> for practice</li>
+	<li><a href="https://open.kattis.com/">Kattis Problem Archive</a> for practice</li>
+	<li><a href="https://www.apluscompsci.com/Aplus_Contest_Strategy_Session_2021.pdf">VS Contest Stregiese</a> from APlusCompSci</li>
 	<li><a href="https://adventofcode.com/">Advent of Code</a> is an Advent calendar of small programming puzzles</li>
 	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
 	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
