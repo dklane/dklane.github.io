@@ -3,7 +3,7 @@ layout: page
 title: Resources
 tagline: Resources for students to explore
 ---
-Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>,
+Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#contest">contest prep</a>,
  <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>,
  <a href="#java">java</a>, <a href="#javascript">javascript</a>, <a href="#android">android</a>,
  <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>,
@@ -27,12 +27,6 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
-	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
-	<li><a href="https://projecteuler.net/">Project Euler</a> for practice in any programming language</li>
-	<li><a href="https://www.codechef.com/">Code Chef</a> for practice</li>
-	<li><a href="http://www.usaco.org/index.php?page=contests">USA Computing Olympiad</a> for practice</li>
-	<li><a href="https://open.kattis.com/">Kattis Problem Archive</a> for practice</li>
-	<li><a href="https://www.apluscompsci.com/Aplus_Contest_Strategy_Session_2021.pdf">VS Contest Stregiese</a> from APlusCompSci</li>
 	<li><a href="https://adventofcode.com/">Advent of Code</a> is an Advent calendar of small programming puzzles</li>
 	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
 	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
@@ -47,6 +41,15 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 	<li><a href="https://cs50.harvard.edu/x/2021/puzzles/">CS50 Puzzle Day</a> for an annual logic challenge</li>
 	<li><a href="https://popfizz.io/hour-of-code">PopFizz Hour of Code</a></li>
 	<li><a href="https://overthewire.org/wargames/">Wargames</a> can help you to learn and practice security concepts in the form of fun-filled games</li>
+</ul>
+<h3 id="contest">Contest Prep</h3>
+<ul>
+	<li><a href="https://codingbat.com/">CodingBat</a> for practice in Python and Java</li>
+	<li><a href="https://projecteuler.net/">Project Euler</a> for practice in any programming language</li>
+	<li><a href="https://www.codechef.com/">Code Chef</a> for practice</li>
+	<li><a href="http://www.usaco.org/index.php?page=contests">USA Computing Olympiad</a> for practice</li>
+	<li><a href="https://open.kattis.com/">Kattis Problem Archive</a> for practice</li>
+	<li><a href="https://www.apluscompsci.com/Aplus_Contest_Strategy_Session_2021.pdf">CS Contest Strategy</a> from APlusCompSci</li>
 </ul>
 <h3 id="standards">Standards and Certifications</h3>
 <ul>
