@@ -28,6 +28,7 @@ tagline: Work created by our students
 - [HorseRacingMap](https://padlet.com/davidlane3/t8k8ypwlef98dn05)
 
 ## Games created with Construct3
+- [TITAN](TITAN)
 - [Inverse](Inverse)
 - [Meteoroids](Meteoroids)
 - [TennisGame](TennisGame)
