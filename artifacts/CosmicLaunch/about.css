@@ -1,0 +1,35 @@
+.about_home{
+  color:white;
+  position: relative;
+  margin:0 2% -5% 2%;
+}
+
+.content2{
+  background:rgba(37, 38, 40, 0.8);
+    padding: 2%;
+    height: auto;
+    width: 100%;
+    margin: 2%;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.content2:nth-child(even){
+  text-align: right;
+
+}
+
+.home{
+  flex-direction: column;
+}
+
+p a{
+  color:#8bbee5;
+  position: relative;
+  z-index: 888;
+}
+
+p{
+  z-index:888;
+  position: relative;
+}

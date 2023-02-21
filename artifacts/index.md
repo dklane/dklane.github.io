@@ -4,6 +4,7 @@ title: Artifacts
 tagline: Work created by our students
 ---
 ## HTML/CSS projects
+- [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
 - [Snake Wars](https://snake-wars.dklane.repl.co/)
 - [Art Tips](https://website-project-art-tips.dklane.repl.co/)
