@@ -29,8 +29,6 @@ tagline: Work created by our students
 - [HorseRacingMap](https://padlet.com/davidlane3/t8k8ypwlef98dn05)
 
 ## Games created with Construct3
-- [TheGreatQuest](TheGreatQuest)
-- [PartyFestival](PartyFestival)
 - [JetpackJoe](JetpackJoe)
 - [ChristmasCrackdown](ChristmasCrackdown)
 - [Collection](Collection)
@@ -85,6 +83,11 @@ tagline: Work created by our students
 - [Gravity](Gravity)
 - [Lesson12](Lesson12)
 - [Lesson6](Lesson6)
+
+## Games created with Unity
+- [TheGreatQuest](TheGreatQuest)
+- [PartyFestival](PartyFestival)
+- [Platformer](Platformer)
 - [UnityGame](UnityGame)
 
 ## The winning game at TSA 2022
