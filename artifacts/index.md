@@ -31,6 +31,7 @@ tagline: Work created by our students
 ## Games created with Construct3
 - [JetpackJoe](JetpackJoe)
 - [Animations](Animations)
+- [Baguette](Baguette)
 - [ChristmasCrackdown](ChristmasCrackdown)
 - [Collection](Collection)
 - [Marshmellow](Marshmellow)
