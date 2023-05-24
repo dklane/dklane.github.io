@@ -87,6 +87,7 @@ tagline: Work created by our students
 - [Lesson6](Lesson6)
 
 ## Games created with Unity
+- [FreeRunner](FreeRunner)
 - [TheGreatQuest](TheGreatQuest)
 - [PartyFestival](PartyFestival)
 - [Platformer](Platformer)
