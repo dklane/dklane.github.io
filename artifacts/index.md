@@ -99,8 +99,8 @@ tagline: Work created by our students
 ## Project Based Programming
 - [WeatherBot](https://docs.google.com/presentation/d/14uDDzs5PqHAJgXLwX3YTiOPFtfhp2MW38VcQQ6bw0bE/edit?usp=sharing)
 - [UnityGame](https://docs.google.com/presentation/d/1Z6ELAogZtp8p8MoQ9WTXOxlJZVn7QpzKxknl4qSBqbs/edit?usp=sharing)
-- [3D-Printing-Hammer](file://3D-Printing-Hammer.pptx)
-- [3D-Printing-Drum](file://3D-Printing-Drum.pptx)
+- [3D-Printing-Hammer](3D-Printing-Hammer.pptx)
+- [3D-Printing-Drum](3D-Printing-Drum.pptx)
 
 ## Drone Videos
 - [Eastside Mini Tour](https://www.youtube.com/watch?v=Nx_zW7QgjXE)
