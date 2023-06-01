@@ -21,10 +21,14 @@ CompTIA
 Google Professional Certificate courses through [Grow with Google](https://grow.google/certificates/)
 * IT Support
 * Data Analytics
+* Advanced Data Analytics
 * Project Management
 * UX Design
 * Automation with Python
-* Community colleges and high schools can [request free access](https://grow.google/certificates-edu/?utm_source=gDigital&utm_medium=emprowebsite&utm_campaign=certs&utm_content=he&utm_term=)
+* Cybersecurity
+* Digital Marketing & E-Commerce
+* Business Intelligence
+* *Community colleges and high schools can [request free access](https://grow.google/certificates-edu/?utm_source=gDigital&utm_medium=emprowebsite&utm_campaign=certs&utm_content=he&utm_term=)*
 
 Career and Technical Education [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)
 * [Pathway Standards](https://education.ky.gov/CTE/endofprog/Pages/CTEEOPStandardsDocs.aspx)
