@@ -97,9 +97,9 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Project Based Programming
-- [3D-Printing-Hammer](3D-Printing-Hammer.pptx)
-- [3D-Printing-Drum](3D-Printing-Drum.pptx)
-- [FreeRunnerProject](FreeRunnerProject.docx)
+- [3D-Printing-Hammer](https://docs.google.com/presentation/d/1F0gMahZsnBZ29e38y8rQKXbvrHKAfcGx/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
+- [3D-Printing-Drum](https://docs.google.com/presentation/d/1RYqt0ajlwaAXcNfSr5LE5C54x-ZlDWVm/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
+- [FreeRunnerProject](https://docs.google.com/document/d/1P0UmBRYfXyhqKjdxU9C378lm7enlKFAz/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
 - [WeatherBot](https://docs.google.com/presentation/d/14uDDzs5PqHAJgXLwX3YTiOPFtfhp2MW38VcQQ6bw0bE/edit?usp=sharing)
 - [UnityGame](https://docs.google.com/presentation/d/1Z6ELAogZtp8p8MoQ9WTXOxlJZVn7QpzKxknl4qSBqbs/edit?usp=sharing)
 
