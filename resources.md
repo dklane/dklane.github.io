@@ -23,6 +23,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 <h3 id="secondary">Secondary Resources</h3>
 <ul>
 	<li><a href="http://bit.ly/bshsbooks">eBook Collection</a> </li>
+	<li><a href="https://www.juicemind.com/">Juicemind</a> offers interactive quizzes for CS topics</li>
 	<li><a href="https://visualgo.net/en">VisualGo</a> visualising data structures and algorithms through animation</li>
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
