@@ -36,4 +36,6 @@ Our students also have access to Google's IT Support Certificate curriculum thro
 * Google Digital Marketing & E-commerce
 * *Community colleges and high schools can [request free access](https://grow.google/certificates-edu/?utm_source=gDigital&utm_medium=emprowebsite&utm_campaign=certs&utm_content=he&utm_term=)*
 
+We plan to participate in the US Air Force [CyberPatriot](https://www.uscyberpatriot.org/home) competiton this year. All students are invited to join a team.
+
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
