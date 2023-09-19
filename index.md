@@ -19,7 +19,7 @@ My [courses](courses) include
 [Computer Literacy](complit),
 [Computational Thinking](compthink),
 [Introduction to Programming](introprog),
-and [Java](java). 
+and [AP Computer Science A](csa). 
 I expect the students in these courses to learn useful skills
 and earn [industry certifications](certifications).
 

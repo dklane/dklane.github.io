@@ -11,11 +11,11 @@ The computer science courses at Bryan Station include:
 
 * [Introduction to Programming](introprog): An introduction to Python
 
-* [Java](java): Object-oriented programming with Java
-
-* Project Based Programming
+* [AP Computer Science A](csa): Object-oriented programming with Java
 
 * AP Computer Science Principles
+
+* Project Based Programming
 
 * Dual Credit Courses through BCTC
   * CIT 120 - Computational Thinking
