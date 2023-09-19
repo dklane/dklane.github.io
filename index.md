@@ -12,8 +12,8 @@ It is an honor to work with the staff and students at Bryan Station.
 I graduated from Bryan Station many years ago. After working as a programmer 
 and team lead at IBM, Lexmark, and Mathworks, it has been fun returning 
 as a teacher to serve the next generation.
-Our school has many excellent programs and I am excited to be part of the
-<a href="https://www.fcps.net/domain/5384">Information Technology Academy</a>.
+Our school has many excellent programs and I am excited to be part of our
+<a href="https://bshs.fcps.net/academies/information-technology-academy">Information Technology Academy</a>.
 
 My [courses](courses) include 
 [Computer Literacy](complit),
