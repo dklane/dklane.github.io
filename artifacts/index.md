@@ -22,7 +22,7 @@ tagline: Work created by our students
 - [The Different forms of art](https://unit-5-website-project-elly-r.dklane.repl.co/)
 - [Daily Cattlepillar](https://codeprojects.org/5tF9t2R5oIZ7uXaGnc1UWYv4LlAqXoCZipg2k5dVApQ/)
 - [Learn Codes](https://codeprojects.org/4bOrxucJG2ZUYRwYjYwQU1cgNQqnVEnSpEK4aJxGqZA/)
-- [Dungeons and Dragons](https://codeprojects.org/iMeIW22X95ZN4L1SSN3ubwU5qr_wCG30MUGRysgtwlU/index.html)
+- [Dungeons and Dragons](https://codeprojects.org/iMeIW22X95ZN4L1SSN3ubwU5qr_wCG30MUGRysgtwlU/)
 
 ## Website projects
 - [Being18Matters](http://being18matters.org/)
@@ -105,9 +105,10 @@ tagline: Work created by our students
 - [Robot Birthday](https://academy.cs.cmu.edu/sharing/tanCamel9132)
 
 ## Project Based Programming
-- [3D-Printing-Hammer](3D-Printing-Hammer.pptx)
-- [3D-Printing-Drum](3D-Printing-Drum.pptx)
-- [FreeRunnerProject](FreeRunnerProject.docx)
+- [UX-Design](https://docs.google.com/presentation/d/14bShf2nhW-H3LI-5Xz2MIfpOF0171qkK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
+- [3D-Printing-Hammer](https://docs.google.com/presentation/d/1F0gMahZsnBZ29e38y8rQKXbvrHKAfcGx/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
+- [3D-Printing-Drum](https://docs.google.com/presentation/d/1RYqt0ajlwaAXcNfSr5LE5C54x-ZlDWVm/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
+- [FreeRunnerProject](https://docs.google.com/document/d/1P0UmBRYfXyhqKjdxU9C378lm7enlKFAz/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
 - [WeatherBot](https://docs.google.com/presentation/d/14uDDzs5PqHAJgXLwX3YTiOPFtfhp2MW38VcQQ6bw0bE/edit?usp=sharing)
 - [UnityGame](https://docs.google.com/presentation/d/1Z6ELAogZtp8p8MoQ9WTXOxlJZVn7QpzKxknl4qSBqbs/edit?usp=sharing)
 

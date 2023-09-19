@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Java
+title: AP Computer Science A
 tagline: Programming in Java
 exclude: true
 ---
-# Welcome to Java
+# Welcome to AP Computer Science A
 
 This class will prepare you for the Java industry certification and AP-CSA exam. You will have the opportunity to earn an [IT Specialist Certification
 ](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify) from Certiport.  See the following document for the objective domains of the Java exam.

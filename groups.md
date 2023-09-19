@@ -2,6 +2,7 @@
 layout: page
 title: Groups
 tagline: Local organizations of interest
+exclude: true
 ---
 <ul>
  	<li><a href="http://runjumpdev.org/">Run Jump Dev</a></li>
