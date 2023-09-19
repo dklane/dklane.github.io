@@ -17,12 +17,6 @@ The computer science courses at Bryan Station include:
 
 * Project Based Programming
 
-* Dual Credit Courses through BCTC
-  * CIT 120 - Computational Thinking
-  * CIT 170 - Database Design Fundamentals
-  * CS 115 - Introduction to Computer Programming
-  * CS 215 - Introduction to Program Design, Abstraction, and Problem Solving
-
-These course are part of our computer programming pathway. Please see [Kentucky's Career and Technical Education site](https://education.ky.gov/CTE/cter/Pages/default.aspx) for more information about the program of studies and valid industry certifications.
+These courses are part of our computer programming pathway. Please see [Kentucky's Career and Technical Education site](https://education.ky.gov/CTE/cter/Pages/default.aspx) for more information about the program of studies and valid industry certifications.
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
