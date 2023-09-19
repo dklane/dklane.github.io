@@ -28,7 +28,7 @@ tagline: Work created by our students
 - [Being18Matters](http://being18matters.org/)
 - [HorseRacingMap](https://padlet.com/davidlane3/t8k8ypwlef98dn05)
 
-## Games created with Construct3
+## Games created with [Construct3](https://www.construct.net/en)
 - [JetpackJoe](JetpackJoe)
 - [Animations](Animations)
 - [Baguette](Baguette)
@@ -95,6 +95,14 @@ tagline: Work created by our students
 
 ## The winning game at TSA 2022
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
+
+## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/)
+- [Adidas](https://academy.cs.cmu.edu/sharing/ivoryTurtle1534)
+- [Sunset](https://academy.cs.cmu.edu/sharing/moccasinBear6034)
+- [Island](https://academy.cs.cmu.edu/sharing/sandyBrownChimpanzee3735)
+- [Ghost](https://academy.cs.cmu.edu/sharing/purpleSpider4923)
+- [Southpark](https://academy.cs.cmu.edu/sharing/honeydewHorse1800)
+- [Robot Birthday](https://academy.cs.cmu.edu/sharing/tanCamel9132)
 
 ## Project Based Programming
 - [3D-Printing-Hammer](3D-Printing-Hammer.pptx)
