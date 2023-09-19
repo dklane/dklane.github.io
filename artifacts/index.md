@@ -96,7 +96,7 @@ tagline: Work created by our students
 ## The winning game at TSA 2022
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
-## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/)
+## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
 - [Adidas](https://academy.cs.cmu.edu/sharing/ivoryTurtle1534)
 - [Sunset](https://academy.cs.cmu.edu/sharing/moccasinBear6034)
 - [Island](https://academy.cs.cmu.edu/sharing/sandyBrownChimpanzee3735)
