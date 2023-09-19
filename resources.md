@@ -7,7 +7,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
  <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>,
  <a href="#java">java</a>, <a href="#javascript">javascript</a>, <a href="#android">android</a>,
  <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>,
- <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#drone">drone</a>, <a href="#cad">cad</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>,
+ <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#drone">drone</a>, <a href="#cad">cad</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#groups">local groups</a>,
  <a href="#potential">potential resources</a>, <a href="#iie">apple iie</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
 <h3 id="primary">Primary Resources</h3>
 <ul>
@@ -256,6 +256,17 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 		<li><a href="https://sourceforge.net/projects/octave-portable/">OctavePortable</a> can be used on school computers</li>
 		<li><a href="https://octave-online.net/">OctaveOnline</a> supports Chromebooks</li>
 	</ul>
+</ul>
+<h3 id="groups">Local groups</h3>
+<ul>
+ 	<li><a href="http://runjumpdev.org/">Run Jump Dev</a></li>
+ 	<li><a href="https://www.awesomeinc.org/">Awesome Inc</a></li>
+ 	<li><a href="https://www.meetup.com/find/tech/">Tech Meetups</a></li>
+ 	<li><a href="http://www.shiftdesigngroup.com/">Shift</a></li>
+ 	<li><a href="http://in2lex.com/">In2Lex</a></li>
+ 	<li><a href="https://www.meetup.com/Startup-Breakfast/">Startup Breakfast</a></li>
+ 	<li><a href="https://www.bluegrassdevs.org/">Bluegrass Developers Guild</a></li>
+  <li><a href="https://interalliance.org/">The INTERalliance of Greater Cincinnati</a></li>
 </ul>
 <h3 id="potential">Potential resources</h3>
 <ul>
