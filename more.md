@@ -21,7 +21,7 @@ BCTC offers the following dual credit pathways. Students complete these courses 
 
 Fayette County is expanding our [dual credit pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
 
-I teach DPT 100 *Intro to 3D Printing* for dual credit onsite.
+I will teach DPT 100 *Intro to 3D Printing* for dual credit this spring.
 
 Our students also have access to Google's IT Support Certificate curriculum through through [Grow with Google](https://grow.google/certificates/). Google is offering this resource to select high schools and community colleges. In addition to expert training and hands-on projects designed to prepare you for a job in your field of choice, you'll get access to a resume building tool, mock interviews and career networking support designed to help you with your job search. You'll also be able to connect with over 130 US employers in the hiring consortium who are accepting candidates who have completed a Google Career Certificate.
 
