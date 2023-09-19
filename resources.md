@@ -255,8 +255,7 @@ Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary
 		<li><a href="https://www.gnu.org/software/octave/index">Octave</a> is an open source alternative</li>
 		<li><a href="https://sourceforge.net/projects/octave-portable/">OctavePortable</a> can be used on school computers</li>
 		<li><a href="https://octave-online.net/">OctaveOnline</a> supports Chromebooks</li>
-	</ul>
-</ul>
+	</ul></ul>
 <h3 id="groups">Local groups</h3>
 <ul>
  	<li><a href="http://runjumpdev.org/">Run Jump Dev</a></li>
