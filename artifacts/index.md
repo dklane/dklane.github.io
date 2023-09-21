@@ -103,6 +103,8 @@ tagline: Work created by our students
 - [Ghost](https://academy.cs.cmu.edu/sharing/purpleSpider4923)
 - [Southpark](https://academy.cs.cmu.edu/sharing/honeydewHorse1800)
 - [Robot Birthday](https://academy.cs.cmu.edu/sharing/tanCamel9132)
+- [Cat](https://academy.cs.cmu.edu/sharing/rosyBrownGoldfish1700)
+- [Face](https://academy.cs.cmu.edu/sharing/saddleBrownMouse7178)
 
 ## Project Based Programming
 - [UX-Design](https://docs.google.com/presentation/d/14bShf2nhW-H3LI-5Xz2MIfpOF0171qkK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
