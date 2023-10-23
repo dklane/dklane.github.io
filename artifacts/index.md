@@ -97,6 +97,9 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [Hungry Frog](https://academy.cs.cmu.edu/sharing/plumGoat7475)
+= [Eagle](https://academy.cs.cmu.edu/sharing/rosyBrownKangaroo8396)
+- [Ship](https://academy.cs.cmu.edu/sharing/orangeRedOwl8346)
 - [Sunset](https://academy.cs.cmu.edu/sharing/midnightBlueLion3363)
 - [Evening](https://academy.cs.cmu.edu/sharing/peruSeal2885)
 - [City](https://academy.cs.cmu.edu/sharing/maroonAnt4820)
