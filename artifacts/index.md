@@ -98,9 +98,11 @@ tagline: Work created by our students
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
 - [Hungry Frog](https://academy.cs.cmu.edu/sharing/plumGoat7475)
+- [Sunset](https://academy.cs.cmu.edu/sharing/midnightBlueLion3363)
+- [Pumpkins](https://academy.cs.cmu.edu/sharing/seashellCat6621)
+- [Cat](https://academy.cs.cmu.edu/sharing/brownMouse2520)
 - [Eagle](https://academy.cs.cmu.edu/sharing/rosyBrownKangaroo8396)
 - [Ship](https://academy.cs.cmu.edu/sharing/orangeRedOwl8346)
-- [Sunset](https://academy.cs.cmu.edu/sharing/midnightBlueLion3363)
 - [Evening](https://academy.cs.cmu.edu/sharing/peruSeal2885)
 - [City](https://academy.cs.cmu.edu/sharing/maroonAnt4820)
 - [Adidas](https://academy.cs.cmu.edu/sharing/ivoryTurtle1534)
