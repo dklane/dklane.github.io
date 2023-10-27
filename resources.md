@@ -3,12 +3,13 @@ layout: page
 title: Resources
 tagline: Resources for students to explore
 ---
-Jump to <a href="#primary">primary resources</a>, <a href="#secondary">secondary resources</a>, <a href="#contest">contest prep</a>,
- <a href="#standards">standards</a>, <a href="#applications">applications</a>, <a href="#python">python</a>,
- <a href="#java">java</a>, <a href="#javascript">javascript</a>, <a href="#android">android</a>,
- <a href="#html">html</a>, <a href="#swift">swift</a>, <a href="#microcontrollers">microcontrollers</a>,
- <a href="#vex">vex</a>, <a href="#game">game</a>, <a href="#drone">drone</a>, <a href="#cad">cad</a>, <a href="#advanced">advanced topics</a>, <a href="#tools">tools</a>, <a href="#groups">local groups</a>,
- <a href="#potential">potential resources</a>, <a href="#iie">apple iie</a>, <a href="#chess">chess</a>, or <a href="#go">go</a>.
+<b>Jump to</b>: <a href="#primary">primary resources</a> / <a href="#secondary">secondary resources</a> / <a href="#contest">contest prep</a> /
+ <a href="#standards">standards</a> / <a href="#applications">applications</a> / <a href="#python">python</a> /
+ <a href="#java">java</a> / <a href="#javascript">javascript</a> / <a href="#android">android</a> /
+ <a href="#html">html</a> / <a href="#swift">swift</a> / <a href="#microcontrollers">microcontrollers</a> /
+ <a href="#vex">vex</a> / <a href="#game">game</a> / <a href="#drone">drone</a> / <a href="#cad">cad</a> / 
+ <a href="#advanced">advanced topics</a> / <a href="#tools">tools</a> / <a href="#groups">local groups</a> /
+ <a href="#potential">potential resources</a> / <a href="#iie">apple iie</a> / <a href="#chess">chess</a> / <a href="#go">go</a>
 <h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
