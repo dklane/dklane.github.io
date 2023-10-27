@@ -3,7 +3,7 @@ layout: page
 title: Artifacts
 tagline: Work created by our students
 ---
-**Jump To**: [Websites](#website-projects) / [Construct](#games-created-with-Construct3) / [Unity](#games-created-with-Unity) / [Python](#interactive-art-created-with-Python-and-the-CMU-graphics-library) / [Projects](#project-based-programming)
+**Jump To**: [Websites](#website-projects) / [Construct](#games-created-with-construct3) / [Unity](#games-created-with-unity) / [Python](#interactive-art-created-with-python-and-the-cmu-graphics-library) / [Projects](#project-based-programming)
 
 ## HTML/CSS projects
 - [Cosmic Launch](CosmicLaunch)
