@@ -3,6 +3,8 @@ layout: page
 title: Artifacts
 tagline: Work created by our students
 ---
+**Jump To**: [Websites](#website-projects) / [Construct](#games-created-with-Construct3) / [Unity](#games-created-with-Unity) / [Python](#interactive-art-created-with-Python-and-the-CMU-graphics-library) / [Projects](#project-based-programming)
+
 ## HTML/CSS projects
 - [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
@@ -97,6 +99,8 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [Southpark Halloween](https://academy.cs.cmu.edu/sharing/coralDeer4948)
+- [BSHS](https://academy.cs.cmu.edu/sharing/turquoiseSeal1490)
 - [Hungry Frog](https://academy.cs.cmu.edu/sharing/plumGoat7475)
 - [Sunset](https://academy.cs.cmu.edu/sharing/midnightBlueLion3363)
 - [Pumpkins](https://academy.cs.cmu.edu/sharing/seashellCat6621)
