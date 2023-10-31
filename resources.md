@@ -24,6 +24,8 @@ tagline: Resources for students to explore
 <h3 id="secondary">Secondary Resources</h3>
 <ul>
 	<li><a href="http://bit.ly/bshsbooks">eBook Collection</a> </li>
+	<li><a href="https://www.bebraschallenge.org/">Bebras</a> for an annual K12 logic challenge</li>
+	<li><a href="https://cs50.harvard.edu/x/">CS50 Puzzle Day</a> for an annual logic challenge</li>
 	<li><a href="https://www.juicemind.com/">Juicemind</a> offers interactive quizzes for CS topics</li>
 	<li><a href="https://visualgo.net/en">VisualGo</a> visualising data structures and algorithms through animation</li>
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
@@ -39,8 +41,6 @@ tagline: Resources for students to explore
 	<li><a href="http://csawesome.org/">CS Awesome AP CSA</a></li>
 	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
 	<li><a href="https://longbaonguyen.github.io/index.html">CS resources</a> from Long Nguyen at UMass</li>
-	<li><a href="https://www.bebraschallenge.org/">Bebras</a> for an annual K12 logic challenge</li>
-	<li><a href="https://cs50.harvard.edu/x/2021/puzzles/">CS50 Puzzle Day</a> for an annual logic challenge</li>
 	<li><a href="https://popfizz.io/hour-of-code">PopFizz Hour of Code</a></li>
 	<li><a href="https://overthewire.org/wargames/">Wargames</a> can help you to learn and practice security concepts in the form of fun-filled games</li>
 </ul>
