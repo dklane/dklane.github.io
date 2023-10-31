@@ -16,11 +16,11 @@ You will also have the opportunity to earn [Google Professional Certificates](ht
 We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that provide blended instruction, self-paced structures, and mastery-based grading.
 
 ## Resources
-* [CodeHS](https://codehs.com/uploads/386763030394e0698295bed89da48f06) to introduce information
-* [Project Stem](https://projectstem.org/high-school/ap-cs-a) for review and testing
-* [Coding Rooms](http://codingrooms.com/) for projects
-* [Learn Key](https://www.learnkey.com/course/detail/41E83519-DE51-46B4-9D8D-341C17BFE78E) for certification prep
-* [GMetrix](gmetrix.com/Products/Details/ITS-Python-Practice-Tests) for certification prep
+* [CS1](https://academy.cs.cmu.edu/) for a graphics-based introduction to Python
+* [CodeHS](https://codehs.com/uploads/e07777abfad0771e30c3af3dccc10dbc) as a reference
+* [Project Stem](https://projectstem.org/high-school/cs-fundamentals) for review and testing
+* [Replit](https://repl.it/) for projects
+* [Learn Key](https://www.learnkey.com/course/detail/41E83519-DE51-46B4-9D8D-341C17BFE78E) and [GMetrix](gmetrix.com/Products/Details/ITS-Python-Practice-Tests) for certification prep
 
 ## Units
 1. **Basic Python and Console Interaction:** Students learn the basics of programming by writing programs that interact with users through the keyboard.
