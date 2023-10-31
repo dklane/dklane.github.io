@@ -16,7 +16,7 @@ You will also have the opportunity to earn [Google Professional Certificates](ht
 We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that provide blended instruction, self-paced structures, and mastery-based grading.
 
 ## Resources
-* [CS1](https://academy.cs.cmu.edu/) for a graphics-based introduction to Python
+* [CS1 from Carnegie Mellon University](https://academy.cs.cmu.edu/) for a graphics-based introduction to Python
 * [CodeHS](https://codehs.com/uploads/e07777abfad0771e30c3af3dccc10dbc) as a reference
 * [Project Stem](https://projectstem.org/high-school/cs-fundamentals) for review and testing
 * [Replit](https://repl.it/) for projects
