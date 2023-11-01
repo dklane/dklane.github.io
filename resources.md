@@ -17,7 +17,7 @@ tagline: Resources for students to explore
 	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice (<a href="https://codehs.com/info/pd/free">PD workshops</a>)</li>
 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
  	<li><a href="https://projectstem.org/">ProjectStem</a> for practice and testing</li>
-	<li><a href="https://repl.it/">Repl.it</a> for open response questions(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>) (<a href="https://community.replit.com/">support community</a>)</li>
+	<li><a href="https://repl.it/">Repl.it</a> for open response questions (<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>) (<a href="https://community.replit.com/">support community</a>)</li>
 	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
 	<li><a href="https://www.digitalliteracyassessment.org/">Northstar</a> for Computer Literacy</li>
