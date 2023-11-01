@@ -20,10 +20,9 @@ My [courses](courses) include
 [Computational Thinking](compthink),
 [Introduction to Programming](introprog),
 and [AP Computer Science A](csa). 
+Students access these courses on [Canvas](http://fcps.net/canvas). 
 I expect the students in these courses to learn useful skills
-and earn [industry certifications](certifications).
-
-Student access these courses on [Canvas](http://fcps.net/canvas).
+and earn [industry certifications](certifications). 
 
 I also host or assist our [Beta Club](https://sites.google.com/stu.fayette.kyschools.us/bshsbeta/), [Hiking Club](https://bshs.fcps.net/students/clubs/hiking-club), [Game Club](https://bshs.fcps.net/students/clubs/game-club), [E-Sports team](https://www.playvs.com/high-school), [Cyberpatriots team](https://www.uscyberpatriot.org/), and [Technology Student Association (TSA)](https://tsaweb.org/tsa).
 
