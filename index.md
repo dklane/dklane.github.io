@@ -25,6 +25,15 @@ and earn [industry certifications](certifications).
 
 Student access these courses on [Canvas](http://fcps.net/canvas).
 
+I also host or assist the following clubs:
+
+* [Beta Club](https://sites.google.com/stu.fayette.kyschools.us/bshsbeta/)
+* [Hiking Club](https://bshs.fcps.net/students/clubs/hiking-club)
+* [Game Club](https://bshs.fcps.net/students/clubs/game-club)
+* [E-Sports](https://www.playvs.com/high-school)
+* [Cyberpatriots](https://www.uscyberpatriot.org/)
+* [Technology Student Association (TSA)](https://tsaweb.org/tsa)
+
 David Lane,
 IT Teacher,
 [david.lane at fayette.kyschools.us]
