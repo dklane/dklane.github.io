@@ -14,8 +14,7 @@ tagline: Resources for students to explore
 <ul>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
 	<li><a href="https://academy.cs.cmu.edu/">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science</li>
-	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice</li>
-	<li><a href="https://codehs.com/info/pd/free">CodeHS</a> PD workshops</li>
+	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice (<a href="https://codehs.com/info/pd/free">PD workshops</a>)</li>
 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
  	<li><a href="https://projectstem.org/">ProjectStem</a> for practice and testing</li>
 	<li><a href="https://repl.it/">Repl.it</a> for open response questions(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>) (<a href="https://community.replit.com/">support community</a>)</li>
