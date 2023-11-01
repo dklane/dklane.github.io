@@ -12,14 +12,17 @@ tagline: Resources for students to explore
  <a href="#potential">potential resources</a> / <a href="#iie">apple iie</a> / <a href="#chess">chess</a> / <a href="#go">go</a>
 <h3 id="primary">Primary Resources</h3>
 <ul>
+	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
+	<li><a href="https://academy.cs.cmu.edu/">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science</li>
+	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice</li>
+	<li><a href="https://codehs.com/info/pd/free">CodeHS</a> PD workshops</li>
+	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
+ 	<li><a href="https://projectstem.org/">ProjectStem</a> for practice and testing</li>
+	<li><a href="https://repl.it/">Repl.it</a> for open response questions(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>) (<a href="https://community.replit.com/">support community</a>)</li>
+	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
 	<li><a href="https://edu.gcfglobal.org/en/subjects/tech/">GCF Learn Free</a> for Computer Literacy</li>
 	<li><a href="https://www.digitalliteracyassessment.org/">Northstar</a> for Computer Literacy</li>
 	<li><a href="https://www.testout.com/courses">TestOut</a> for MSOffice simulation and certification</li>
- 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
-	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice</li>
-	<li><a href="https://codehs.com/info/pd/free">CodeHS</a> PD workshops</li>
- 	<li><a href="https://edhesive.com/">Edhesive</a> for practice and testing</li>
-	<li><a href="https://popfizz.io/">PopFizz for CS education</a></li>
 </ul>
 <h3 id="secondary">Secondary Resources</h3>
 <ul>
@@ -30,13 +33,8 @@ tagline: Resources for students to explore
 	<li><a href="https://visualgo.net/en">VisualGo</a> visualising data structures and algorithms through animation</li>
 	<li><a href="https://www.cengage.com/sam/">SAM</a> for MSOffice simulation in Computer Literacy</li>
 	<li><a href="https://www.clickteam.com/">Clickteam Fusion</a> for a 2D game design unit in Computational Thinking</li>
-	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
 	<li><a href="https://adventofcode.com/">Advent of Code</a> is an Advent calendar of small programming puzzles</li>
 	<li><a href="https://www.apluscompsci.com/">A+ Comp Sci</a> for handouts and practice in Python and Java</li>
-	<li><a href="https://www.gmetrix.com/">GMetrix</a> for certification practice in all courses</li>	
- 	<li><a href="https://repl.it/">Repl.it</a> for open response questions 
- 	(<a href="https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/">more info</a>) (<a href="https://community.replit.com/">support community</a>)</li>
-	<li><a href="https://www.codingrooms.com/">Coding Rooms</a> for teaching programming online and in-person</li>
 	<li><a href="https://runestone.academy/">Runestone Academy</a> offers free interactive textbooks</li>
 	<li><a href="http://csawesome.org/">CS Awesome AP CSA</a></li>
 	<li><a href="https://www.lynda.com/learning-paths/developer">Video learning paths</a> from Lynda with <a href="https://www.lexpublib.org/database/lyndacom">free access through the Lexington Public Library</a></li>
@@ -283,7 +281,6 @@ tagline: Resources for students to explore
 	<li><a href="https://www.notion.so/CS50-AP-Educator-Workshop-2020-e9ca6ca001c246fab2abd20bd9924ff3">CS50 Educator Workshop 2020</a></li>
 	</ul>
  	<li><a href="http://bjc.berkeley.edu">Beauty and Joy of Computing</a> on <a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0">edX</a></li>
-	<li><a href="https://academy.cs.cmu.edu/about">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science</li>
  	<li><a href="http://mobile-csp.org/">MobileCSP</a></li>
  	<li><a href="https://www.greenfoot.org/door">Greenfoot</a></li>
  	<li><a href="https://academy.oracle.com/en/oa-web-overview.html">Oracle</a></li>
