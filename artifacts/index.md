@@ -104,6 +104,7 @@ tagline: Work created by our students
 - [Cat](https://academy.cs.cmu.edu/sharing/brownMouse2520)
 - [Southpark Halloween](https://academy.cs.cmu.edu/sharing/coralDeer4948)
 - [Pumpkins](https://academy.cs.cmu.edu/sharing/seashellCat6621)
+- [Jersey](https://academy.cs.cmu.edu/sharing/mistyRoseSnake9841)
 - [BSHS](https://academy.cs.cmu.edu/sharing/turquoiseSeal1490)
 - [Eagle](https://academy.cs.cmu.edu/sharing/rosyBrownKangaroo8396)
 - [Ship](https://academy.cs.cmu.edu/sharing/orangeRedOwl8346)
