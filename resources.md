@@ -69,6 +69,7 @@ tagline: Resources for students to explore
 	<li><a href="http://hub.totalsem.com/mheclaim">Total Seminars Training</a> for ITF practice with an access key from the <a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EQJ7fHu-uqNMqR7bgZcb5YUBjwF396GzSGHoA2IVvjBZVQ?e=0YTdyX">All In One</a> guide</li>
 	<li><a href="http://www.wiley.com/go/sybextestprep">Sybex Test Prep</a> for ITF practice with registration of the <a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EVO_meb3W2tBpNLDxDhFTjoBU06yKKgvfPVNF-Arlzih3g?e=KDjPoJ">Quentin Docter</a> guide</li>
 	<li><a href="https://www.youtube.com/playlist?list=PLyromJb0ueykWBpH_LcitaINTxHaCzHdz">CompTIA ITF videos</a></li>
+	<li><a href="https://uniontestprep.com/comptia-a-core-series-exam/practice-test">Free CompTIA A+ practice</a> from Union Test Prep</li>
 </ul>
 <b>Students who have completed their work are encouraged to explore the following resources:</b>
 <h3 id="applications">Applications</h3>
