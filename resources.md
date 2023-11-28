@@ -125,6 +125,7 @@ tagline: Resources for students to explore
 <li><a href="https://longbaonguyen.github.io/courses/apcsa/apjava.html">Java resources from Long Nguyen</a></li>
 <li><a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a">AP-CSA</a> Course and Exam Description</li>
 <li><a href="https://www.amazon.com/AP-Computer-Science-Practice-Barrons/dp/1438012896?ref_=ast_sto_dp">Barron's AP-CSA prep</a> with online practice (shared copy in the classroom)</li>
+<li><a href="https://cscheerleader.com/apcs-a">AP-CSA info from Ria Galanos</a></li>
 <li><a href="https://www.youtube.com/user/codyhenr/featured">Cody Henrichsen videos</a></li>
 <li><a href="https://www.youtube.com/user/thenewboston">TheNewBoston videos</a></li>
 <li><a href="http://cs.joensuu.fi/jeliot/">Jeliot</a> A Java IDE for beginners</li>
