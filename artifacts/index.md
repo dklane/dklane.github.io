@@ -92,12 +92,8 @@ tagline: Work created by our students
 - [Evening](https://academy.cs.cmu.edu/sharing/peruSeal2885) (reacts to a mouse click)
 - [City](https://academy.cs.cmu.edu/sharing/maroonAnt4820)
 - [Adidas](https://academy.cs.cmu.edu/sharing/ivoryTurtle1534)
-- [Sunset](https://academy.cs.cmu.edu/sharing/moccasinBear6034)
-- [Island](https://academy.cs.cmu.edu/sharing/sandyBrownChimpanzee3735)
 - [Ghost](https://academy.cs.cmu.edu/sharing/purpleSpider4923)
-- [Southpark](https://academy.cs.cmu.edu/sharing/honeydewHorse1800)
 - [Robot Birthday](https://academy.cs.cmu.edu/sharing/tanCamel9132)
-- [Cat](https://academy.cs.cmu.edu/sharing/rosyBrownGoldfish1700)
 - [Face](https://academy.cs.cmu.edu/sharing/saddleBrownMouse7178)
 
 ## Project Based Programming
