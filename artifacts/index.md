@@ -81,6 +81,7 @@ tagline: Work created by our students
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
 - [Random Flowers](https://academy.cs.cmu.edu/sharing/limeGreenDolphin6669) (reacts to mouse movement and clicks)
+- [Starry Elves](https://academy.cs.cmu.edu/sharing/blueVioletSheep8467) (reacts to mouse movement and clicks)
 - [Hungry Frog](https://academy.cs.cmu.edu/sharing/plumGoat7475) (reacts to a mouse click)
 - [Sunset](https://academy.cs.cmu.edu/sharing/midnightBlueLion3363) (reacts to mouse clicks)
 - [Cat](https://academy.cs.cmu.edu/sharing/brownMouse2520) (reacts to a mouse click)
