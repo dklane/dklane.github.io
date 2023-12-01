@@ -80,6 +80,7 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [Alien Saucers](https://academy.cs.cmu.edu/sharing/purpleMonkey7409) (reacts to mouse movement and clicks)
 - [Random Flowers](https://academy.cs.cmu.edu/sharing/limeGreenDolphin6669) (reacts to mouse movement and clicks)
 - [Starry Elves](https://academy.cs.cmu.edu/sharing/blueVioletSheep8467) (reacts to mouse movement and clicks)
 - [Hungry Frog](https://academy.cs.cmu.edu/sharing/plumGoat7475) (reacts to a mouse click)
