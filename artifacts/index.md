@@ -93,6 +93,8 @@ tagline: Work created by our students
 - [Eagle](https://academy.cs.cmu.edu/sharing/rosyBrownKangaroo8396) (reacts to mouse clicks)
 - [Ship](https://academy.cs.cmu.edu/sharing/orangeRedOwl8346) (reacts to a mouse click)
 - [Evening](https://academy.cs.cmu.edu/sharing/peruSeal2885) (reacts to a mouse click)
+- [Don Gato Yippee](https://academy.cs.cmu.edu/sharing/redLobster4388) (reacts to a mouse click)
+- [Don Gato](https://academy.cs.cmu.edu/sharing/orchidDeer6024)
 - [City](https://academy.cs.cmu.edu/sharing/maroonAnt4820)
 - [Adidas](https://academy.cs.cmu.edu/sharing/ivoryTurtle1534)
 - [Ghost](https://academy.cs.cmu.edu/sharing/purpleSpider4923)
