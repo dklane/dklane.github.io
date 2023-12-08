@@ -9,6 +9,7 @@ tagline: Work created by our students
 - [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
 - [Snake Wars](https://snake-wars.dklane.repl.co/)
+- [Trumpet](https://lvevzyyreq-2094966077-usgnpxlphg-t.codehs.me/index.html)
 - [Bengals](https://gqhxngoohx-2094966071-usgnpxlphg-t.codehs.me/index.html)
 - [Virgil Van Dijk](https://vfuhbqlnpk-2094966063-usgnpxlphg-t.codehs.me/index.html)
 - [Artists](https://xccukevkbg-2094966070-usgnpxlphg-t.codehs.me/index.html)
