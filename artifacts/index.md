@@ -12,6 +12,8 @@ tagline: Work created by our students
 - [Trumpet](https://lvevzyyreq-2094966077-usgnpxlphg-t.codehs.me/index.html)
 - [Bengals](https://gqhxngoohx-2094966071-usgnpxlphg-t.codehs.me/index.html)
 - [Virgil Van Dijk](https://vfuhbqlnpk-2094966063-usgnpxlphg-t.codehs.me/index.html)
+- [Bees](https://znlpuoukoj-2094966058-usgnpxlphg-t.codehs.me/index.html)
+- [Money](https://hvuwuywjrt-2094966057-usgnpxlphg-t.codehs.me/index.html)
 - [Artists](https://xccukevkbg-2094966070-usgnpxlphg-t.codehs.me/index.html)
 - [Hip-Hop Guide](https://sieqxcooxn-2094966081-usgnpxlphg-t.codehs.me/index.html)
 - [Deepwoken](https://xyjuwmjwzv-2094966052-usgnpxlphg-t.codehs.me/index.html)
