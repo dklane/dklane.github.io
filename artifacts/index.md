@@ -14,6 +14,7 @@ tagline: Work created by our students
 - [Virgil Van Dijk](https://vfuhbqlnpk-2094966063-usgnpxlphg-t.codehs.me/index.html)
 - [Bees](https://znlpuoukoj-2094966058-usgnpxlphg-t.codehs.me/index.html)
 - [Money](https://hvuwuywjrt-2094966057-usgnpxlphg-t.codehs.me/index.html)
+- [Deepwoken](https://xyjuwmjwzv-2094966052-usgnpxlphg-t.codehs.me/index.html)
 - [Artists](https://xccukevkbg-2094966070-usgnpxlphg-t.codehs.me/index.html)
 - [Hip-Hop Guide](https://sieqxcooxn-2094966081-usgnpxlphg-t.codehs.me/index.html)
 - [Deepwoken](https://xyjuwmjwzv-2094966052-usgnpxlphg-t.codehs.me/index.html)
@@ -88,6 +89,10 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [day/night with flowers/stars](https://academy.cs.cmu.edu/sharing/skyBlueSnail7386) (reacts to space-key, mouse-click, and mouse-drag)
+- [draw with colors](https://academy.cs.cmu.edu/sharing/deepPinkZebra1792) (reacts to direction-keys, space-key, r, o, y, g, b, p, k, w, and mouse-click)
+- [flowers and bees](https://academy.cs.cmu.edu/sharing/rosyBrownTiger4849) (reacts to b-key, r-key, p-key, o-key, and mouse-drag)
+- [sail & duck](https://academy.cs.cmu.edu/sharing/fuchsiaPanda5980) (reacts to left-key, mouse-click, and mouse-drag)
 - [Alien Saucers](https://academy.cs.cmu.edu/sharing/purpleMonkey7409) (reacts to mouse movement and clicks)
 - [Random Flowers](https://academy.cs.cmu.edu/sharing/limeGreenDolphin6669) (reacts to mouse movement and clicks)
 - [Starry Elves](https://academy.cs.cmu.edu/sharing/blueVioletSheep8467) (reacts to mouse movement and clicks)
