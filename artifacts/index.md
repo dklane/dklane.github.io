@@ -121,6 +121,7 @@ tagline: Work created by our students
 - [FreeRunnerProject](https://docs.google.com/document/d/1P0UmBRYfXyhqKjdxU9C378lm7enlKFAz/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
 - [WeatherBot](https://docs.google.com/presentation/d/14uDDzs5PqHAJgXLwX3YTiOPFtfhp2MW38VcQQ6bw0bE/edit?usp=sharing)
 - [UnityGame](https://docs.google.com/presentation/d/1Z6ELAogZtp8p8MoQ9WTXOxlJZVn7QpzKxknl4qSBqbs/edit?usp=sharing)
+- [Mixed-Activities](https://docs.google.com/presentation/d/155M00C_NMP9ypdr7s9F7OiND9tt3M0GfDdCFO3hVk4s/edit?usp=sharing)
 
 
 ## Drone Videos
