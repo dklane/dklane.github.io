@@ -18,7 +18,6 @@ tagline: Work created by our students
 - [Deepwoken](https://xyjuwmjwzv-2094966052-usgnpxlphg-t.codehs.me/index.html)
 - [Artists](https://xccukevkbg-2094966070-usgnpxlphg-t.codehs.me/index.html)
 - [Hip-Hop Guide](https://sieqxcooxn-2094966081-usgnpxlphg-t.codehs.me/index.html)
-- [Deepwoken](https://xyjuwmjwzv-2094966052-usgnpxlphg-t.codehs.me/index.html)
 - [Art Tips](https://website-project-art-tips.dklane.repl.co/)
 - [Football](https://website-project-football.dklane.repl.co/)
 - [Demon Donkey](https://website-project-demon-donkey.dklane.repl.co/)
