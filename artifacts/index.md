@@ -96,6 +96,7 @@ tagline: Work created by our students
 - [flowers and bees](https://academy.cs.cmu.edu/sharing/rosyBrownTiger4849) (reacts to b-key, r-key, p-key, o-key, and mouse-drag)
 - [sail & duck](https://academy.cs.cmu.edu/sharing/fuchsiaPanda5980) (reacts to left-key, mouse-click, and mouse-drag)
 - [moving dots](https://academy.cs.cmu.edu/sharing/tealCheetah6259) (reacts to direction keys and mouse-drag)
+- [Levels](https://academy.cs.cmu.edu/sharing/burlyWoodBee5538) (reacts to mouse movement)
 - [Alien Saucers](https://academy.cs.cmu.edu/sharing/purpleMonkey7409) (reacts to mouse movement and clicks)
 - [Random Flowers](https://academy.cs.cmu.edu/sharing/limeGreenDolphin6669) (reacts to mouse movement and clicks)
 - [Starry Elves](https://academy.cs.cmu.edu/sharing/blueVioletSheep8467) (reacts to mouse movement and clicks)
