@@ -9,6 +9,7 @@ tagline: Work created by our students
 - [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
 - [Snake Wars](https://snake-wars.dklane.repl.co/)
+- [Danzplanet](https://aiwrhossfr-2094966054-usgnpxlphg-t.codehs.me/index.html)
 - [Trumpet](https://lvevzyyreq-2094966077-usgnpxlphg-t.codehs.me/index.html)
 - [Bengals](https://gqhxngoohx-2094966071-usgnpxlphg-t.codehs.me/index.html)
 - [Pinball Pizza](https://llzhwsqwwy-1938843130-usgnpxlphg-t.codehs.me/index.html)
@@ -89,6 +90,7 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [maze](https://academy.cs.cmu.edu/sharing/navySheep3045) (enter at the bottom of the screen, click will end the game)
 - [key race](https://academy.cs.cmu.edu/sharing/grayAlligator8615) (reacts to mouse-click, space, q and p keys. )
 - [day/night with flowers/stars](https://academy.cs.cmu.edu/sharing/skyBlueSnail7386) (reacts to space-key, mouse-click, and mouse-drag)
 - [draw with colors](https://academy.cs.cmu.edu/sharing/deepPinkZebra1792) (reacts to direction-keys, space-key, r, o, y, g, b, p, k, w, and mouse-click)
