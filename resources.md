@@ -350,7 +350,7 @@ tagline: Resources for students to explore
 	<li><a href="https://en.wikipedia.org/wiki/Senet">Senet</a> is from ancient Egypt</li>
 	<ul>
 	<li><a href="https://www.playonlinedicegames.com/senet">Play Senet online</a></li>
- 	<li><a href="https://oortsang.github.io/Elm-Senet/Senet.html">An implementation on GitHub</a></li>
+ 	<li><a href="https://oortsang.github.io/Elm-Senet">An implementation of Senet on GitHub</a></li>
 	</ul>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
