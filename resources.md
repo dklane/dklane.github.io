@@ -9,7 +9,8 @@ tagline: Resources for students to explore
  <a href="#html">html</a> / <a href="#swift">swift</a> / <a href="#microcontrollers">microcontrollers</a> /
  <a href="#vex">vex</a> / <a href="#game">game</a> / <a href="#drone">drone</a> / <a href="#cad">cad</a> / 
  <a href="#advanced">advanced topics</a> / <a href="#tools">tools</a> / <a href="#groups">local groups</a> /
- <a href="#potential">potential resources</a> / <a href="#iie">apple iie</a> / <a href="#chess">chess</a> / <a href="#go">go</a>
+ <a href="#potential">potential resources</a> / <a href="#iie">apple iie</a> / <a href="#chess">chess</a> / <a href="#go">go</a> /
+ <a href="#games">games</a>
 <h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://www.awesomeinc.org/tutorials/construct-block-game/">AwesomeInc tutorial</a>)</li>
@@ -338,5 +339,18 @@ tagline: Resources for students to explore
 	<li><a href="https://www.usgo.org/">The American Go Association</a></li>
 	<li><a href="http://agfgo.org/pages/home.php">The American Go Foundation</a></li>
  	<li><a href="https://www.sjeng.org/leela.html">Leela Go engine with heatmaps</a></li>
+</ul>
+<h3 id="games">Other Games</h3>
+<ul>
+	<li><a href="https://en.wikipedia.org/wiki/Royal_Game_of_Ur">Ur</a> is from Mesopotamia during the third millennium BC</li>
+	<ul>
+	<li><a href="https://royalur.net/">RoyalUr.net</a> is an online verion of Ur</li>
+	<li><a href="https://github.com/RoyalUr/RoyalUr.net-Backend">Source code for the RoyalUr server on GitHub</a></li>
+	</ul>
+	<li><a href="https://en.wikipedia.org/wiki/Senet">Senet</a> is from ancient Egypt</li>
+	<ul>
+	<li><a href="https://www.playonlinedicegames.com/senet">Play Senet online</a></li>
+ 	<li><a href="https://oortsang.github.io/Elm-Senet/Senet.html">An implementation on GitHub</a></li>
+	</ul>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
