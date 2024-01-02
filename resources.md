@@ -345,12 +345,12 @@ tagline: Resources for students to explore
 	<li><a href="https://en.wikipedia.org/wiki/Royal_Game_of_Ur">Ur</a> is from Mesopotamia during the third millennium BC</li>
 	<ul>
 	<li><a href="https://royalur.net/">RoyalUr.net</a> is an online verion of Ur</li>
-	<li><a href="https://github.com/RoyalUr/RoyalUr.net">Source code for the RoyalUr server on GitHub</a></li>
+	<li><a href="https://github.com/RoyalUr/RoyalUr.net-Backend">Source code for the RoyalUr server on GitHub</a></li>
 	</ul>
 	<li><a href="https://en.wikipedia.org/wiki/Senet">Senet</a> is from ancient Egypt</li>
 	<ul>
 	<li><a href="https://www.playonlinedicegames.com/senet">Play Senet online</a></li>
- 	<li><a href="https://oortsang.github.io/Elm-Senet">An implementation of Senet on GitHub</a></li>
+ 	<li><a href="https://oortsang.github.io/Elm-Senet">An implementation of Senet on GitHub that uses different rules</a></li>
 	</ul>
 </ul>
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})
