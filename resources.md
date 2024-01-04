@@ -346,10 +346,14 @@ tagline: Resources for students to explore
 	<ul>
 	<li><a href="https://royalur.net/">RoyalUr.net</a> is an online verion of Ur</li>
 	<li><a href="https://github.com/RoyalUr/RoyalUr.net-Backend">Source code for the RoyalUr server on GitHub</a></li>
+	<li><a href="https://gameofuronline.com/">An unblocked version of Ur online</a></li>
+	<li><a href="https://danigta.de/games/royal-game-of-ur">Play Ur with a friend</a></li>
 	</ul>
 	<li><a href="https://en.wikipedia.org/wiki/Senet">Senet</a> is from ancient Egypt</li>
 	<ul>
 	<li><a href="https://www.playonlinedicegames.com/senet">Play Senet online</a></li>
+	<li><a href="https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Education/Make%20Your%20Own%20Senet%20Game_0.pdf">Make and Play Your Own
+Senet Game</a></li>
  	<li><a href="https://oortsang.github.io/Elm-Senet">An implementation of Senet on GitHub that uses different rules</a></li>
 	</ul>
 </ul>
