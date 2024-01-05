@@ -242,9 +242,6 @@ tagline: Resources for students to explore
  	(free for students in the fayette.kyschools.us domain)</li>
  	<li><a href="https://colab.research.google.com/notebooks/welcome.ipynb">Colaboratory</a> 
  	a Jupyter notebook environment from Google</li>
- 	<li><a href="https://c9.io/login">C9.io</a> provides virtual servers (I can create student accounts)</li>
- 	<li><a href="https://sandbox.cs50.io/">CS50 Sandbox:</a> temporary programming environments for students and teachers</li>
- 	<li><a href="http://jaredpetersen.github.io/codeprinter/">Code Printer</a> for pretty output</li>
 	<li>Image editors</li>
 	<ul>
  		<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing online</li>
