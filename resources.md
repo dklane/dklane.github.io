@@ -249,6 +249,7 @@ tagline: Resources for students to explore
 	<ul>
  		<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing online</li>
 		<li><a href="https://www.gimp.org/">Gimp</a> and <a href="https://portableapps.com/apps/graphics_pictures/gimp_portable">GimpPortable</a> for image editing on a workstation</li>
+		<li><a href="https://www.piskelapp.com/">Piskel</a> is a free online editor for animated sprites & pixel art</li>
 	</ul>
 	<li>3D plotting and linear algebra</li>
 	<ul>
