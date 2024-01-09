@@ -238,17 +238,14 @@ tagline: Resources for students to explore
 <h3 id="tools">Tools</h3>
 <ul>
  	<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> An IDE that support many programming languages</li>
-	<li><a href="https://www.jetbrains.com/">JetBrains</a> Developer Tools for Professionals and Teams 
- 	(free for students in the fayette.kyschools.us domain)</li>
+	<li><a href="https://www.jetbrains.com/">JetBrains</a> Developer Tools for Professionals and Teams</li>
  	<li><a href="https://colab.research.google.com/notebooks/welcome.ipynb">Colaboratory</a> 
  	a Jupyter notebook environment from Google</li>
- 	<li><a href="https://c9.io/login">C9.io</a> provides virtual servers (I can create student accounts)</li>
- 	<li><a href="https://sandbox.cs50.io/">CS50 Sandbox:</a> temporary programming environments for students and teachers</li>
- 	<li><a href="http://jaredpetersen.github.io/codeprinter/">Code Printer</a> for pretty output</li>
 	<li>Image editors</li>
 	<ul>
  		<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing online</li>
 		<li><a href="https://www.gimp.org/">Gimp</a> and <a href="https://portableapps.com/apps/graphics_pictures/gimp_portable">GimpPortable</a> for image editing on a workstation</li>
+		<li><a href="https://www.piskelapp.com/">Piskel</a> is a free online editor for animated sprites & pixel art</li>
 	</ul>
 	<li>3D plotting and linear algebra</li>
 	<ul>
