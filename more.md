@@ -21,7 +21,7 @@ BCTC offers the following dual credit pathways. Students complete these courses 
 
 Fayette County is expanding our [dual credit pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
 
-I will teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing* for dual credit this spring.
+I teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing* for dual credit on site.
 
 We plan to participate in the US Air Force [CyberPatriot](https://www.uscyberpatriot.org/home) competiton this year. All students are invited to join a team.
 
