@@ -243,9 +243,10 @@ tagline: Resources for students to explore
  	a Jupyter notebook environment from Google</li>
 	<li>Image editors</li>
 	<ul>
- 		<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing online</li>
-		<li><a href="https://www.gimp.org/">Gimp</a> and <a href="https://portableapps.com/apps/graphics_pictures/gimp_portable">GimpPortable</a> for image editing on a workstation</li>
+ 		<li><a href="https://www.photopea.com/">Photopea</a> is similar to Photoshop5</li>
 		<li><a href="https://www.piskelapp.com/">Piskel</a> is a free online editor for animated sprites & pixel art</li>
+		<li><a href="https://pixlr.com/editor/">PIXLR</a> for image editing online (blocked by FCPS)</li>
+		<li><a href="https://www.gimp.org/">Gimp</a> and <a href="https://portableapps.com/apps/graphics_pictures/gimp_portable">GimpPortable</a> for image editing on a workstation</li>
 	</ul>
 	<li>3D plotting and linear algebra</li>
 	<ul>
