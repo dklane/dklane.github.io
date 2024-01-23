@@ -80,6 +80,7 @@ tagline: Work created by our students
 - [Lesson12](Lesson12)
 
 ## Games created with Unity
+- [DiggyDiggyCave](DiggyDiggyCave)
 - [TheGreatQuest](TheGreatQuest)
 - [PartyFestival](PartyFestival)
 - [Platformer](Platformer)
