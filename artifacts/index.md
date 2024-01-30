@@ -6,7 +6,7 @@ tagline: Work created by our students
 **Jump To**: [Websites](#website-projects) / [Construct](#games-created-with-construct3) / [Unity](#games-created-with-unity) / [Python](#interactive-art-created-with-python-and-the-cmu-graphics-library) / [Projects](#project-based-programming)
 
 ## HTML/CSS projects
-- [Eco Living Solutions](EcoLivingSolutions)
+- [Eco Living Solutions](https://ecolivingsolutions.being18matters.org/)
 - [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
 - [Snake Wars](https://snake-wars.dklane.repl.co/)
