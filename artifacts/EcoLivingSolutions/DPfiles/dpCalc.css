@@ -1,0 +1,10 @@
+.calc{
+    margin: 2% 0 0;
+    padding: 5%;
+    background-color: #82978e;
+}
+
+.calc label{
+  color: white;
+  font-size: 1.3rem;
+}
