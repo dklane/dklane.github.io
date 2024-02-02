@@ -27,7 +27,7 @@ CompTIA
 * _[A+](https://www.comptia.org/certifications/a) in CIT 111 for the Cyber Engineering pathway_
 
 TestOut
-* _[Network Pro](https://w3.testout.com/courseware/network-pro) in CYS 101 for the Network Administration pathway_
+* _[Security Pro](https://w3.testout.com/courseware/security-pro) in CYS 101 for the Cyber Engineering pathway_
 
 Career and Technical Education [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)
 * [Pathway Standards](https://education.ky.gov/CTE/endofprog/Pages/CTEEOPStandardsDocs.aspx)
