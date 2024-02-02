@@ -13,6 +13,7 @@ Programming Certifications through Certiport's [IT Specialist Certification](htt
 * [HTML/CSS](https://certiport.pearsonvue.com/fc/ITS/htmlcss)
 * [Python](https://certiport.pearsonvue.com/fc/ITS/python)
 * [Java](https://certiport.pearsonvue.com/fc/ITS/java)
+* [Software Development](https://certiport.pearsonvue.com/fc/ITS/softwaredevelopment)
 
 CompTIA
 * [IT Fundamentals](https://www.comptia.org/certifications/it-fundamentals)
