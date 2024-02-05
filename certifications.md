@@ -29,7 +29,8 @@ CompTIA
 TestOut
 * _[Security Pro](https://w3.testout.com/pro-certifications/security-pro) in CYS 101 for the Cyber Engineering pathway_
 
-Career and Technical Education [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)
+Career and Technical Education
+* [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)
 * [Pathway Standards](https://education.ky.gov/CTE/endofprog/Pages/CTEEOPStandardsDocs.aspx)
 * [Kentucky Standards for Computer Science](https://kystandards.org/content_area/computerscience/)
 
