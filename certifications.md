@@ -28,6 +28,9 @@ CompTIA
 TestOut
 * _[Security Pro](https://w3.testout.com/pro-certifications/security-pro) in CYS 101 for the Cyber Engineering pathway_
 
+Autodesk
+* _[Fusion 360](https://certiport.pearsonvue.com/fc/autodesk/od/acu/fusion-360) for the Additive Manufacturing pathway_
+
 Career and Technical Education
 * [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)
 * [Pathway Standards](https://education.ky.gov/CTE/endofprog/Pages/CTEEOPStandardsDocs.aspx)
