@@ -6,7 +6,6 @@ tagline: Industry certifications
 Students are encouraged to pursue the following industry certifications:
 
 IC3 Digital Literacy
-* [Skills you need now. Credentials for your future](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Overview.aspx)
 * [IC3 Global Standard 6](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Certify/IC3-Global-Standard-6) in Computer Literacy
 
 Programming Certifications through Certiport's [IT Specialist Certification](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
