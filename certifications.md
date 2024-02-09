@@ -14,6 +14,7 @@ Programming Certifications through Certiport's [IT Specialist Certification](htt
 * [Java](https://certiport.pearsonvue.com/fc/ITS/java) in AP-CSA
 * [JavaScript](https://certiport.pearsonvue.com/fc/ITS/javascript) in AP-CSP
 * [Software Development](https://certiport.pearsonvue.com/fc/ITS/softwaredevelopment) independent study
+* [HTML5 App Development](https://certiport.pearsonvue.com/fc/ITS/htmlappdevelopment) independent study
 * [Dreamweaver](https://certiport.pearsonvue.com/fc/aca/od/cc2021/dreamweaver) independent study
 * _[Networking](https://certiport.pearsonvue.com/fc/ITS/softwaredevelopment) for the Cyber Engineering pathway_
 * _[Network Security](https://certiport.pearsonvue.com/fc/ITS/networksecurity) for the Cyber Engineering pathway_
