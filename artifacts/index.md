@@ -90,7 +90,8 @@ tagline: Work created by our students
 - [Lesson12](Lesson12)
 
 ## Games created with Unity
-- [DiggyDiggyCave](https://lukewarm124.github.io/)
+- [DiggyDiggyCave](DiggyDiggyCave)
+- [DiggyDiggyCave-development](https://lukewarm124.github.io/)
 - [TheGreatQuest](TheGreatQuest)
 - [PartyFestival](PartyFestival)
 - [Platformer](Platformer)
