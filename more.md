@@ -5,6 +5,8 @@ tagline: Additional opportunities
 ---
 **Our students have access to numerous dual credit courses and adult ed certificates.**
 
+Fayette County created a collection of [dual credit pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
+
 BCTC offers the following dual credit pathways. Students complete these courses in class. The content is online, but I am available to answer questions and offer encouragement.
 
 * Programming Certificate Pathway
@@ -18,8 +20,6 @@ BCTC offers the following dual credit pathways. Students complete these courses 
   * CIT 111 *Computer Hardware & Software*
   * CIT 160 *Intro to Networking OR CIT 161 Intro to Networks*
   * CIT 180 *Security Fundamentals*
-
-Fayette County expanded our [dual credit pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
 
 I teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing* for dual credit on site.
 
