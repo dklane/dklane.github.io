@@ -15,7 +15,7 @@ The computer science courses at Bryan Station include:
 
 * AP Computer Science Principles (**math credit and college credit**)
 
-* Project Based Programming
+* Project Based Programming / Internship
 
 * Student Technology Leadership Program (STLP)
 
