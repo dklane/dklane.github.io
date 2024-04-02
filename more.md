@@ -5,7 +5,7 @@ tagline: Additional opportunities
 ---
 **Fayette County offers access to [dual credit courses for many career pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).**
 
-I am available to answer questions and offer support if you enroll in the following online courses thru BCTC.
+I am available to answer questions and offer support if you enroll in the following BCTC courses.
 
 * Programming Certificate Pathway
   * CIT 105 *Intro to Computers*
