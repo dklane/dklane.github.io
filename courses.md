@@ -25,7 +25,7 @@ The computer science courses at Bryan Station include:
 
 * [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing* and [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* will be available next year
 
-* Students who complete DPT 100, DPT 150, and DPT 280 can earn a [3D Printing Technicican Certificate](https://southeast.kctcs.edu/education-training/program-finder/3d-printing.aspx) by completing additional electives.
+* Students who complete DPT 100, DPT 150, and DPT 280 can earn a [3D Printing Technician Certificate](https://southeast.kctcs.edu/education-training/program-finder/3d-printing.aspx) by completing additional electives.
 
 These courses are part of Kentucky's computer science pathways. Please see [Kentucky's Career and Technical Education site](https://education.ky.gov/CTE/cter/Pages/default.aspx) for more information about the program of studies and valid industry certifications.
 
