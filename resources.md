@@ -300,7 +300,6 @@ tagline: Resources for students to explore
  	<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
  	<li><a href="https://advancesinap.collegeboard.org/stem/computer-science-principles/curricula-pedagogical-support">CollegeBoard: Providers of CSP Curricula</a></li>
 	<li><a href="https://bournetocode.com/">Bourne to Code</a> from the <a href="https://www.bourne-grammar.lincs.sch.uk/">Bourne school</a> in England</li>
-	<li><a href="https://derekbabb.github.io/CyberSecurity/">Cyber Security</a> A curriculum for a high school cyber security course.</li>
 	<li><a href="https://www.mooc.fi/en/">courses offered by University of Helsinki's Department of Computer Science</a></li>
 	<li><a href="https://csteachers.org/nifty">CSTA Nifty Assignments</a></li>
 	<li><a href="http://nifty.stanford.edu/">Stanford Nifty Assignments</a></li>
@@ -309,6 +308,9 @@ tagline: Resources for students to explore
 	<li><a href="https://corgis-edu.github.io/corgis/json/">CORGIS</a> The Collection of Really Great, Interesting, Situated Datasets</li>
 	<li><a href="https://data.fivethirtyeight.com/">FiveThirtyEight</a> We’re sharing the data and code behind some of our articles and graphics.</li>
 	<li><a href="https://www.youtube.com/user/AlgoRythmics/playlists">AlgoRythmics</a> From dance to code</li>
+	<li><a href="https://derekbabb.github.io/CyberSecurity/">Cyber Security</a> A curriculum for a high school cyber security course.</li>
+	<li><a href="https://kc7cyber.com/">KC7</a> The cyber mystery game anyone can play.</li>
+	<li><a href="https://www.uscyberpatriot.org/">CyberPatriot</a> is the National Youth Cyber Education Program created by the Air & Space Forces Association.</li>
 </ul>
 <h3 id="iie">Documentation for our Apple IIe</h3>
 <ul>
