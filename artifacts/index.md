@@ -37,6 +37,7 @@ tagline: Work created by our students
 - [HorseRacingMap](https://padlet.com/davidlane3/t8k8ypwlef98dn05)
 
 ## Games created with [Construct3](https://www.construct.net/en)
+- [WildToastChase](WildToastChase)
 - [BloxRun](BloxRun)
 - [ScaryMaze](ScaryMaze)
 - [SkyCoins](SkyCoins)
