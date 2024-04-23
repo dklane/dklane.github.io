@@ -38,6 +38,7 @@ tagline: Work created by our students
 
 ## Games created with [Construct3](https://www.construct.net/en)
 - [WildToastChase](WildToastChase)
+- [Mauricio](Mauricio)
 - [Knight](Knight)
 - [BloxRun](BloxRun)
 - [ScaryMaze](ScaryMaze)
