@@ -43,6 +43,7 @@ tagline: Work created by our students
 - [BloxRun](BloxRun)
 - [ScaryMaze](ScaryMaze)
 - [SkyCoins](SkyCoins)
+- [Mario](Mario)
 - [UntitledBoat](UntitledBoat)
 - [anuilhsaiha9hua](anuilhsaiha9hua)
 - [SnowballDestroyer](SnowballDestroyer)
