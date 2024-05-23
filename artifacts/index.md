@@ -140,6 +140,7 @@ tagline: Work created by our students
 
 ## Project Based Programming
 - [2024 Game Development](https://docs.google.com/presentation/d/1Kh5Jb9sx7ICbjxiLFySG7WSu9hDKFEpQG1_46kQUXVo/edit?usp=sharing)
+- [2024 Internship](https://docs.google.com/presentation/d/12vuLwZARB5WgldQidyvsnTGrRu8TNVIDj8p53SEFuVI/edit?usp=sharing)
 - [Multiple programming activities](https://docs.google.com/presentation/d/1bL1VF18_Mzlht-mc4KezsBhPYXaq2tJpNjiFz5iGf90/edit?usp=sharing)
 - [Diggy Diggy Cave Game Design Progress](https://docs.google.com/presentation/d/18fvrqX7IF-0STPU32NQnRvb26tyGQVv3P2VR5eIZh5w/edit?usp=sharing)
 - [Mixed-Activities](https://docs.google.com/presentation/d/155M00C_NMP9ypdr7s9F7OiND9tt3M0GfDdCFO3hVk4s/edit?usp=sharing)
