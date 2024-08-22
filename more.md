@@ -18,7 +18,7 @@ I am available to answer questions and offer support if you enroll in the follow
   * CIT 161 Intro to Networks*
   * CIT 180 *Security Fundamentals*
 
-BCTC offers [dual credit courses for many career pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).**
+BCTC offers [dual credit courses for many career pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
 
 I teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing* for dual credit on site. [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing* and [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* will be available next year.
 
