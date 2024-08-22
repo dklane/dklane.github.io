@@ -91,6 +91,7 @@ tagline: Resources for students to explore
 <ul>
 <li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
 <li><a href="https://www.pygame.org/wiki/about">pyGame</a> for creating graphical games</li>
+<li><a href="https://www.renpy.org/">RenPy</a> for creating graphical novels</li>
 <li><a href="https://docs.pydraw.graphics/">pyDraw</a> a student designed library for drawing graphics</li>
 <li><a href="http://inventwithpython.com/">Invent with Python</a></li>
 <li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
