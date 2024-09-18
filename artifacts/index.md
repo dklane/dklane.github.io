@@ -109,6 +109,7 @@ tagline: Work created by our students
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
 - [mf doom](https://academy.cs.cmu.edu/sharing/ghostWhiteKitten3660)
+- [mouse](https://academy.cs.cmu.edu/sharing/lavenderCow9463)
 - [rocket](https://academy.cs.cmu.edu/sharing/linenWolf8440) (reacts to mouse-movement and space-key)
 - [maze](https://academy.cs.cmu.edu/sharing/navySheep3045) (enter at the bottom of the screen, click will end the game)
 - [key race](https://academy.cs.cmu.edu/sharing/grayAlligator8615) (reacts to mouse-click, space, q and p keys. )
