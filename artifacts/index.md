@@ -109,7 +109,7 @@ tagline: Work created by our students
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
 - [cat](https://academy.cs.cmu.edu/sharing/midnightBlueHorse5357)
-= [planets and moons](https://academy.cs.cmu.edu/sharing/oldLaceBird1576)
+- [planets and moons](https://academy.cs.cmu.edu/sharing/oldLaceBird1576)
 - [mf doom](https://academy.cs.cmu.edu/sharing/ghostWhiteKitten3660)
 - [mouse](https://academy.cs.cmu.edu/sharing/lavenderCow9463)
 - [rocket](https://academy.cs.cmu.edu/sharing/linenWolf8440) (reacts to mouse-movement and space-key)
