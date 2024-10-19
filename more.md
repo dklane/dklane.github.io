@@ -9,7 +9,7 @@ I am available to answer questions and offer support if you enroll in the follow
 * Programming Certificate Pathway
   * CIT 105 *Intro to Computers*
   * CIT 120 *Computational Thinking*
-  * CIT 144 *Python 1*
+  * CIT 144 *Python 1 *
   * CIT 170 *Database Design*
   * CIT 149 *Java 1*
   * CIT 249 *Java 2*
