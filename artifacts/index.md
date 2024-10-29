@@ -108,6 +108,8 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [window](https://academy.cs.cmu.edu/sharing/siennaDog4864)
+- [mf doom](https://academy.cs.cmu.edu/sharing/gainsboroBee4783)
 - [dog](https://academy.cs.cmu.edu/sharing/tiburónAgua6693)
 - [football pitch](https://academy.cs.cmu.edu/sharing/serpienteVerdeBosque5318)
 - [sunrise](https://academy.cs.cmu.edu/sharing/peruBird9417)
@@ -121,7 +123,6 @@ tagline: Work created by our students
 - [Honduras](https://academy.cs.cmu.edu/sharing/aquamarineFox9312)
 - [cat](https://academy.cs.cmu.edu/sharing/midnightBlueHorse5357)
 - [planets and moons](https://academy.cs.cmu.edu/sharing/oldLaceBird1576)
-- [mf doom](https://academy.cs.cmu.edu/sharing/ghostWhiteKitten3660)
 - [mouse](https://academy.cs.cmu.edu/sharing/lavenderCow9463)
 - [rocket](https://academy.cs.cmu.edu/sharing/linenWolf8440) (reacts to mouse-movement and space-key)
 - [maze](https://academy.cs.cmu.edu/sharing/navySheep3045) (enter at the bottom of the screen, click will end the game)
