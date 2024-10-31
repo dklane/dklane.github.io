@@ -18,8 +18,7 @@ We will use [Modern Classroom](https://www.modernclassrooms.org/) practices that
 ## Resources
 * [CodeHS](https://codehs.com/uploads/2ac9955f5fd8796faa88e957ab8a0e24) to introduce HTML/CSS
 * [Replit](https://repl.it/) for HTML/CSS projects
-* [Learn Key](https://www.learnkey.com/course/detail/DDB90A09-1982-4F85-8D4E-641101A431DD) for HTML/CSS certification prep
-* [GMetrix](https://www.gmetrix.com/Products/Details/ITS-HTML-and-CSS-LearnKey-Course) for HTML/CSS certification prep
+* [Learn Key](https://www.learnkey.com/course/detail/DDB90A09-1982-4F85-8D4E-641101A431DD) and [GMetrix](https://www.gmetrix.com/Products/Details/ITS-HTML-and-CSS-LearnKey-Course) for HTML/CSS certification prep
 * [Construct3](https://www.construct.net/) for 2D game design
 * [Code.org](https://code.org/educate/csd) for game design using Javascript and the [Adafruit Circuit Playground](https://learn.adafruit.com/introducing-circuit-playground/overview)
 * [SparkFun](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board) for an intro to the Arduino microcontrollers
