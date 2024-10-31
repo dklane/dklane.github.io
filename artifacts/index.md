@@ -108,6 +108,7 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [one piece](https://academy.cs.cmu.edu/sharing/lavenderBlushSeal2558)
 - [window](https://academy.cs.cmu.edu/sharing/siennaDog4864)
 - [mf doom](https://academy.cs.cmu.edu/sharing/gainsboroBee4783)
 - [dog](https://academy.cs.cmu.edu/sharing/tiburónAgua6693)
@@ -116,7 +117,6 @@ tagline: Work created by our students
 - [UK](https://academy.cs.cmu.edu/sharing/tanBee8274)
 - [reds](https://academy.cs.cmu.edu/sharing/maroonOctopus3976)
 - [bear](https://academy.cs.cmu.edu/sharing/lavenderBlushMonkey2419)
-- [one piece](https://academy.cs.cmu.edu/sharing/turquoiseZebra5502)
 - [house](https://academy.cs.cmu.edu/sharing/fireBrickBird3518)
 - [jack](https://academy.cs.cmu.edu/sharing/greenTurtle7771)
 - [football](https://academy.cs.cmu.edu/sharing/pulpoVerde8565)
