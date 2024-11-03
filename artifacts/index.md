@@ -108,6 +108,8 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [green ring](https://academy.cs.cmu.edu/sharing/cornflowerBlueGoat9282)
+- [traffic light](https://academy.cs.cmu.edu/sharing/jirafaBlancoAntiguo8918)
 - [one piece](https://academy.cs.cmu.edu/sharing/lavenderBlushSeal2558)
 - [window](https://academy.cs.cmu.edu/sharing/siennaDog4864)
 - [mf doom](https://academy.cs.cmu.edu/sharing/gainsboroBee4783)
