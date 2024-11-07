@@ -18,6 +18,9 @@ I am available to answer questions and offer support if you enroll in the follow
   * CIT 111 *Computer Hardware & Software*
   * CIT 161 Intro to Networks*
   * CIT 180 *Security Fundamentals*
+* CyberSecurity
+  * CYS 100 *Cybersecurity Orientation*
+  * CYS 101 *Cybersecurity Foundations*
 
 BCTC offers [courses for many career pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
 
