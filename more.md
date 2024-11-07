@@ -16,7 +16,7 @@ I am available to answer questions and offer support if you enroll in the follow
 * CompTIA A+ prep, Net+ prep, Security+ prep
   * CIT 105 *Intro to Computers*
   * CIT 111 *Computer Hardware & Software*
-  * CIT 161 Intro to Networks*
+  * CIT 161 *Intro to Networks*
   * CIT 180 *Security Fundamentals*
 * CyberSecurity
   * CYS 100 *Cybersecurity Orientation*
