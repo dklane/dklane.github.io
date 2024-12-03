@@ -24,7 +24,7 @@ I am available to answer questions and offer support if you enroll in the follow
 
 BCTC offers [courses for many career pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
 
-I teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing* for dual credit on site. [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing* and [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* will be available next year.
+I teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing* and [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing* for dual credit on site. [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* will be available next year.
 
 We participate in the US Air Force [CyberPatriot](https://www.uscyberpatriot.org/home) competiton. All students are invited to join a team.
 
@@ -39,6 +39,11 @@ Our students also have access to Google's IT Support Certificate curriculum thro
 * Google UX Design
 * Google Business Intelligence
 * Google Digital Marketing & E-commerce
+* Google AI Essentials
+* Google Prompting Essentials
+* Foundations of Project Management
+* Foundations: Data, Data, Everywhere
+* Foundations of Cybersecurity
 * *Community colleges and high schools can [request free access](https://grow.google/certificates-edu/?utm_source=gDigital&utm_medium=emprowebsite&utm_campaign=certs&utm_content=he&utm_term=)*
 
 [Go to the Home Page]({{ site.baseurl }}{% link index.md %})

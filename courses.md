@@ -15,13 +15,15 @@ The computer science courses at Bryan Station include:
 
 * AP Computer Science Principles (**math credit and college credit**)
 
-* Project Based Programming / Internship
+* Project Based Programming
 
-* Tech Assistant
+* Tech Assistant / Paid Apprenticeship
 
 * [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing*
 
-* [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing* and [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* will be available next year
+* [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing* 
+
+* [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* will be available next year
 
 * Students who complete DPT 100, DPT 150, and DPT 280 can earn a [3D Printing Technician Certificate](https://southeast.kctcs.edu/education-training/program-finder/3d-printing.aspx) by taking additional electives.
 
