@@ -11,9 +11,9 @@ The computer science courses at Bryan Station include:
 
 * [Introduction to Programming](introprog): A graphics-based introduction to Python programming
 
-* [AP Computer Science A](csa): Object-oriented programming in Java (**math credit and college credit**)
-
 * AP Computer Science Principles (**math credit and college credit**)
+
+* [AP Computer Science A](csa): Object-oriented programming in Java (**math credit and college credit**)
 
 * Project Based Programming
 
