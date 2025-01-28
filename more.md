@@ -19,6 +19,7 @@ I am available to answer questions and offer support if you enroll in the follow
   * CIT 161 *Intro to Networks*
   * CIT 180 *Security Fundamentals*
 * CyberSecurity
+  * CIT 105 *Intro to Computers*
   * CYS 100 *Cybersecurity Orientation*
   * CYS 101 *Cybersecurity Foundations*
 
