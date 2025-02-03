@@ -25,7 +25,9 @@ I am available to answer questions and offer support if you enroll in the follow
 
 BCTC offers [courses for many career pathways](https://sites.google.com/fayette.kyschools.us/fcps-dual-credit/home).
 
-I teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing* and [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing* for dual credit on site. [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* will be available next year.
+I teach [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing*, [DPT 150](https://drive.google.com/file/d/184PuFk4I0psQ9dX3EK_ub9dRq6nVLA2Q/view?usp=sharing) *Engineering Mechanics for 3D Printing*, and [DPT 280](https://docs.google.com/document/d/184H1DDT5ICGx2EU9FERDnUXQPhIQ_YR8/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Additive Manufacturing Applications* for dual credit on site.
+
+If you plan to study engineering at a university in Kentucky, ask me about the [Transition to Engineering (T2E)](https://engr.uky.edu/academics/undergraduate-studies/first-year-engineering-program/transition-engineering-program) program! T2E takes the UK wildly successful First-Year Engineering (FYE) program required of all incoming engineering students and applies it at the high school level. Doug Klein, FYE lecturer and well-known educator within the Kentucky public school system not only directs the program but also trains the teachers who facilitate T2E in their classrooms.
 
 We participate in the US Air Force [CyberPatriot](https://www.uscyberpatriot.org/home) competiton. All students are invited to join a team.
 
