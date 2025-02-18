@@ -7,19 +7,19 @@ tagline: Additional opportunities
 I am available to answer questions and offer support if you enroll in the following BCTC courses.
 
 * Programming Certificate Pathway
-  * CIT 105 *Intro to Computers*
+  * CIT 105 *Intro to Computers (Computer Literacy)*
   * CIT 120 *Computational Thinking*
-  * CIT 144 *Python 1*
+  * CIT 144 *Python 1 (Intro to Programming)*
+  * CIT 149 *Java 1 (AP-CSA)*
   * CIT 170 *Database Design*
-  * CIT 149 *Java 1*
   * CIT 249 *Java 2*
 * CompTIA A+ prep, Net+ prep, Security+ prep
-  * CIT 105 *Intro to Computers*
-  * CIT 111 *Computer Hardware & Software*
+  * CIT 105 *Intro to Computers (Computer Literacy)*
+  * CIT 111 *Computer Hardware & Software (AP-CSP)*
   * CIT 161 *Intro to Networks*
   * CIT 180 *Security Fundamentals*
 * CyberSecurity
-  * CIT 105 *Intro to Computers*
+  * CIT 105 *Intro to Computers (Computer Literacy)*
   * CYS 100 *Cybersecurity Orientation*
   * CYS 101 *Cybersecurity Foundations*
 
