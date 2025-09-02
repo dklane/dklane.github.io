@@ -14,7 +14,7 @@ tagline: Resources for students to explore
 <h3 id="primary">Primary Resources</h3>
 <ul>
 	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://awesomeinc.org/tutorials/make-a-block-stacking-game-with-construct-3/">AwesomeInc tutorial</a>)</li>
-	<li><a href="https://academy.cs.cmu.edu/">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science</li>
+	<li><a href="https://academy.cs.cmu.edu/">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science (<a href="https://academy.cs.cmu.edu/goto-course/hoc">HOC Intro</a>)</li>
 	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice (<a href="https://codehs.com/info/pd/free">PD workshops</a>)</li>
 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
  	<li><a href="https://projectstem.org/">ProjectStem</a> for practice and testing</li>
@@ -76,7 +76,8 @@ tagline: Resources for students to explore
 <h3 id="applications">Applications</h3>
 <ul>
 	<li><a href="https://www.thinkfun.com/">Thinkfun games</a> to develop logic skills</li>
-	<li><a href="https://code.org/learn">Hour of Code</a> - one-hour tutorials designed for all ages</li>
+	<li><a href="https://code.org/learn">Hour of Code</a> offers one-hour tutorials designed for all ages</li>
+	<li><a href="https://codecombat.com/">Code Combat</a> is a popular intro to coding</li>
   	<li><a href="https://www.commonsense.org/education/top-picks/best-coding-tools-for-high-school-students">Coding tools for high school students</a></li>
  	<li><a href="https://www.microsoft.com/en-us/education/imagine-academy">Microsoft Image Academy</a> - requires an account and headphones</li>
  	<li><a href="https://code.org/educate/curriculum/express-course">Computer Science Fundamentals - Express</a> - an intro to CS topics</li>
