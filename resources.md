@@ -4,7 +4,8 @@ title: Resources
 tagline: Resources for students to explore
 ---
 <b>Jump to</b>: <a href="#primary">primary resources</a> / <a href="#secondary">secondary resources</a> / <a href="#contest">contest prep</a> /
- <a href="#standards">standards</a> / <a href="#applications">applications</a> / <a href="#python">python</a> /
+ <a href="#standards">standards</a> / <a href="#applications">applications</a> / <a href="#hoc">hour of code</a> /
+  <a href="#python">python</a> /
  <a href="#java">java</a> / <a href="#javascript">javascript</a> / <a href="#android">android</a> /
  <a href="#html">html</a> / <a href="#swift">swift</a> / <a href="#microcontrollers">microcontrollers</a> /
  <a href="#vex">vex</a> / <a href="#game">game</a> / <a href="#drone">drone</a> / <a href="#cad">cad</a> / 
@@ -76,17 +77,22 @@ tagline: Resources for students to explore
 <h3 id="applications">Applications</h3>
 <ul>
 	<li><a href="https://www.thinkfun.com/">Thinkfun games</a> to develop logic skills</li>
-	<li><a href="https://code.org/learn">Hour of Code</a> offers one-hour tutorials designed for all ages</li>
-	<li><a href="https://codecombat.com/">Code Combat</a> is a popular intro to coding</li>
-  	<li><a href="https://www.commonsense.org/education/top-picks/best-coding-tools-for-high-school-students">Coding tools for high school students</a></li>
- 	<li><a href="https://www.microsoft.com/en-us/education/imagine-academy">Microsoft Image Academy</a> - requires an account and headphones</li>
- 	<li><a href="https://code.org/educate/curriculum/express-course">Computer Science Fundamentals - Express</a> - an intro to CS topics</li>
+	<li><a href="https://www.commonsense.org/education/top-picks/best-coding-tools-for-high-school-students">Coding tools for high school students</a></li>
  	<li><a href="https://scratch.mit.edu/">Scratch</a> - Create stories, games, and animations</li>
  	<li><a href="http://scratched.gse.harvard.edu/guide/">Scratched</a> - an intro to Scratch programming</li>
 	<li><a href="https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-">How Computers Work</a> - videos from code.org</li>
    	<li><a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">How The Internet Works</a> - videos from code.org</li>
 	<li><a href="https://processing.org/">Processing</a> - Learn to code within the context of the visual arts using <a href="https://processing.org/">Java</a>, <a href="https://p5js.org/">JavaScript</a>, or <a href="https://py.processing.org/">Python</a></li>
 	<li><a href="http://earsketch.gatech.edu/">EarSketch</a> - Learn to code by making music</li>
+</ul>
+<h3 id="hoc">Hour of Code</h3>
+<ul>
+	<li>The official <a href="https://code.org/learn">HOC</a> page offers one-hour tutorials designed for all ages</li>
+	<li>Awesome Inc created an <a href="https://awesomeinc.org/tutorials/make-a-block-stacking-game-with-construct-3/">HOC intro to game design with Construct3</a></li>
+	<li>Carnegie Mellon’s CMU CS1 course includes an <a href="https://academy.cs.cmu.edu/goto-course/hoc">HOC Intro</a></li>
+	<li><a href="https://codecombat.com/">Code Combat</a> provides games to introduce coding</li>
+  	<li><a href="https://code.org/educate/curriculum/express-course">Computer Science Fundamentals - Express</a> offers a quick intro to CS topics</li>
+	<li><a href="http://earsketch.gatech.edu/">EarSketch</a> includes an HOC lesson</li>
 </ul>
 <h3 id="python">Python</h3>
 <ul>
