@@ -91,8 +91,8 @@ tagline: Resources for students to explore
 	<li>Carnegie Mellon’s CMU CS1 course includes an <a href="https://academy.cs.cmu.edu/goto-course/hoc">HOC Intro</a></li>
 	<li>Awesome Inc created an <a href="https://awesomeinc.org/tutorials/make-a-block-stacking-game-with-construct-3/">HOC intro to game design with Construct3</a></li>
 	<li><a href="https://codecombat.com/">Code Combat</a> provides games to introduce coding</li>
-  	<li><a href="https://code.org/educate/curriculum/express-course">Computer Science Fundamentals - Express</a> offers a quick intro to CS topics</li>
 	<li><a href="http://earsketch.gatech.edu/">EarSketch</a> includes an HOC lesson</li>
+	<li><a href="https://code.org/educate/curriculum/express-course">Computer Science Fundamentals - Express</a> offers a quick intro to CS topics</li>
 </ul>
 <h3 id="python">Python</h3>
 <ul>
