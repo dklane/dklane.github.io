@@ -108,6 +108,8 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [sunset with a bird](https://academy.cs.cmu.edu/sharing/fireBrickTurtle755499)
+- [hollow knight](https://academy.cs.cmu.edu/sharing/whiteSmokeAlligator268261)
 - [clicky house](https://academy.cs.cmu.edu/sharing/goldFly8598)
 - [hungry frog](https://academy.cs.cmu.edu/sharing/redFish2618)
 - [password game](https://academy.cs.cmu.edu/sharing/maroonPuppy2754)
