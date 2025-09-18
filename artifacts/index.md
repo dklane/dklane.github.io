@@ -101,8 +101,11 @@ tagline: Work created by our students
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
 - [light sabers](https://academy.cs.cmu.edu/sharing/blackEagle393652)
+- [sunset with random stars above a mountain](https://academy.cs.cmu.edu/sharing/brownGoldfish743950)
+- [millennium puzzle](https://academy.cs.cmu.edu/sharing/slateBlueZebra525958)
 - [one piece](https://academy.cs.cmu.edu/sharing/yellowTiger192145)
 - [stickman eating a taco](https://academy.cs.cmu.edu/sharing/azureLion124339)
+- [reverse flash](https://academy.cs.cmu.edu/sharing/ghostWhiteSnake091346)
 - [person sitting on the roof](https://academy.cs.cmu.edu/sharing/orchidScorpion041913)
 - [light house on an island](https://academy.cs.cmu.edu/sharing/goldenrodCat905537)
 - [sunset with a bird](https://academy.cs.cmu.edu/sharing/fireBrickTurtle755499)
