@@ -9,7 +9,7 @@ tagline: Work created by our students
 - [Eco Living Solutions](https://ecolivingsolutions.dlane.org/)
 - [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
-- [Snake Wars](https://snake-wars.dklane.repl.co/)
+- [Nene Page](https://the1nene.codehs.me/)
 - [Danzplanet](https://aiwrhossfr-2094966054-usgnpxlphg-t.codehs.me/index.html)
 - [Trumpet](https://lvevzyyreq-2094966077-usgnpxlphg-t.codehs.me/index.html)
 - [Bengals](https://gqhxngoohx-2094966071-usgnpxlphg-t.codehs.me/index.html)
