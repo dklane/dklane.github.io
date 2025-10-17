@@ -6,10 +6,10 @@ tagline: Work created by our students
 **Jump To**: [Websites](#website-projects) / [Construct](#games-created-with-construct3) / [Unity](#games-created-with-unity) / [Python](#interactive-art-created-with-python-and-the-cmu-graphics-library) / [Projects](#project-based-programming)
 
 ## HTML/CSS projects
+- [Nene Page](https://the1nene.codehs.me/)
 - [Eco Living Solutions](https://ecolivingsolutions.dlane.org/)
 - [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
-- [Nene Page](https://the1nene.codehs.me/)
 - [Danzplanet](https://aiwrhossfr-2094966054-usgnpxlphg-t.codehs.me/index.html)
 - [Trumpet](https://lvevzyyreq-2094966077-usgnpxlphg-t.codehs.me/index.html)
 - [Bengals](https://gqhxngoohx-2094966071-usgnpxlphg-t.codehs.me/index.html)
