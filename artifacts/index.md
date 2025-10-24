@@ -100,6 +100,12 @@ tagline: Work created by our students
 - [Space](https://play.unity.com/mg/other/webgl-builds-182109)
 
 ## Interactive art created with Python and the [CMU graphics library](https://academy.cs.cmu.edu/desktop)
+- [light saber battle](https://academy.cs.cmu.edu/sharing/oldLaceBear532316) (reacts to a mouse click)
+- [stars](https://academy.cs.cmu.edu/sharing/lavenderDeer539834) (reacts to a mouse click)
+- [flash](https://academy.cs.cmu.edu/sharing/peruSnail088900) (reacts to a mouse click)
+- [apex](https://academy.cs.cmu.edu/sharing/gainsboroZebra125919) (reacts to a mouse click)
+- [row your boat](https://academy.cs.cmu.edu/sharing/plumMonkey862573) (reacts to a mouse click)
+- [shooting star](https://academy.cs.cmu.edu/sharing/crimsonPuppy152357) (reacts to a mouse click)
 - [light sabers](https://academy.cs.cmu.edu/sharing/blackEagle393652)
 - [sunset with random stars above a mountain](https://academy.cs.cmu.edu/sharing/brownGoldfish743950)
 - [millennium puzzle](https://academy.cs.cmu.edu/sharing/slateBlueZebra525958)
