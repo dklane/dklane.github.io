@@ -7,6 +7,7 @@ tagline: Work created by our students
 
 ## HTML/CSS projects
 - [Nene Page](https://the1nene.codehs.me/)
+- [Cats and Chickens](https://catswithchicken.codehs.me/)
 - [Eco Living Solutions](https://ecolivingsolutions.dlane.org/)
 - [Cosmic Launch](CosmicLaunch)
 - [Dash Wars](DashWars)
