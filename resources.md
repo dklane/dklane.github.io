@@ -109,7 +109,7 @@ tagline: Resources for students to explore
 </ul>
 <li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
 <ul>
-<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EWi1ekb2Hq9Nph-G2s68d5YBo-F7D_QChrDhE9h2J3Wzng?e=Qbb0f8">Read</a>
+<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EWi1ekb2Hq9Nph-G2s68d5YBo-F7D_QChrDhE9h2J3Wzng?e=Qbb0f8">Read</a></li>
 <li><a href="https://github.com/ehmatthes/python_teaching_fall_2018">Teaching notes from Eric Matthes</a></li>
 </ul>
 <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
