@@ -99,25 +99,28 @@ tagline: Resources for students to explore
 <li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
 <li><a href="https://www.pygame.org/wiki/about">pyGame</a> for creating graphical games</li>
 <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
-<li><a href="https://www.renpy.org/">RenPy</a> for creating graphical novels</li>
-<li><a href="https://docs.pydraw.graphics/">pyDraw</a> a student designed library for drawing graphics</li>
 <li><a href="http://inventwithpython.com/">Invent with Python</a></li>
+<ul>
 <li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
 <li><a href="http://inventwithpython.com/cracking/">Cracking Codes with Python</a></li>
 <li><a href="http://inventwithpython.com/invent4thed/">Invent Your Own Computer Games with Python</a></li>
 <li><a href="http://inventwithpython.com/pygame/">Making Games with Python &amp; Pygame</a></li>
 <li><a href="https://alsweigart.com/">Al Sweigart's home page</a></li>
+</ul>
 <li><a href="https://nostarch.com/pythoncrashcourse">Python Crash Course</a></li>
+<ul>
+<li><a href="https://fayettekyschools-my.sharepoint.com/:b:/g/personal/david_lane_fayette_kyschools_us/EWi1ekb2Hq9Nph-G2s68d5YBo-F7D_QChrDhE9h2J3Wzng?e=Qbb0f8">Read</a>
 <li><a href="https://github.com/ehmatthes/python_teaching_fall_2018">Teaching notes from Eric Matthes</a></li>
+</ul>
 <li><a href="https://greenteapress.com/wp/think-python-2e/">Think Python 2e</a></li>
 <li><a href="https://www.teachyourselfpython.com/">Teach Yourself Python</a></li>
 <li><a href="http://pythontutor.com/">PythonTutor</a> visualize your code </li>
+<li><a href="https://www.renpy.org/">RenPy</a> for creating graphical novels</li>
+<li><a href="https://docs.pydraw.graphics/">pyDraw</a> a student designed library for drawing graphics</li>
 <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Tutorial videos by Corey Schafer</a></li>
 <li><a href="https://yawpitchroll.com/posts/the-35-words-you-need-to-python/">The 35 Words You Need to Python</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Python for Beginners</a> - videos from Microsoft</li>
-<li><a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Microsoft Beginner's Series to: Python</a></li>
 <li><a href="https://thonny.org/">Thonny</a> A Python IDE for beginners</li>
-<li><a href="https://colab.research.google.com/">Google Colab</a> allows you to write and execute Python in your browser</li>
 </ul>
 <h3 id="java">Java</h3>
 <ul>
