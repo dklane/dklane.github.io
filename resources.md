@@ -97,7 +97,7 @@ tagline: Resources for students to explore
 <h3 id="python">Python</h3>
 <ul>
 <li><a href="https://docs.python.org/3/">The official Python documentation</a></li>
-<li><a href="https://www.pygame.org/wiki/about">pyGame</a> for creating graphical games</li>
+<li><a href="https://www.pygame.org/docs/">pyGame</a> for creating graphical games</li>
 <li><a href="http://programarcadegames.com/">Program Arcade Games With Python And Pygame</a></li>
 <li><a href="http://inventwithpython.com/">Invent with Python</a></li>
 <ul>
