@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-tagline: Resources for students to explore
+tagline: Resources to explore
 ---
 <b>Jump to</b>: <a href="#primary">primary resources</a> / <a href="#secondary">secondary resources</a> / <a href="#contest">contest prep</a> /
  <a href="#standards">standards</a> / <a href="#applications">applications</a> / <a href="#hoc">hour of code</a> /
