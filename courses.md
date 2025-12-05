@@ -9,7 +9,7 @@ The computer science courses at Bryan Station include:
 
 * [Computational Thinking](compthink): Topics related to web design, game design, and microcontrollers
 
-* ~~[Introduction to Programming](introprog): A graphics-based introduction to Python programming~~ (merging with Comp Think)
+* ~~[Introduction to Programming](introprog): A graphics-based intro to Python~~ (merging with Comp Think)
 
 * AP Computer Science Principles (**math credit and college credit**)
 
