@@ -187,6 +187,8 @@ tagline: Work created by our students
 - [FreeRunnerProject](https://docs.google.com/document/d/1P0UmBRYfXyhqKjdxU9C378lm7enlKFAz/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true)
 - [WeatherBot](https://docs.google.com/presentation/d/14uDDzs5PqHAJgXLwX3YTiOPFtfhp2MW38VcQQ6bw0bE/edit?usp=sharing)
 - [UnityGame](https://docs.google.com/presentation/d/1Z6ELAogZtp8p8MoQ9WTXOxlJZVn7QpzKxknl4qSBqbs/edit?usp=sharing)
+- [CodeHS hosted](https://codehs.com/sandbox/dlane000/aliens/run)
+<iframe width="850" height="500" src="https://codehs.com/sandbox/dlane000/aliens/embed/?display_mode=displayOnly&show_file_tree=False" frameborder="0" allowfullscreen class="video-iframe"></iframe>
 
 ## Drone Videos
 - [Eastside Mini Tour](https://www.youtube.com/watch?v=Nx_zW7QgjXE)
