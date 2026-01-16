@@ -14,7 +14,7 @@ tagline: Resources to explore
  <a href="#games">games</a>
 <h3 id="primary">Primary Resources</h3>
 <ul>
-	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://awesomeinc.org/tutorials/make-a-block-stacking-game-with-construct-3/">tutorial from AwesomeInc</a>)</li>
+	<li><a href="https://www.construct.net/en">Construct3</a> a web based 2D game design tool for Computational Thinking (<a href="https://awesomeinc.org/tutorials/make-a-block-stacking-game-with-construct-3/">AwesomeInc tutorial</a>)</li>
 	<li><a href="https://academy.cs.cmu.edu/">CMU CS Academy</a> from Carnegie Mellon’s School of Computer Science (<a href="https://academy.cs.cmu.edu/goto-course/hoc">HOC Intro</a>)</li>
 	<li><a href="https://codehs.com/info/curriculum">CodeHS</a> for coding practice (<a href="https://codehs.com/info/pd/free">PD workshops</a>)</li>
 	<li><a href="https://code.org/educate/csd">CS Discoveries</a> for Computational Thinking</li>
