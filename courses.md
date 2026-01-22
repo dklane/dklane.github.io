@@ -17,7 +17,7 @@ The computer science courses at Bryan Station include:
 
 * Project-Based Programming
 
-* Tech Apprenticeship
+* Computer Science Internship (a two-year paid apprenticeship)
 
 * [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing*
 
