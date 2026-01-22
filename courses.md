@@ -15,9 +15,9 @@ The computer science courses at Bryan Station include:
 
 * [AP Computer Science A](csa): Object-oriented programming in Java (**math credit and college credit**)
 
-* Project Based Programming
+* Project-Based Programming
 
-* Tech Assistant / Paid Apprenticeship
+* Tech Apprenticeship
 
 * [DPT 100](https://docs.google.com/document/d/1xKCmSRuOJnwX1Sy_sEcJkh6G8xEw7_JK/edit?usp=sharing&ouid=115616065750392902647&rtpof=true&sd=true) *Intro to 3D Printing*
 
