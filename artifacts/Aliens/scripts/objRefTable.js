@@ -1,0 +1,73 @@
+const C3 = self.C3;
+self.C3_GetObjectRefTable = function () {
+	return [
+		C3.Plugins.TiledBg,
+		C3.Plugins.Mouse,
+		C3.Plugins.Keyboard,
+		C3.Plugins.Sprite,
+		C3.Behaviors.bound,
+		C3.Behaviors.EightDir,
+		C3.Plugins.Text,
+		C3.Plugins.Button,
+		C3.Plugins.Sprite.Cnds.OnCollision,
+		C3.Plugins.Sprite.Acts.Destroy,
+		C3.Plugins.System.Acts.AddVar,
+		C3.Plugins.System.Cnds.EveryTick,
+		C3.Plugins.Text.Acts.SetText,
+		C3.Plugins.System.Cnds.CompareVar,
+		C3.Plugins.System.Acts.GoToLayout,
+		C3.Plugins.Button.Cnds.OnClicked
+	];
+};
+self.C3_JsPropNameTable = [
+	{TiledBackground: 0},
+	{Mouse: 0},
+	{Keyboard: 0},
+	{BoundToLayout: 0},
+	{"8Direction": 0},
+	{Sprite: 0},
+	{Sprite2: 0},
+	{Text: 0},
+	{Button: 0},
+	{Text2: 0},
+	{Text3: 0},
+	{Text4: 0},
+	{TiledBackground2: 0},
+	{TiledBackground3: 0},
+	{Text5: 0},
+	{TiledBackground4: 0},
+	{Text6: 0},
+	{TiledBackground5: 0},
+	{TiledBackground6: 0},
+	{TiledBackground7: 0},
+	{TiledBackground8: 0},
+	{TiledBackground9: 0},
+	{TiledBackground10: 0},
+	{TiledBackground11: 0},
+	{score: 0}
+];
+
+self.InstanceType = {
+	TiledBackground: class extends self.ITiledBackgroundInstance {},
+	Mouse: class extends self.IInstance {},
+	Keyboard: class extends self.IInstance {},
+	Sprite: class extends self.ISpriteInstance {},
+	Sprite2: class extends self.ISpriteInstance {},
+	Text: class extends self.ITextInstance {},
+	Button: class extends self.IButtonInstance {},
+	Text2: class extends self.ITextInstance {},
+	Text3: class extends self.ITextInstance {},
+	Text4: class extends self.ITextInstance {},
+	TiledBackground2: class extends self.ITiledBackgroundInstance {},
+	TiledBackground3: class extends self.ITiledBackgroundInstance {},
+	Text5: class extends self.ITextInstance {},
+	TiledBackground4: class extends self.ITiledBackgroundInstance {},
+	Text6: class extends self.ITextInstance {},
+	TiledBackground5: class extends self.ITiledBackgroundInstance {},
+	TiledBackground6: class extends self.ITiledBackgroundInstance {},
+	TiledBackground7: class extends self.ITiledBackgroundInstance {},
+	TiledBackground8: class extends self.ITiledBackgroundInstance {},
+	TiledBackground9: class extends self.ITiledBackgroundInstance {},
+	TiledBackground10: class extends self.ITiledBackgroundInstance {},
+	TiledBackground11: class extends self.ITiledBackgroundInstance {}
+}

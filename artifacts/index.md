@@ -36,6 +36,7 @@ tagline: Work created by our students
 - [Wizard](Wizard)
 - [DodgeCars](DodgeCars)
 - [CopsRobbers](CopsRobbers)
+- [Aliens](Aliens)
 - [HorseGames](HorseGames)
 - [JetpackJoe](JetpackJoe)
 - [Collection](Collection)
