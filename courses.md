@@ -5,7 +5,7 @@ tagline: Courses in our computer programming pathway
 ---
 The computer science courses at Bryan Station include:
 
-* [Computer Literacy](complit): An overview of computer hardware, office applications, and digital literacy
+* ~~[Computer Literacy](complit): An overview of computer hardware, office applications, and digital literacy~~ (not offered in 2026-27)
 
 * [Computational Thinking](compthink): Topics related to web design, game design, and microcontrollers
 
