@@ -34,6 +34,7 @@ tagline: Work created by our students
 - [Boxed_In_A_Maze](Boxed_In_A_Maze)
 - [WildToastChase](WildToastChase)
 - [Wizard](Wizard)
+- [RoadRager](RoadRager)
 - [DodgeCars](DodgeCars)
 - [CopsRobbers](CopsRobbers)
 - [Aliens](Aliens)
