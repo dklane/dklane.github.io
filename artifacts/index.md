@@ -30,11 +30,11 @@ tagline: Work created by our students
 - [HorseRacingMap](https://padlet.com/davidlane3/t8k8ypwlef98dn05)
 
 ## Games created with [Construct3](https://www.construct.net/en)
+- [Plat (under development)](Plat)
 - [FloppaFantasticFeast](FloppaFantasticFeast)
 - [Boxed_In_A_Maze](Boxed_In_A_Maze)
 - [WildToastChase](WildToastChase)
 - [Wizard](Wizard)
-- [Plat under development](Plat)
 - [RoadRager](RoadRager)
 - [DodgeCars](DodgeCars)
 - [CopsRobbers](CopsRobbers)
