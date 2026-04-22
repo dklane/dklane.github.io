@@ -22,13 +22,16 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.Spawn,
 		C3.Plugins.Sprite.Cnds.OnCollision,
 		C3.Behaviors.Platform.Acts.SetAcceleration,
-		C3.Plugins.Sprite.Acts.Destroy
+		C3.Plugins.Sprite.Acts.Destroy,
+		C3.Behaviors.Platform.Cnds.IsOnFloor,
+		C3.Plugins.System.Cnds.Else
 	];
 };
 self.C3_JsPropNameTable = [
 	{Keyboard: 0},
 	{Nextlvlbutton: 0},
 	{Mouse: 0},
+	{Instructions: 0},
 	{Platform: 0},
 	{ScrollTo: 0},
 	{Player: 0},
@@ -40,14 +43,19 @@ self.C3_JsPropNameTable = [
 	{TBground: 0},
 	{BG: 0},
 	{Player2: 0},
+	{Player3: 0},
+	{Player4: 0},
+	{Player5: 0},
 	{lvl1endtxt: 0},
-	{StartText: 0}
+	{StartText: 0},
+	{Inst: 0}
 ];
 
 self.InstanceType = {
 	Keyboard: class extends self.IInstance {},
 	Nextlvlbutton: class extends self.ISpriteInstance {},
 	Mouse: class extends self.IInstance {},
+	Instructions: class extends self.ISpriteInstance {},
 	Player: class extends self.ISpriteInstance {},
 	EndFlag: class extends self.ISpriteInstance {},
 	Spawn: class extends self.ISpriteInstance {},
@@ -56,6 +64,10 @@ self.InstanceType = {
 	TBground: class extends self.ITiledBackgroundInstance {},
 	BG: class extends self.ISpriteInstance {},
 	Player2: class extends self.ISpriteInstance {},
+	Player3: class extends self.ISpriteInstance {},
+	Player4: class extends self.ISpriteInstance {},
+	Player5: class extends self.ISpriteInstance {},
 	lvl1endtxt: class extends self.ITextInstance {},
-	StartText: class extends self.ITextInstance {}
+	StartText: class extends self.ITextInstance {},
+	Inst: class extends self.ITextInstance {}
 }
