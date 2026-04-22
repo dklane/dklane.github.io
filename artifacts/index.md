@@ -37,6 +37,7 @@ tagline: Work created by our students
 - [Wizard](Wizard)
 - [Monster](Monster)
 - [Bear](Bear)
+- [Gold](Gold)
 - [Clicker](Clicker)
 - [RoadRager](RoadRager)
 - [DodgeCars](DodgeCars)
