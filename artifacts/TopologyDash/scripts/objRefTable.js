@@ -10,7 +10,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Behaviors.Sin,
 		C3.Plugins.Button,
 		C3.Plugins.Keyboard,
-		C3.Behaviors.jumpthru,
 		C3.Plugins.Sprite.Cnds.OnCollision,
 		C3.Plugins.Sprite.Acts.Destroy,
 		C3.Plugins.System.Acts.Wait,
@@ -38,7 +37,6 @@ self.C3_JsPropNameTable = [
 	{Keyboard: 0},
 	{Sprite4: 0},
 	{Sprite5: 0},
-	{Jumpthru: 0},
 	{TopologyOrb: 0},
 	{FinishLine: 0},
 	{WinningText: 0},
@@ -51,7 +49,12 @@ self.C3_JsPropNameTable = [
 	{Sprite: 0},
 	{TopologyOrb2: 0},
 	{Sprite6: 0},
-	{Sprite7: 0}
+	{Sprite7: 0},
+	{LevelButton: 0},
+	{Text4: 0},
+	{Spirnterpng: 0},
+	{Level1Button: 0},
+	{Text5: 0}
 ];
 
 self.InstanceType = {
@@ -76,5 +79,10 @@ self.InstanceType = {
 	Sprite: class extends self.ISpriteInstance {},
 	TopologyOrb2: class extends self.ISpriteInstance {},
 	Sprite6: class extends self.ISpriteInstance {},
-	Sprite7: class extends self.ISpriteInstance {}
+	Sprite7: class extends self.ISpriteInstance {},
+	LevelButton: class extends self.IButtonInstance {},
+	Text4: class extends self.ITextInstance {},
+	Spirnterpng: class extends self.ISpriteInstance {},
+	Level1Button: class extends self.IButtonInstance {},
+	Text5: class extends self.ITextInstance {}
 }
