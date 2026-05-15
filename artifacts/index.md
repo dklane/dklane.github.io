@@ -186,6 +186,8 @@ tagline: Work created by our students
 - [Face](https://academy.cs.cmu.edu/sharing/saddleBrownMouse7178)
 
 ## Project Based Programming
+- [2026 First Robotics](https://docs.google.com/presentation/d/1sMmW_j3XwBvzPwuHZQLn0Xpma2FB_pOQeYkoYvJTjMI/edit?usp=sharing)
+- [Making a platformer](https://docs.google.com/presentation/d/1401LkNn4j9GVwHe5tpSMx0z0OLWDSPM2B8yMN_h2fgs/edit?usp=sharing)
 - [Intelligent Flight & Autonomous Programming](https://docs.google.com/presentation/d/17hbEjUBhTgZtViI-s0pKLeEI7u2mBFTXZvCa3xtiU4w/edit?usp=sharing)
 - [The Basics of codrone](https://docs.google.com/presentation/d/1aYvYcCd2Zriecd0Ow7H4Nxb-I6558-yxBWe0WSeZM9I/edit?slide=id.g3dc031c7ab5_0_451#slide=id.g3dc031c7ab5_0_451)
 - [2024 Game Development](https://docs.google.com/presentation/d/1Kh5Jb9sx7ICbjxiLFySG7WSu9hDKFEpQG1_46kQUXVo/edit?usp=sharing)
