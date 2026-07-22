@@ -27,7 +27,7 @@ tagline: Resources to explore
 </ul>
 <h3 id="secondary">Secondary Resources</h3>
 <ul>
-	<li><a href="http://bit.ly/bshsbooks">eBook Collection</a> </li>
+	<li><a href="https://drive.google.com/drive/folders/1IAEbZpkM8LXj7bY7RBR1W_jyWRNIzKxo?usp=sharing">eBook Collection</a> </li>
 	<li><a href="https://www.bebraschallenge.org/">Bebras</a> for an annual K12 logic challenge</li>
 	<li><a href="https://cs50.harvard.edu/x/">CS50 Puzzle Day</a> for an annual logic challenge</li>
 	<li><a href="https://www.juicemind.com/">Juicemind</a> offers interactive quizzes for CS topics</li>
