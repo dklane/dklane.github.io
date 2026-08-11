@@ -3,7 +3,7 @@ layout: page
 title: Certifications
 tagline: Industry certifications
 ---
-EMR students are encouraged to earn at least one of the following industry certifications:
+**EMR students are encouraged to earn at least one of the following industry certifications:**
 
 Certifications through Certiport's [Autodesk Certifications](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
 * [Autodesk AutoCAD Certified User](https://certiport.filecamp.com/s/i/AutoCAD)
@@ -18,7 +18,7 @@ Certifications through Certiport's [Autodesk Certifications](https://certiport.p
 * ArcGIS Desktop Entry Certification 
 * Onshape Certified Associate Exam
 
-IT students are encouraged to earn at least two of the following industry certifications:
+**IT students are encouraged to earn at least two of the following industry certifications:**
 
 IC3 Digital Literacy
 * [IC3 Global Standard 6](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Certify/IC3-Global-Standard-6) in Computer Literacy
