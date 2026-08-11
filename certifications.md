@@ -3,12 +3,27 @@ layout: page
 title: Certifications
 tagline: Industry certifications
 ---
-Students are encouraged to pursue the following industry certifications:
+EMR students are encouraged to earn at least one of the following industry certifications:
+
+Certifications through Certiport's [Autodesk Certifications](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
+* [Autodesk AutoCAD Certified User](https://certiport.filecamp.com/s/i/AutoCAD)
+* [Autodesk Fusion 360 Certified User](https://certiport.filecamp.com/s/i/Fusion)
+* [Autodesk Inventor Certified User](https://certiport.filecamp.com/s/i/Inventor)
+* [Autodesk Revit Certified User](https://certiport.filecamp.com/s/i/Revit)
+* Certified Solid Works Associate 
+* FAA ‐ Remote Pilot Certificate (Part 107)
+* NOCTI - CAD Foundations 
+* REC - Foundation Pre-Engineering Certification 
+* REC - Foundation Robotics Certification 
+* ArcGIS Desktop Entry Certification 
+* Onshape Certified Associate Exam
+
+IT students are encouraged to earn at least two of the following industry certifications:
 
 IC3 Digital Literacy
 * [IC3 Global Standard 6](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Certify/IC3-Global-Standard-6) in Computer Literacy
 
-Programming Certifications through Certiport's [IT Specialist Certification](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
+Certifications through Certiport's [IT Specialist Certification](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
 * [HTML/CSS](https://certiport.pearsonvue.com/fc/ITS/htmlcss) in Computational Thinking
 * [Python](https://certiport.pearsonvue.com/fc/ITS/python) in Intro to Programming
 * [Java](https://certiport.pearsonvue.com/fc/ITS/java) in AP-CSA
@@ -23,14 +38,7 @@ Programming Certifications through Certiport's [IT Specialist Certification](htt
 * _[Animate](https://certiport.pearsonvue.com/fc/aca/od/cc2021/animate) for the Game Design pathway_
 
 CompTIA
-* [IT Fundamentals](https://www.comptia.org/certifications/it-fundamentals) in CIT 111
 * _[A+](https://www.comptia.org/certifications/a) in CIT 111 for the Cyber Engineering pathway_
-
-TestOut
-* _[Security Pro](https://w3.testout.com/pro-certifications/security-pro) in CYS 101 for the Cyber Engineering pathway_
-
-Autodesk
-* _[Fusion 360](https://certiport.pearsonvue.com/fc/autodesk/od/acu/fusion-360) for the Additive Manufacturing pathway_
 
 Career and Technical Education
 * [End-of-Program Assessments](https://education.ky.gov/CTE/endofprog/Pages/default.aspx)

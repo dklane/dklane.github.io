@@ -1,8 +1,22 @@
 ---
 layout: page
 title: Courses
-tagline: Courses in our computer programming pathway
+tagline: Courses in our EMR and computer programming pathway
 ---
+The engineering design courses at Bryan Station include:
+
+* Engineering 1
+
+* Engineering 2
+
+* Technical Design
+
+* Capstone, Co-op, or Internship
+
+* Intro to 3D Printing
+
+* AP Computer Science A, AP Computer Science Principles, or Computational Thinking
+
 The computer science courses at Bryan Station include:
 
 * [Computational Thinking](compthink): Topics related to web design, game design, and microcontrollers
