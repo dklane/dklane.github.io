@@ -9,7 +9,7 @@ The engineering design courses at Bryan Station include:
 
 * Engineering 2
 
-* Technical Design
+* Technical Design, Manufacturing Engineering, or Robotics Engineering
 
 * Capstone, Co-op, or Internship
 
