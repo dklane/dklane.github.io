@@ -27,5 +27,5 @@ and earn [industry certifications](certifications).
 I also host or assist our [Hiking Club](https://bshs.fcps.net/students/clubs/hiking-club), SAT Club, [Cyberpatriots team](https://www.uscyberpatriot.org/), and [Technology Student Association (TSA)](https://tsaweb.org/tsa).
 
 David Lane,
-IT Teacher,
+EMR Teacher,
 [david.lane at fayette.kyschools.us]
