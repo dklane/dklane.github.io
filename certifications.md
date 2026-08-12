@@ -5,11 +5,13 @@ tagline: Industry certifications
 ---
 **EMR students are encouraged to earn at least one of the following industry certifications:**
 
-Certifications through Certiport's [Autodesk Certifications](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
+Certiport's [Autodesk Certifications](https://certiport.pearsonvue.com/Certifications/Autodesk/Certifications/Certify)
 * [Autodesk AutoCAD Certified User](https://certiport.filecamp.com/s/i/AutoCAD)
 * [Autodesk Fusion 360 Certified User](https://certiport.filecamp.com/s/i/Fusion)
 * [Autodesk Inventor Certified User](https://certiport.filecamp.com/s/i/Inventor)
 * [Autodesk Revit Certified User](https://certiport.filecamp.com/s/i/Revit)
+
+Other certifications
 * Certified Solid Works Associate 
 * FAA ‐ Remote Pilot Certificate (Part 107)
 * NOCTI - CAD Foundations 
@@ -23,7 +25,7 @@ Certifications through Certiport's [Autodesk Certifications](https://certiport.p
 IC3 Digital Literacy
 * [IC3 Global Standard 6](https://certiport.pearsonvue.com/Certifications/IC3/Digital-Literacy-Certification/Certify/IC3-Global-Standard-6) in Computer Literacy
 
-Certifications through Certiport's [IT Specialist Certification](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
+Certiport's [IT Specialist Certification](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify)
 * [HTML/CSS](https://certiport.pearsonvue.com/fc/ITS/htmlcss) in Computational Thinking
 * [Python](https://certiport.pearsonvue.com/fc/ITS/python) in Intro to Programming
 * [Java](https://certiport.pearsonvue.com/fc/ITS/java) in AP-CSA
