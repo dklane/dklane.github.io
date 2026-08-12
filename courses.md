@@ -5,11 +5,11 @@ tagline: Courses in our EMR and computer programming pathway
 ---
 **The engineering design courses at Bryan Station include:**
 
-* Engineering 1
+* [Engineering 1](eng1)
 
 * Engineering 2
 
-* Technical Design, Manufacturing Engineering, or Robotics Engineering
+* [Technical Design](techdesign), Manufacturing Engineering, or Robotics Engineering
 
 * Capstone, Co-op, or Internship
 
